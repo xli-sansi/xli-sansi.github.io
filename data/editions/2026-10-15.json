@@ -1,7 +1,18 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-15T15:41:11+08:00",
+  "updatedAt": "2026-10-15T09:28:06.086Z",
   "news": [
+    {
+      "id": "n-anthropic-1015",
+      "title": "路透：Anthropic向潜在投资者披露营收增长",
+      "body": "与会者称公司第三季营收环比增长45%。",
+      "detail": "消息来自与会者转述，属于公司向投资者提供的信息，非独立审计确认；不能当作阿莫代伊本人原话。",
+      "url": "https://www.reuters.com/business/finance/anthropics-q3-revenue-surges-45-nearly-17-billion-2026-10-14/",
+      "org": "Reuters · 与会者消息",
+      "date": "2026-10-15 06:27北京时间；会议：美国10-14",
+      "archiveDate": "2026-10-15",
+      "kind": "科技新闻"
+    },
     {
       "id": "20261015-tsmc",
       "title": "台积电公布三季度财报：净利润同比增长68.7%",
@@ -11,7 +22,13 @@
       "url": "https://pr.tsmc.com/chinese/news/3346",
       "date": "2026-10-15 · 北京时间当日发布",
       "archiveDate": "2026-10-15",
-      "kind": "当日消息"
+      "kind": "当日消息",
+      "sources": [
+        {
+          "name": "Reuters：需求与审慎规划",
+          "url": "https://www.reuters.com/world/asia-pacific/tsmc-expected-report-sixth-straight-quarter-record-profit-thanks-ai-boom-2026-10-14/"
+        }
+      ]
     },
     {
       "id": "20261015-samsung",
@@ -43,17 +60,6 @@
       "detail": "为什么重要：AI产业的配套需求不只在模型开发，也在培训、实操与岗位匹配。计划包括课程与技能认证、实践活动和就业连接。合作方包括教育与就业机构、行业组织及JobsDB。项目启动不等于已实现就业成果；后续应看完成率、就业率和雇主反馈，而非只看培训人数。",
       "url": "https://news.microsoft.com/source/asia/2026/10/15/thailand-becomes-first-country-to-launch-microsoft-elevate-ai-and-jobs-national-coalition/",
       "date": "2026-10-15 · 官方发布",
-      "archiveDate": "2026-10-15",
-      "kind": "当日消息"
-    },
-    {
-      "id": "1015-nz",
-      "title": "微软新西兰发文：数字韧性取决于控制、安全与恢复能力",
-      "org": "Microsoft · 署名观点文章",
-      "body": "微软新西兰主管Lewis Mills今日撰文，提出选择数字基础设施时，应同时检查数据访问权、安全保障和故障后的恢复能力，而非只看服务器在哪里。",
-      "detail": "为什么重要：企业采购AI与云服务，长期依赖、迁移和退出安排会影响实际可用性。这是供应商署名观点，不是中立评测或新出台的政策。可借鉴的问题：谁能访问数据？能否导出或删除？供应商中断时如何继续工作？不据此直接推导任何国家的合规结论。",
-      "url": "https://news.microsoft.com/source/asia/2026/10/15/sovereignty-by-design-digital-resilience-in-nz/",
-      "date": "2026-10-15 · 署名文章",
       "archiveDate": "2026-10-15",
       "kind": "当日消息"
     },
@@ -146,201 +152,19 @@
       "date": "本期分析：2026-10-15 · 需求待验证",
       "archiveDate": "2026-10-15",
       "kind": "编辑分析"
-    },
-    {
-      "id": "t-visual",
-      "title": "技术可视化：把复杂流程变成客户看懂的内容",
-      "body": "海外工业企业的销售与展示需要解释复杂系统。你的设计经验可与技术信息表达结合。",
-      "detail": "最小试验：从公开材料制作一页有出处的流程图，向3家企业询问是否存在外包需求、预算和决策人。难点是技术准确性、素材授权和修改成本；没有询价不宣称市场已成立。",
-      "url": "https://www.asml.com/en/technology/how-we-innovate",
-      "org": "依据：ASML产业资料",
-      "date": "本期分析：2026-10-15 · 需求待验证",
-      "archiveDate": "2026-10-15",
-      "kind": "编辑分析"
-    },
-    {
-      "id": "t-shop",
-      "title": "门店与履约：线上订单改变后台空间",
-      "body": "Ocado方案提示一个空间问题：门店可以同时承担现场购物与线上履约，但两套动线需要协调。",
-      "detail": "可研究现有零售空间的流程诊断。先观察补货、拣选、交接时段和拥堵，不先假设需要机器人。试验交付是动线图与改造选项，收益要靠订单和工时实测。",
-      "url": "https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/store-based-automation",
-      "org": "依据：Ocado官方方案",
-      "date": "本期分析：2026-10-15 · 需求待验证",
-      "archiveDate": "2026-10-15",
-      "kind": "编辑分析"
-    },
-    {
-      "id": "t-prototype",
-      "title": "增材制造：先卖设计验证，再考虑购买机器",
-      "body": "EOS伙伴网络说明，生产可由服务商承担，设计者可以先验证客户是否需要更快的小批量样件。",
-      "detail": "从展示模型或非承力零件开始，找两家服务商询价并制作小样。比较尺寸精度、表面效果、运输和返工。不能由海外案例推断本地供需缺口，也不建议未获订单就囤设备。",
-      "url": "https://www.eos.info/partners/manufacturing-partners",
-      "org": "依据：EOS伙伴网络",
-      "date": "本期分析：2026-10-15 · 需求待验证",
-      "archiveDate": "2026-10-15",
-      "kind": "编辑分析"
-    },
-    {
-      "id": "t-cooling",
-      "title": "数据中心服务：先看运维细节，再看资本热度",
-      "body": "环境测量与校准案例提示：算力建设的配套环节需要持续服务。",
-      "detail": "观察温湿度监测、技术资料和培训等具体任务。可先调研运维服务商需要什么文档或可视化交付。工程、设备校准和安全责任不应由无资质团队承担。",
-      "url": "https://www.vaisala.com/en/industries-applications/hvac-measurement/data-centers",
-      "org": "依据：Vaisala资料",
-      "date": "本期分析：2026-10-15 · 需求待验证",
-      "archiveDate": "2026-10-15",
-      "kind": "编辑分析"
-    },
-    {
-      "id": "t-circular",
-      "title": "回收设施：技术之外还有消费者使用体验",
-      "body": "退瓶机案例提醒，回收量也取决于设备位置、排队、指引与日常维护。",
-      "detail": "设计机会假设：为运营方优化回收点标识和空间。先访谈零售或回收企业，确认本地是否有押金或激励机制。没有制度和稳定回收量，单靠漂亮设备难以成立。",
-      "url": "https://www.tomra.com/reverse-vending",
-      "org": "依据：TOMRA资料",
-      "date": "本期分析：2026-10-15 · 需求待验证",
-      "archiveDate": "2026-10-15",
-      "kind": "编辑分析"
-    },
-    {
-      "id": "t-proof",
-      "title": "碳移除：区分设计产能与实际交付",
-      "body": "Climeworks的部署讨论适合用来理解新产业验证：实验指标和真实运行并非一回事。",
-      "detail": "可研究面向非技术客户的信息整理，但不把它等同于核证服务。项目评估应问净移除量、能源与核证依据。直接承诺碳收益或代售信用需要额外专业核查。",
-      "url": "https://climeworks.com/news/the-reality-of-deploying-direct-air-capture-in-the-field",
-      "org": "依据：Climeworks部署资料",
-      "date": "本期分析：2026-10-15 · 需求待验证",
-      "archiveDate": "2026-10-15",
-      "kind": "编辑分析"
-    },
-    {
-      "id": "t-craft",
-      "title": "AI创作：展示原型容易，形成产品还要验证",
-      "body": "Simon Willison公开展示了用AI制作小游戏的个人实验，说明原型可以作为测试创意的工具。",
-      "detail": "独立产品试验：选一个窄场景，先验证有人愿意重复使用，再研究收费。制作速度不等于获客、留存和稳定性；不能把作者个人演示概括为行业平均效率。",
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-      "org": "依据：作者原文",
-      "date": "本期分析：2026-10-15 · 需求待验证",
-      "archiveDate": "2026-10-15",
-      "kind": "编辑分析"
     }
   ],
   "industry": [
     {
-      "id": "1015-heat",
-      "title": "芬兰产业链：数据中心的余热，如何进入居民供暖",
-      "org": "Business Finland · 产业案例",
-      "body": "Google与Haminan Energia合作，把Hamina数据中心余热接入当地供热网络。这个案例连接算力运营、热回收设施与城市能源服务，价值来自跨行业协作。",
-      "detail": "上游是数据中心持续产生的低品位热能；中间环节包括热回收、换热或温度提升、管网接入与运营；下游是区域供热和建筑用户。2024年官方公告称Google将免费提供回收热量，因此不能简单理解成“数据中心直接卖热赚钱”。项目当时预计2025年底开始供热，本轮未独立核实实际投运结果。中国对照尚待补充，不能称为国内没有。机会假设：前期案例研究和技术可视化可由小团队参与；设备与工程交付需要专业能力、项目准入和当地伙伴。",
-      "url": "https://www.businessfinland.fi/en/whats-new/news/2024/google-announced-an-expansion-of-its-hamina-data-center/",
-      "date": "案例资料：2024-05-20 · 本期复核：10-15",
+      "id": "i-tsmc-1015",
+      "title": "芯片产业链：需求强劲，也要看产能与周期",
+      "body": "台积电财报显示AI需求强劲，同时对2027年规划保持审慎。",
+      "detail": "链条涉及制造、封装与客户订单。中国对照未完成，不称产业空白；个人机会需另证，不能从财报直接推断。",
+      "url": "https://www.reuters.com/world/asia-pacific/tsmc-expected-report-sixth-straight-quarter-record-profit-thanks-ai-boom-2026-10-14/",
+      "org": "Reuters · 财报报道",
+      "date": "财报事件：2026-10-15；报道页面：10-14 23:02 UTC（北京10-15）",
       "archiveDate": "2026-10-15",
-      "kind": "产业研究"
-    },
-    {
-      "id": "1015-asml-chain",
-      "title": "荷兰产业链：光刻机背后的长期专业供应商",
-      "org": "ASML · 产业案例",
-      "body": "ASML在官网把自己描述为系统架构师与集成者，大部分系统零件和模块由供应链制造。观察一个产业时，值得把视线从整机品牌移向专业分工。",
-      "detail": "上游包括精密光学、光源、机电和测量等技术环节；系统集成之后，还需要安装、维护与持续升级。ASML披露与imec、TU/e和ARCNL等机构合作。它显示的是长期认证和共同研发的商业模式，不是个人可以迅速进入的代理生意。中国拥有相关设备与供应链活动，本期未完成各环节的可比研究，不能认定国内空白。可研究的轻资产方向：技术资料本地化和产业展示；是否存在外包采购必须另外验证。",
-      "url": "https://www.asml.com/en/technology/how-we-innovate",
-      "date": "官网背景资料 · 本期复核：2026-10-15",
-      "archiveDate": "2026-10-15",
-      "kind": "产业研究"
-    },
-    {
-      "id": "1015-space-chain",
-      "title": "欧洲产业链：为失效卫星提供“清理服务”",
-      "org": "ESA · 产业案例",
-      "body": "ESA的ClearSpace-1计划演示主动清理在轨目标，由OHB SE牵头，ClearSpace等企业参与。ESA当前页面列出的计划发射时间为2029年，目标是PROBA-1卫星。",
-      "detail": "产业链连接轨道监测、任务规划、导航控制、接近捕获、航天器集成与任务执行。初期采购方主要是航天机构，不能把示范任务当成已经成熟的日常商业市场。门槛包括高研发投入、任务可靠性及航天采购准入，个人直接进入难度高。中国同类能力与商业化程度尚未完成核查，因此不标“中国没有”。值得理解的是：新市场有时先由公共采购支持技术验证，再逐渐形成服务。",
-      "url": "https://www.esa.int/Space_Safety/ClearSpace-1",
-      "date": "ESA现行任务页面 · 复核：2026-10-15",
-      "archiveDate": "2026-10-15",
-      "kind": "产业研究"
-    },
-    {
-      "id": "i-tomra",
-      "title": "挪威：退瓶机背后的押金回收体系",
-      "body": "TOMRA的设备把饮料容器识别、收集和押金退还连接起来。客户不只是回收厂，也包括零售商与回收体系运营方。",
-      "detail": "链条：包装标识与押金制度 → 门店回收设备 → 分类压缩与逆向物流 → 再生处理。收入环节包括设备与维护，具体合同各地不同。中国对照：尚未完成制度与运营规模核查，不标为国内没有。可研究门店回收区的空间和交互设计；商业成立依赖政策、回收量与运营成本。",
-      "url": "https://www.tomra.com/reverse-vending",
-      "org": "TOMRA官方产品资料",
-      "date": "背景资料 · 本期复核10-15",
-      "archiveDate": "2026-10-15",
-      "kind": "产业研究"
-    },
-    {
-      "id": "i-linde",
-      "title": "韩国：晶圆厂旁的超高纯气体供应",
-      "body": "Linde与三星的平泽项目体现一种贴近工厂的长期供应模式：供应方建设、拥有并运营现场制气设施。",
-      "detail": "上游是制气、提纯与设备，中游是现场管网和稳定运行，下游是晶圆制造。合同、纯度和供气可靠性构成门槛。中国并非空白：Linde曾披露上海积塔半导体的20年供气合同。个人不宜把它理解为普通贸易代理机会，更适合作为工业配套服务的研究对象。",
-      "url": "https://www.linde.com/news-and-media/2025/linde-to-expand-supply-of-industrial-gases-to-samsung-in-south-korea",
-      "org": "Linde官方公告",
-      "date": "资料：2025-04-29 · 本期复核10-15",
-      "archiveDate": "2026-10-15",
-      "kind": "产业研究",
-      "sources": [
-        {
-          "name": "中国案例：积塔半导体供气",
-          "url": "https://www.linde.com/news-and-media/2020/linde-starts-up-new-plant-in-china-to-supply-gta-semiconductor"
-        }
-      ]
-    },
-    {
-      "id": "i-vaisala",
-      "title": "芬兰：数据中心测量仪器与长期维护",
-      "body": "Vaisala提供温湿度、室外环境等测量方案，连接数据中心冷却与环境控制，并提供部分仪器的维护服务。",
-      "detail": "链条：传感器与校准 → 楼宇控制集成 → 运行监测 → 维护。客户购买的是可靠数据与持续运行支持，而不只是单个探头。节能效果应由项目实测验证。中国对照需比较精度、校准和服务，不把基础传感器当成稀缺技术。小团队可先调查技术文档或运维培训需求，不能替代计量资质。",
-      "url": "https://www.vaisala.com/en/industries-applications/hvac-measurement/data-centers",
-      "org": "Vaisala官方资料",
-      "date": "背景资料 · 本期复核10-15",
-      "archiveDate": "2026-10-15",
-      "kind": "产业研究"
-    },
-    {
-      "id": "i-novonesis",
-      "title": "丹麦：工业酶作为生产流程里的耗材与服务",
-      "body": "Novonesis介绍工业酶在精细化工、水处理、制糖及塑料回收等场景的应用。它销售的是特定工序的生物解决方案。",
-      "detail": "链条：研发与生产 → 配方和工艺适配 → 客户现场测试 → 重复供货与技术支持。客户是否采用，取决于良率、成本和兼容性，厂商效益宣传不能视为普遍结果。中国存在相关生物制造活动，本期没有完成细分市场比较。适合观察专业耗材模式，直接进入则需要研发、质量和行业准入。",
-      "url": "https://www.novonesis.com/en/biosolutions/industrial-bioprocessing",
-      "org": "Novonesis官方资料",
-      "date": "背景资料 · 本期复核10-15",
-      "archiveDate": "2026-10-15",
-      "kind": "产业研究"
-    },
-    {
-      "id": "i-climeworks",
-      "title": "瑞士／冰岛：直接空气捕碳与永久封存",
-      "body": "Climeworks案例连接空气捕集设备、低碳能源、地质封存及第三方核证。需要关注的是实际净移除量。",
-      "detail": "上游是材料与设备，中游是捕集与能源供应，下游是运输封存及监测报告核证。公司公开资料也讨论设计值与实地表现的差异，不能用铭牌产能代替交付。中国情况尚未核查。个人可研究信息呈现或数据整理服务，但碳核证与收益承诺需要专业依据；这不是低门槛副业。",
-      "url": "https://climeworks.com/news/the-reality-of-deploying-direct-air-capture-in-the-field",
-      "org": "Climeworks部署资料",
-      "date": "历史背景资料 · 本期复核10-15",
-      "archiveDate": "2026-10-15",
-      "kind": "产业研究"
-    },
-    {
-      "id": "i-eos",
-      "title": "德国：增材制造的价值不止在打印机",
-      "body": "EOS制造伙伴网络涵盖设计优化、生产、前后处理、质量保证和装配，说明工业3D打印是一条协作链。",
-      "detail": "客户可委托服务商制造零件，无需首先购买设备。收费对象是合格成品与交付能力，材料、尺寸、批量和认证影响报价。中国也有增材制造，不能称为国内空白。对设计师可研究非承力展示件或模型打样，先以小样验证工艺；不要把展示模型经验直接延伸到航空医疗零件。",
-      "url": "https://www.eos.info/partners/manufacturing-partners",
-      "org": "EOS官方伙伴网络",
-      "date": "背景资料 · 本期复核10-15",
-      "archiveDate": "2026-10-15",
-      "kind": "产业研究"
-    },
-    {
-      "id": "i-ocado",
-      "title": "英国：从自动化仓库到门店内履约",
-      "body": "Ocado的方案把库存、机器人、拣选、软件和末端配送衔接起来，并有嵌入现有门店的自动化形式。",
-      "detail": "链条：需求预测 → 存储与拣选 → 订单集货 → 配送或自提。运营商要比较订单密度、空间、改造与维护成本，不能只看机器人速度。中国有即时零售与仓储自动化，不是产业空白。与空间设计相邻的研究方向是顾客动线与后台履约的整合，真实工程需专业团队与运营数据。",
-      "url": "https://www.ocadogroup.com/our-solutions/online-grocery/fulfilment/store-based-automation",
-      "org": "Ocado官方方案",
-      "date": "背景资料 · 本期复核10-15",
-      "archiveDate": "2026-10-15",
-      "kind": "产业研究"
+      "kind": "产业进展"
     }
   ],
   "views": [
@@ -351,119 +175,42 @@
       "detail": "中文概括。背景是英伟达的英国研究支持承诺；这是公司公开立场，不是安全性已得到证明。",
       "url": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
       "org": "NVIDIA · 官方发布",
-      "date": "发言：2026-10-13",
+      "date": "发言：2026-10-13 · 近七天补充",
       "archiveDate": "2026-10-15",
       "kind": "人物观点"
     },
     {
-      "id": "v-huangrenzhao-1015",
-      "title": "黄仁昭：先进制程需求将继续支持第四季度表现",
-      "org": "台积电 · 财务长公开表述",
-      "body": "台积电财务长黄仁昭在今天的官方财报公告中表示，先进制程需求与2纳米产能提升将支持第四季度业绩。",
-      "detail": "中文概括，非逐字引用。这是管理层对未来经营的判断，需用后续实际财报验证。与股价短期走势分开看。",
-      "url": "https://pr.tsmc.com/chinese/news/3346",
-      "date": "发言：2026-10-15 · 近七天",
+      "id": "v-hassabis-1014",
+      "title": "哈萨比斯：AI安全标准应随能力变化",
+      "body": "他在都柏林峰会呼吁加强系统安全，采用随风险变化的认证。",
+      "detail": "路透社现场报道的中文概括；属于主张，并非已实施规则。",
+      "url": "https://www.reuters.com/legal/litigation/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots-2026-10-14/",
+      "org": "Reuters · 峰会报道",
+      "date": "发言/报道：2026-10-14 · 近七天补充",
       "archiveDate": "2026-10-15",
       "kind": "人物观点"
     },
     {
-      "id": "v-simon",
-      "title": "Simon Willison：AI小游戏原型的一次实际尝试",
-      "body": "10月14日，他记录用Claude手机应用制作小游戏的个人实验，并分享作品。",
-      "detail": "作者实践分享，非普遍效率结论。原文可查提示词和演示，但没有证明成品拥有商业用户。",
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-      "org": "Simon Willison · 本人博客",
-      "date": "2026-10-14",
-      "archiveDate": "2026-10-15",
-      "kind": "人物观点"
-    },
-    {
-      "id": "v-lewis",
-      "title": "Lewis Mills：数字韧性要看控制与恢复",
-      "body": "微软新西兰主管今日撰文，提出数据选择、访问控制和灾后恢复等评估问题。",
-      "detail": "中文概括。作者代表供应商立场；不把它当成中立比较或当地新法规。",
-      "url": "https://news.microsoft.com/source/asia/2026/10/15/sovereignty-by-design-digital-resilience-in-nz/",
-      "org": "Microsoft · 本人署名",
-      "date": "2026-10-15",
-      "archiveDate": "2026-10-15",
-      "kind": "人物观点"
-    },
-    {
-      "id": "v-kevin",
-      "title": "Kevin Frey：AI技能需要实践与就业连接",
-      "body": "他在泰国联盟公告中强调，让人能有效、负责任地使用AI，并有机会将技能付诸实践。",
-      "detail": "中文概括。背景是项目启动，后续需要就业和应用结果验证，不以承诺代替成效。",
-      "url": "https://news.microsoft.com/source/asia/2026/10/15/thailand-becomes-first-country-to-launch-microsoft-elevate-ai-and-jobs-national-coalition/",
-      "org": "Microsoft · 官方引述",
-      "date": "2026-10-15",
-      "archiveDate": "2026-10-15",
-      "kind": "人物观点"
-    },
-    {
-      "id": "v-jinguk",
-      "title": "Jinguk Jeong：推动AI原生通信与6G协作",
-      "body": "三星研究负责人在今日公告中强调AI与下一代通信的结合，以及产业伙伴协作。",
-      "detail": "中文概括。这是研发方向与企业愿景，不代表6G已经完成商用部署。",
-      "url": "https://news.samsung.com/global/samsung-hosts-silicon-valley-future-wireless-summit-2026",
-      "org": "Samsung · 官方引述",
-      "date": "2026-10-15",
-      "archiveDate": "2026-10-15",
-      "kind": "人物观点"
-    },
-    {
-      "id": "v-tim",
-      "title": "Tim Costa：AI正在反向进入芯片制造",
-      "body": "英伟达工业与计算工程负责人在10月14日公告中，强调AI用于仿真、检测与生产复杂性管理。",
-      "detail": "中文概括。厂商公布的加速数据有特定测试条件，不作为所有工厂都能实现的结果。",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
-      "org": "NVIDIA · 官方引述",
-      "date": "2026-10-14",
-      "archiveDate": "2026-10-15",
-      "kind": "人物观点"
-    },
-    {
-      "id": "v-bill",
-      "title": "Bill Gartner：AI互连要兼顾性能与运维",
-      "body": "Cisco光学业务负责人在10月12日联合公告中，强调带宽密度与可维护性、部署灵活性。",
-      "detail": "中文概括。技术路线由参与厂商提出，是否成为通用选择要看后续采用情况。",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
-      "org": "Cisco／NVIDIA · 官方引述",
-      "date": "2026-10-12",
-      "archiveDate": "2026-10-15",
-      "kind": "人物观点"
-    },
-    {
-      "id": "v-jakob",
-      "title": "Jakob Foerster：安全不能等系统完成后再补",
-      "body": "牛津BOLD负责人在10月13日公告中主张，把治理和人与AI共同改进纳入研发。",
-      "detail": "中文概括。研究主张与最终安全效果分开呈现，保留读者查阅原语境的入口。",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
-      "org": "NVIDIA · 研究者原话引述",
-      "date": "2026-10-13",
-      "archiveDate": "2026-10-15",
-      "kind": "人物观点"
-    },
-    {
-      "id": "v-praveer",
-      "title": "Praveer Melwani：AI用户增长优先于短期利润率",
-      "body": "Figma财务长今日向路透社表达了为扩大市场承受利润率压力的意愿。",
-      "detail": "中文概括，属于经营判断，不代表投资回报已得到验证。",
-      "url": "https://www.reuters.com/business/figma-cfo-says-design-platform-willing-put-margins-line-boost-ai-demand-2026-10-15/",
-      "org": "Reuters · 直接采访",
-      "date": "2026-10-15",
+      "id": "v-musk-1010",
+      "title": "马斯克：Starlink在印度需让用户负担得起",
+      "body": "路透社引述其10月10日X发言：印度定价需要可负担，但未公布价格。",
+      "detail": "原帖未直接读取，采用媒体引述，不认定为正式资费。",
+      "url": "https://www.reuters.com/business/media-telecom/musk-vows-affordable-starlink-india-days-before-ambanis-record-jio-ipo-2026-10-11/",
+      "org": "Reuters · 引述本人X发言",
+      "date": "发言：2026-10-10；报道：10-11，更新10-12 · 近七天补充",
       "archiveDate": "2026-10-15",
       "kind": "人物观点"
     }
   ],
   "audit": {
     "edition": "2026-10-15",
-    "mode": "人工完整试跑；未启用自动任务",
+    "mode": "人工修订：时效优先、八人关注名单、扩大媒体检索；自动任务已配置，首次无人值守运行待验证",
     "target_per_section": 10,
     "counts": {
       "news": 10,
-      "trends": 10,
-      "industry": 10,
-      "views": 10
+      "trends": 3,
+      "industry": 1,
+      "views": 3
     },
     "sources": [
       {
@@ -555,6 +302,42 @@
         "url": "https://ifr.org/",
         "status": "首页可读",
         "note": "可作后续产业资料来源"
+      },
+      {
+        "name": "World Labs／李飞飞",
+        "url": "https://www.worldlabs.ai/blog",
+        "status": "本轮已读",
+        "note": "所见最新条目9月28日，未作当天观点"
+      },
+      {
+        "name": "Karpathy本人博客",
+        "url": "https://karpathy.bearblog.dev/blog/",
+        "status": "本轮已读",
+        "note": "未取得近七天新观点；不代表X没有更新"
+      },
+      {
+        "name": "Sam Altman本人博客",
+        "url": "https://blog.samaltman.com/",
+        "status": "本轮已读",
+        "note": "所见内容日期不足，未作当天观点"
+      },
+      {
+        "name": "Dario本人文章",
+        "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+        "status": "本轮已读",
+        "note": "原文2026年9月，排除当前观点栏"
+      },
+      {
+        "name": "吴恩达本人文章索引",
+        "url": "https://www.andrewng.org/writing",
+        "status": "本轮已读",
+        "note": "所见最新10月2日，不作当日新观点"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/",
+        "status": "本轮已读采访",
+        "note": "检索黄仁勋10月14日采访；本版未新增该采访卡片"
       }
     ],
     "excluded": [
@@ -577,7 +360,45 @@
       {
         "item": "X与Instagram第三方账号镜像",
         "reason": "原帖未能核实，排除"
+      },
+      {
+        "item": "2024年芬兰产业案例及其他仅复核背景资料",
+        "reason": "没有当日实质新进展，本版删除，历史修订可在Git记录查阅。"
+      },
+      {
+        "item": "Reuters AI doom观点汇编",
+        "reason": "页面标注9月、正文写10月，原始Dario文章为9月；日期冲突，排除。"
       }
+    ],
+    "sectionNotes": {
+      "news": "保留当日消息；补充主流媒体报道。",
+      "trends": "本轮3条；删除以旧案例包装的分析，不凑数。",
+      "industry": "本轮1条；移除2024芬兰等无新进展背景案例。",
+      "views": "本轮3条均为近七天补充，非当天发言；其余五人未取得日期与内容均可靠的新观点，不以其他人补数。"
+    },
+    "researchPlan": [
+      "Reuters",
+      "AP",
+      "Bloomberg",
+      "FT",
+      "WSJ",
+      "澎湃",
+      "财新",
+      "第一财经",
+      "界面",
+      "The Verge",
+      "Ars Technica",
+      "WIRED",
+      "MIT Technology Review",
+      "IEEE Spectrum",
+      "TechCrunch",
+      "Simon Willison",
+      "Benedict Evans",
+      "Stratechery",
+      "One Useful Thing",
+      "Import AI",
+      "X/Twitter",
+      "Instagram"
     ]
   }
 }
