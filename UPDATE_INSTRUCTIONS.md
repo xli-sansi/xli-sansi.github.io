@@ -25,3 +25,18 @@ Actually open relevant articles before summarizing. Search snippets, same-source
 
 ## Archive
 Data files are a durable GitHub versioned archive, not a SQL database. The browser's 历史 picker loads the listed edition and supports keyword search. Preserve all earlier data/editions paths and manifest dates. Saved cards are device-local, not cross-device accounts. Keep the existing embedded fallback clearly dated if network loading fails.
+
+## 用户修订规则（2026-10-15，优先于上述宽泛规则）
+四栏均优先北京时间当天有价值的新信息。禁止以“本期复核/本期分析”把旧资料包装为新消息。目标10条但不能凑数。当日确实缺少重要内容时，才可在栏目最后少量附仍有效的背景，明确原始日期、背景性质及当前意义；默认不收无新进展的历史案例。
+人物主要关注以下八人及指定主题：
+- 黄仁勋 Jensen Huang：算力、芯片、机器人、数据中心与产业链。
+- 李飞飞 Fei-Fei Li：空间智能、三维世界理解、建筑与设计技术。
+- Andrej Karpathy：AI能力、智能体、编程和工作方式。
+- Sam Altman：AI产品、商业化、基础设施。
+- Dario Amodei：模型能力、工作替代、风险治理。
+- Demis Hassabis：前沿AI研究、科学发现、AGI。
+- 吴恩达 Andrew Ng：企业应用、创业、个人效率。
+- Elon Musk：机器人、自动驾驶、航天、能源与AI交叉。
+其他人物仅在重大突破/重大事件时收录，不以普通公司负责人发言凑数。先当天，近七天的补充靠后并显示实际日期；未取得可靠新发言不代表本人没有发言，说明检索限制。公司动态不能冒充本人观点。米哈游相关企业仍可进新闻栏，人物优先级服从本名单。
+主流媒体必须实际检索，不能只列名字。每次至少尝试国际综合媒体、中文主流媒体及科技媒体，逐篇核实后按新闻价值采用，不硬设引用比例。来源页区分常规检索清单、本轮实际检索/可访问情况、本期引用原文；未检查标未检查，失败标失败。保留Reuters/AP/FT/Bloomberg/WSJ、澎湃/财新/第一财经/界面及主流科技媒体和博客；X/Twitter为同平台，Instagram仅采用可核实原帖。发现文章日期互相矛盾时排除并记录。
+提交隐私：优先使用GitHub提供的noreply提交邮箱，不能假定API写入自动遵循邮箱隐私设置；实际提交需复核，不修改或重写历史。
