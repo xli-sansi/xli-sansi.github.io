@@ -361,8 +361,8 @@
       {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/us/technology",
-        "status": "频道可读，抽查市场报道",
-        "note": "未用于本期卡片；不保证每篇全文可读。"
+        "status": "频道可读；市场报道仅取得搜索线索",
+        "note": "未用于本期卡片；未把搜索结果视为已阅读全文。"
       },
       {
         "name": "Financial Times",
