@@ -43,3 +43,6 @@ Data files are a durable GitHub versioned archive, not a SQL database. The brows
 
 ## 新增主流媒体（用户2026-10-15要求）
 每日实际检索 The New York Times（纽约时报）、The Washington Post（华盛顿邮报）、BBC、The Guardian（卫报）、The Economist（经济学人），并继续覆盖 Reuters、AP、Financial Times、WSJ、Bloomberg 及中文主流媒体。按报道价值筛选科技、产业、商业与八人相关消息，不把观点专栏当事实、不因品牌免除核实。未取得正文仅作发现线索，不冒充已阅读；不可访问或付费限制如实记录，不自动购买订阅。不能只新增来源名字而不在每日任务中执行检索。
+
+## 全球覆盖与检索记录（用户2026-10-15修订）
+选材覆盖世界，不以英美媒体为中心；按新闻价值尝试东亚、东南亚、南亚、中东、非洲、拉美和欧洲当地可靠媒体及行业一手材料。可尝试CNA、Nikkei Asia、Rest of World、TechCabal、Al Jazeera、SCMP等，不能把列名当成已采集。各地区不设凑数配额；未完成地区覆盖如实写入audit.regionalCoverage。已测试结论：2026-10-16 NYT/BBC/Economist受检索或读取限制，Bloomberg失败，X 403，Instagram 429；CNA可读但不少内容为Reuters转载，不算独立证据；Rest of World可读但本轮抽查文章较早；界面今日正文可读；第一财经本轮失败。每次重新验证，不把一次失败当永久结论。来源页只记录当轮实际读取情况，不沿用旧成功状态伪装本轮测试。任务每天持续更新，不因成功发布一期而停用。
