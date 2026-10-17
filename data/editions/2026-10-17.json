@@ -1,0 +1,460 @@
+{
+  "date": "2026-10-17",
+  "updatedAt": "2026-10-17T08:07:29.000+08:00",
+  "news": [
+    {
+      "id": "20261017-n-apple",
+      "title": "苹果明确加强对非自愿私密影像的审核",
+      "body": "苹果更新审核规则，要求应用主动预防、移除未经当事人同意的私密影像，包括AI生成内容。",
+      "detail": "此次还明确禁止审核通过后偷偷增加有害功能。未落实保护措施或收到通知后不整改的开发者可能被下架；规则公布不等于违规内容已全部清除。",
+      "url": "https://developer.apple.com/news/?id=vvzx6cul",
+      "org": "Apple · 原始规则公告",
+      "date": "公告：美国10-16；The Verge报道：北京10-17 06:51",
+      "archiveDate": "2026-10-17",
+      "kind": "平台治理",
+      "sources": [
+        {
+          "name": "The Verge报道与时间",
+          "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"
+        }
+      ]
+    },
+    {
+      "id": "20261017-n-canada",
+      "title": "Anthropic签下首份加拿大数据中心协议",
+      "body": "路透引述公司具名高管确认，Anthropic向EverWind租用新斯科舍省Point Tupper的数据中心容量。",
+      "detail": "这是租约，不是设施已投产。EverWind另行宣布超过100亿加元的园区与风电投资计划；投资额不等于Anthropic租约金额，供水与电网保护仍需履行承诺。",
+      "url": "https://www.reuters.com/legal/litigation/anthropic-signs-lease-first-canadian-data-center-2026-10-16/",
+      "org": "Reuters · 具名确认及官方公告",
+      "date": "报道：北京10-17 06:53；事件：加拿大10-16",
+      "archiveDate": "2026-10-17",
+      "kind": "算力基础设施",
+      "sources": [
+        {
+          "name": "EverWind项目原始公告",
+          "url": "https://everwindfuels.com/2026/10/everwind-announces-10-billion-investment-in-point-tupper-data-centre-campus-and-renewable-energy-portfolio-across-nova-scotia/"
+        }
+      ]
+    },
+    {
+      "id": "20261017-n-core",
+      "title": "CoreWeave高管减持报道：先区分计划交易",
+      "body": "路透根据监管文件统计，CEO及关联实体自2025年IPO以来售股接近10亿美元，大部分为预设交易计划。",
+      "detail": "这是跨期累计，并非今天突然抛售。其余约4000万美元为缴税售股；仅凭这些交易不能推断管理层看空或存在违规。公司当时未回应置评。",
+      "url": "https://www.reuters.com/legal/government/coreweaves-ceo-sold-nearly-1-billion-stock-since-ipo-filings-show-2026-10-16/",
+      "org": "Reuters · 文件统计",
+      "date": "报道：北京10-17 00:47；交易期：2025年IPO以来",
+      "archiveDate": "2026-10-17",
+      "kind": "企业治理"
+    },
+    {
+      "id": "20261017-n-court",
+      "title": "美国破产通知系统因承包商安全事件中断",
+      "body": "CNA刊载路透报道：联邦法院破产通知中心的多个网站与通知制作、分发流程不可用。",
+      "detail": "美国法院行政办公室称相关系统由BAE Systems美国子公司运营；BAE称事件局限于该系统，正在调查和恢复。不能据此声称整个美国法院网络被攻破，也没有已核实的攻击者身份。",
+      "url": "https://www.channelnewsasia.com/business/us-federal-bankruptcy-court-operations-disrupted-cybersecurity-incident-6466751",
+      "org": "CNA · Reuters报道",
+      "date": "CNA刊载：10-17；法院声明：美国10-15；承包商回应：10-16",
+      "archiveDate": "2026-10-17",
+      "kind": "网络安全"
+    },
+    {
+      "id": "20261017-n-market",
+      "title": "科技股回落：算力需求与融资风险要分开看",
+      "body": "第一财经今日报道，美国10月16日收盘纳指下跌2.14%，半导体ETF本周累计下跌9.70%。",
+      "detail": "报道将市场担忧指向AI基础设施举债、利率和油价。价格变动是事实，因果解释属于市场分析；一周行情既不能证明AI需求消失，也不能证明所有算力项目都可盈利。",
+      "url": "https://www.yicai.com/news/103397475.html",
+      "org": "第一财经 · 原创市场报道",
+      "date": "发布：2026-10-17 07:35；行情：美国10-16收盘",
+      "archiveDate": "2026-10-17",
+      "kind": "科技商业"
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261017-t-moderation",
+      "title": "AI应用交付：审核和投诉流程成为产品的一部分",
+      "body": "当日触发：苹果规则更新，把非自愿私密影像防控与审核后功能变更列得更明确。",
+      "detail": "机会假设：有移动端AI产品的小团队可能需要内容防护测试与投诉处理流程。买方是有实际发布计划的开发团队；门槛是安全测试、隐私和产品经验。先用合成的无真人敏感素材测试一个流程，访谈三家团队是否愿付费；尚无本期验证的订单，不能承诺收益。",
+      "url": "https://developer.apple.com/news/?id=vvzx6cul",
+      "org": "Apple · 事实依据；编辑机会分析",
+      "date": "原公告10-16；北京10-17 06:51新增媒体报道",
+      "archiveDate": "2026-10-17",
+      "kind": "机会研究"
+    },
+    {
+      "id": "20261017-t-continuity",
+      "title": "外包数字服务：把中断后的人工流程也交付",
+      "body": "当日触发：美国法院通知业务因承包商安全事件停止，说明关键流程会依赖外部系统。",
+      "detail": "机会假设：小机构可能需要供应商依赖清单与断网演练服务。买方是不能长期停摆的业务团队；门槛是流程知识和获授权的安全实践。先访谈一个团队，画出一项流程的替代路径，用虚构资料演练恢复时间；此事件本身不证明本地客户有预算。",
+      "url": "https://www.channelnewsasia.com/business/us-federal-bankruptcy-court-operations-disrupted-cybersecurity-incident-6466751",
+      "org": "CNA／Reuters · 事实依据；编辑机会分析",
+      "date": "CNA本期刊载10-17；事件与回应10-15至10-16",
+      "archiveDate": "2026-10-17",
+      "kind": "机会研究"
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261017-i-canada",
+      "title": "加拿大：工业园区、风电与算力租赁相连接",
+      "body": "EverWind的新计划把既有工业场地、电力建设和数据中心租赁结合；Anthropic的承租身份由路透具名确认。",
+      "detail": "上游是风电、储能、电网和冷却设备，中游是园区建设与运营，下游是AI算力客户；商业模式含长期租赁。公司计划首期95MW于2027年底启动、后续扩建，但受审批与商业条件约束。门槛在资金、接网、供水与社区协商。中国也有风电和数据中心，本轮未取得项目级可比数据，不能称为国内空白。",
+      "url": "https://everwindfuels.com/2026/10/everwind-announces-10-billion-investment-in-point-tupper-data-centre-campus-and-renewable-energy-portfolio-across-nova-scotia/",
+      "org": "EverWind · 项目计划；Reuters交叉核实",
+      "date": "公告：加拿大2026-10-16；北京10-17 06:53新增承租报道",
+      "archiveDate": "2026-10-17",
+      "kind": "海外产业",
+      "sources": [
+        {
+          "name": "Reuters：承租身份确认",
+          "url": "https://www.reuters.com/legal/litigation/anthropic-signs-lease-first-canadian-data-center-2026-10-16/"
+        }
+      ]
+    }
+  ],
+  "views": [
+    {
+      "id": "20261017-v-musk",
+      "title": "马斯克：将航天推进技术用于Roadster演示",
+      "body": "在Roadster活动上，马斯克介绍冷气推进装置的动作能力，并提出2028年量产目标。",
+      "detail": "近七天补充，中文概括自The Verge现场报道。他也承认这种演示并非以安全优化为核心；顶级版本不获准用于公共道路。技术演示、量产时间和道路许可是三件事，不把个人承诺写成已交付产品。",
+      "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+      "org": "The Verge · 本人现场发言的中文概括",
+      "date": "报道：2026-10-16 01:28 UTC（北京09:28）；近期补充",
+      "archiveDate": "2026-10-17",
+      "kind": "人物观点"
+    }
+  ],
+  "audit": {
+    "edition": "2026-10-17",
+    "mode": "当日优先、逐篇阅读、去重归档；未达目标如实少发",
+    "target_per_section": 10,
+    "counts": {
+      "news": 5,
+      "trends": 2,
+      "industry": 1,
+      "views": 1
+    },
+    "sectionNotes": {
+      "news": "本期5条，缺5条。北京时间当日刊载优先，跨期交易、实际事件日分别注明。多条10月16日UTC报道换算后仍属北京昨天，未补入；未核实游戏提案具体时区，亦未凑数。",
+      "trends": "本期2条，缺8条。均有本期新报道触发，明确买方、门槛及低成本验证；是待验证假设，不是已证实需求或收入。不把昨日开放权重、适配等分析重复包装。",
+      "industry": "本期1条，缺9条。加拿大项目有新承租确认与详细原始资料；其他地区未完成足够的当日文章级核实。未用旧产业介绍填充，不宣称中国没有同类产业。",
+      "views": "本期1条，缺9条。马斯克为10月16日近期补充，并非今日新发言。八人均检索，但未获得更多同时满足日期、主题、正文可读与不重复的观点；不代表其他人没有发言。吴恩达新信正文读取失败，未凭索引摘要扩写。"
+    },
+    "researchPlan": [
+      "Reuters",
+      "AP",
+      "Bloomberg",
+      "FT",
+      "WSJ",
+      "澎湃",
+      "财新",
+      "第一财经",
+      "界面",
+      "The Verge",
+      "Ars Technica",
+      "WIRED",
+      "MIT Technology Review",
+      "IEEE Spectrum",
+      "TechCrunch",
+      "Simon Willison",
+      "Benedict Evans",
+      "Stratechery",
+      "One Useful Thing",
+      "Import AI",
+      "X/Twitter",
+      "Instagram",
+      "The New York Times",
+      "The Washington Post",
+      "BBC",
+      "The Guardian",
+      "The Economist",
+      "CNA",
+      "Nikkei Asia",
+      "Rest of World",
+      "TechCabal",
+      "Al Jazeera",
+      "SCMP",
+      "各地区可靠媒体及行业原始资料",
+      "晚点",
+      "36氪",
+      "游戏葡萄",
+      "各人物原始博客与完整采访"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/technology/",
+        "status": "频道及多篇正文已读",
+        "note": "采用加拿大与CoreWeave文件报道；警报等因北京日期不符排除。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/hub/technology",
+        "status": "检索找到10月16日收盘稿；正文读取失败",
+        "note": "未引用搜索摘要。"
+      },
+      {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "本轮检索受robots限制",
+        "note": "未取得正文、未引用，不绕过限制。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/innovation",
+        "status": "本轮检索受robots限制",
+        "note": "未引用。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/science-and-technology",
+        "status": "站内检索受限；官方Acast简介可读",
+        "note": "吴恩达播客简介已读，未读或听完整采访，不冒充全文。"
+      },
+      {
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/technology/",
+        "status": "频道可读；搜索所见多为旧条目",
+        "note": "未完成当天文章正文核实，未引用。"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology",
+        "status": "频道已读",
+        "note": "未完成适合本期的当日原文核实，未引用。"
+      },
+      {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/technology",
+        "status": "频道已读",
+        "note": "债务及信用评级线索未取得正文，不算已读全文。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/tech",
+        "status": "科技频道可读",
+        "note": "未读当日付费全文，未引用。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/technology",
+        "status": "频道读取失败；检索有加拿大项目线索",
+        "note": "未引用付费全文。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com/",
+        "status": "首页已读",
+        "note": "所见科技条目多为10月16日，未采用旧稿填充。"
+      },
+      {
+        "name": "澎湃",
+        "url": "https://www.thepaper.cn/channel_119908",
+        "status": "频道及黄仁勋短文已读",
+        "note": "短文14日/15日时间表述有歧义，未采用。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "首页及10月17日市场原文已读",
+        "note": "本轮可读，与上轮失败状态分开；采用收盘报道，不沿用情绪化标题。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/",
+        "status": "首页可读",
+        "note": "未完成当日科技文章正文核实；不视为付费内容已跑通。"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/",
+        "status": "首页及苹果、Tesla多篇原文已读",
+        "note": "采用苹果报道时间与马斯克近期表述；公司目标不当已实现。"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/",
+        "status": "首页及游戏提案、眼镜、模型越权三篇正文已读",
+        "note": "未核实时区，不冒充北京当天消息。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/business",
+        "status": "频道和加拿大、法院、选举、CoreWeave正文已读",
+        "note": "引用法院稿，频道标10月17日；这些是Reuters转载而非独立证据。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "status": "首页与阿联酋教育文章已读",
+        "note": "教育案例10月13日，不作为今日案例。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "入口读取失败",
+        "note": "未宣称已采集非洲当天新闻。"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/Business/Technology",
+        "status": "入口读取失败",
+        "note": "未引用。"
+      },
+      {
+        "name": "SCMP",
+        "url": "https://www.scmp.com/tech",
+        "status": "入口读取失败",
+        "note": "未引用。"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/",
+        "status": "经济频道可读",
+        "note": "仅发现入口，未完成适合本期的正文核实。"
+      },
+      {
+        "name": "EverWind",
+        "url": "https://everwindfuels.com/",
+        "status": "项目公告全文已读",
+        "note": "用于加拿大产业链；容量、就业、保护电价等均是计划或承诺，不是实绩。"
+      },
+      {
+        "name": "Apple Developer",
+        "url": "https://developer.apple.com/news/?id=vvzx6cul",
+        "status": "规则公告全文已读",
+        "note": "事实依据；不把发布新规则等同问题消失。"
+      },
+      {
+        "name": "李飞飞／World Labs",
+        "url": "https://www.worldlabs.ai/blog",
+        "status": "索引已读、近况检索完成",
+        "note": "最近所见本人文章9月28日，超七天；未收录。"
+      },
+      {
+        "name": "Karpathy",
+        "url": "https://karpathy.bearblog.dev/blog/",
+        "status": "本人博客索引已读、近况检索完成",
+        "note": "所见新观点或过期或已收录，不重复10月11日漏斗观点。"
+      },
+      {
+        "name": "Sam Altman",
+        "url": "https://blog.samaltman.com/",
+        "status": "本人博客可读、近况检索完成",
+        "note": "页面日期不足，不以抓取时间替代发言日。"
+      },
+      {
+        "name": "Dario Amodei",
+        "url": "https://darioamodei.com/",
+        "status": "本人索引可读、近况检索完成",
+        "note": "未取得符合本期条件的本人新观点，租约不算其发言。"
+      },
+      {
+        "name": "Demis Hassabis",
+        "url": "https://deepmind.google/",
+        "status": "姓名与日期检索完成",
+        "note": "搜索所见主要为既有安全发言或旧采访，未取得新的可用完整原文；未声称读取该站正文。"
+      },
+      {
+        "name": "黄仁勋",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34260760",
+        "status": "近况检索及中文报道已读",
+        "note": "日期歧义条目排除；第一财经乐观表述未扩写为确定预测。"
+      },
+      {
+        "name": "吴恩达",
+        "url": "https://www.andrewng.org/writing",
+        "status": "本人索引可读；10月16日新信正文失败",
+        "note": "官方播客简介可读但非完整采访；本期未写观点卡。"
+      },
+      {
+        "name": "Elon Musk",
+        "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+        "status": "完整现场报道已读",
+        "note": "近七天补充，标原文10月16日，不冒充今天新发言。"
+      },
+      {
+        "name": "X/Twitter",
+        "url": "https://x.com/sama",
+        "status": "账号直读失败",
+        "note": "未用第三方镜像补证；搜索索引不等于完整原帖。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/nvidia/",
+        "status": "本轮入口读取失败",
+        "note": "没有可核实原帖，不引用；不沿用上轮429当成此次具体状态。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/",
+        "status": "首页可读",
+        "note": "本轮未完成可收录新文章的原文核实。"
+      },
+      {
+        "name": "Stratechery",
+        "url": "https://stratechery.com/",
+        "status": "首页可读",
+        "note": "未读最新付费正文，不宣称已跑通全文。"
+      },
+      {
+        "name": "Benedict Evans",
+        "url": "https://www.ben-evans.com/",
+        "status": "首页可读",
+        "note": "本轮未完成适合当天的新原文核实。"
+      },
+      {
+        "name": "One Useful Thing",
+        "url": "https://www.oneusefulthing.org/",
+        "status": "入口无正文",
+        "note": "本轮不能作为稳定全文采集入口。"
+      },
+      {
+        "name": "HoYoverse及米哈游关联企业",
+        "url": "https://www.hoyoverse.com/en-us/news",
+        "status": "名称、日期及关联名称检索完成",
+        "note": "所见官方产品列表资料较早；未获得本期可用新增，未采用第三方聚合当官方原帖。"
+      },
+      {
+        "name": "其余常规资源",
+        "url": "https://xli-sansi.github.io/",
+        "status": "本轮未逐站检查",
+        "note": "WIRED、MIT Technology Review、IEEE Spectrum、TechCrunch、晚点、36氪、游戏葡萄及Import AI仍在常规计划；本期未完成逐站验证，不标已跑通。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "Temu和解、印度AI越权及网络游戏报道、美国选举AI警报",
+        "reason": "原报道已读，但换算北京时间仍为10月16日，无已核实的今天新进展；不作为今日新闻。"
+      },
+      {
+        "item": "澎湃黄仁勋合作发言",
+        "reason": "页面正文同时出现当地10月15日和14日晚的时间表述，未消除歧义；且与此前安全合作主题重叠。"
+      },
+      {
+        "item": "吴恩达10月16日新信与Economist访谈",
+        "reason": "本人索引和官方播客简介可读，新信正文失败、完整访谈未读；不凭标题或简介编写具体建议。"
+      },
+      {
+        "item": "SoftBank收购、德国英伟达协议及Anthropic游说法案传闻",
+        "reason": "搜索或频道见线索，未取得符合本网站标准的公开确认，不采用匿名传闻。"
+      },
+      {
+        "item": "米哈游／HoYoverse／Anuttacon及蔡浩宇、刘伟、罗宇皓相关企业",
+        "reason": "本轮名称与日期检索未获得可核实的当日实质新增；官方产品旧资料、第三方聚合不充当新消息，不混同个人投资与公司投资。"
+      },
+      {
+        "item": "Ars游戏所有权法案、智能眼镜和模型越权文章",
+        "reason": "正文已读；页面仅显示10月16日下午、未核实具体时区；部分事件早于报道日，不强行判为北京今日。"
+      },
+      {
+        "item": "Rest of World阿联酋教育案例",
+        "reason": "正文日期为10月13日，无本轮核实的当天新进展，未放进今日海外产业。"
+      }
+    ],
+    "regionalCoverage": "尝试中文、东亚、东南亚、南亚、中东、非洲及全球南方入口与检索；实际引用集中于北美项目与英美、中文媒体，拉美当地媒体文章级核实尚未完成。没有把CNA的Reuters转载算独立新加坡证据，也未宣称全球各地区已完整覆盖。",
+    "cutoff": "仅覆盖本次更新前已发布且完成核实的资料，不代表全天消息或所有媒体。"
+  }
+}
