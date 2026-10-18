@@ -1,0 +1,456 @@
+{
+  "date": "2026-10-18",
+  "updatedAt": "2026-10-18T08:44:59.000+08:00",
+  "news": [
+    {
+      "id": "20261018-n-amg",
+      "title": "奔驰AMG新SUV把高功率充电与热管理放在一起",
+      "body": "奔驰公布AMG GT SUV：高配采用轴向磁通电机、直接冷却电芯和800伏电池架构。",
+      "detail": "官方宣称部分版本最高支持710kW充电，但需合适设施与条件，不代表全程功率。持续性能及日常补能体验还需实际交付后验证。",
+      "url": "https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495",
+      "org": "Mercedes-Benz · 原始公告；The Verge报道",
+      "date": "官方：德国10-17；报道：北京10-18 01:00",
+      "archiveDate": "2026-10-18",
+      "kind": "电动车技术",
+      "sources": [
+        {
+          "name": "The Verge报道与发布时间",
+          "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance"
+        }
+      ]
+    },
+    {
+      "id": "20261018-n-tiktok",
+      "title": "TikTok封禁《Musk》纪录片宣传账号，原因尚未明确",
+      "body": "The Verge报道该片宣传账号被封禁，并引述发行方收到永久停用通知的情况。",
+      "detail": "截至报道时，TikTok尚未回应。封禁动机未获证实，不能因平台投资人出现在影片中就认定存在因果关系。这是平台治理消息，不是马斯克本人新观点。",
+      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "org": "The Verge · 报道",
+      "date": "报道：北京10-18 03:32；通知：美国10-16",
+      "archiveDate": "2026-10-18",
+      "kind": "平台分发"
+    },
+    {
+      "id": "20261018-n-export",
+      "title": "近期背景：AI技术出口草案与临时登记不是一回事",
+      "body": "TNGlobal今日报道中国技术出口政策。原公告实际发布于10月16日，涉及拟增列23项AI技术。",
+      "detail": "目录仍在征求意见，相关技术出口临时登记已随公告实施；不能把草案写成最终目录。公共领域技术及部分服务形式另有说明，具体交易应依官方范围核对，本卡不是个案法律意见。",
+      "url": "https://technode.global/2026/10/18/china-ai-export-controls-23-technologies/",
+      "org": "TNGlobal · 今日报道；商务部原始政策",
+      "date": "背景原文：2026-10-16 16:00；媒体报道：10-18",
+      "archiveDate": "2026-10-18",
+      "kind": "近期政策背景",
+      "sources": [
+        {
+          "name": "商务部原公告",
+          "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html"
+        },
+        {
+          "name": "商务部答记者问",
+          "url": "https://www.mofcom.gov.cn/zwgk/zcjd/art/2026/art_b11d5c1e9374421e93e85dc87eba6e38.html"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261018-t-charging",
+      "title": "高功率电动车：可验证的机会在体验测试",
+      "body": "当日触发：AMG新车资料同时列出超高充电功率、冷却方案和不同充电站条件。",
+      "detail": "机会假设：车队、充电运营者或专业内容团队可能需要标准化补能记录。门槛是测量能力、车辆条件和数据可信度。先访谈三家机构，用现有车辆试做跨站比较报告，不必先买新车；尚无本期核实的付费需求，不承诺收益。",
+      "url": "https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495",
+      "org": "奔驰 · 技术依据；编辑机会分析",
+      "date": "原公告：德国10-17；北京10-18新增报道",
+      "archiveDate": "2026-10-18",
+      "kind": "机会研究"
+    },
+    {
+      "id": "20261018-t-agent",
+      "title": "近期背景：做AI工作流，先确认服务是否允许接入",
+      "body": "The Verge在10月17日报道，部分网站、银行和航空公司限制第三方AI智能体访问。",
+      "detail": "机会假设：小企业可能需要工作流可行性清单。买方是准备上线自动化的团队；门槛是权限、官方接口和失败处理。先选一项获授权任务，验证接口及人工接管路径，再问客户是否付费。模型能做不等于网站允许做，不应绕过封锁。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "org": "The Verge · 报道依据；编辑机会分析",
+      "date": "2026-10-17 13:00 UTC（北京21:00）· 近期背景",
+      "archiveDate": "2026-10-18",
+      "kind": "近期机会背景"
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261018-i-amg",
+      "title": "德国：高性能电动车价值链延伸到热管理与控制",
+      "body": "AMG新平台把电机、电池直接冷却、功率电子和整车控制组合交付，不只比较瞬时马力。",
+      "detail": "上游是电芯、电机与功率器件，中游是电驱、冷却和软件集成，下游是整车与补能体验；通过整车销售回收投入，供应商订单利润未披露。门槛在持续负载、可靠性和系统验证。中国也有高压电动车与热管理产业，本期未完成逐项对照，不能称为国内空白。",
+      "url": "https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495",
+      "org": "Mercedes-Benz · 原始技术资料；编辑拆解",
+      "date": "公告：德国10-17；北京10-18 01:00媒体报道",
+      "archiveDate": "2026-10-18",
+      "kind": "海外产业",
+      "sources": [
+        {
+          "name": "The Verge报道",
+          "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance"
+        }
+      ]
+    }
+  ],
+  "views": [
+    {
+      "id": "20261018-v-huang",
+      "title": "黄仁勋：市场波动没有改变他对AI需求的判断",
+      "body": "黄仁勋10月16日接受采访时表示，应关注基本面与技术长期影响，而不只看短期行情。",
+      "detail": "近七天补充，中文概括依据澎湃明确引述。这是芯片供应商负责人的判断，存在商业立场；不等于所有算力项目都能盈利，也不能替代客户收入、利用率和现金流验证。",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34270981",
+      "org": "澎湃 · 引述本人采访；非逐字翻译",
+      "date": "发言：当地2026-10-16；报道：10-17 17:16 · 近期补充",
+      "archiveDate": "2026-10-18",
+      "kind": "人物观点"
+    }
+  ],
+  "audit": {
+    "edition": "2026-10-18",
+    "mode": "当日优先；少量近期背景后置并标真实日期；不凑数",
+    "target_per_section": 10,
+    "counts": {
+      "news": 3,
+      "trends": 2,
+      "industry": 1,
+      "views": 1
+    },
+    "sectionNotes": {
+      "news": "本期3条：2条北京时间今日报道，末尾1条10月16日政策背景（今日有新媒体报道），并非今天发布新政策。缺7条；多数候选仍是10月16至17日旧稿，不重复昨天卡片，不采用匿名传闻。",
+      "trends": "本期2条，缺8条。1条今日报道触发，1条10月17日晚近期背景置后；明确买方、门槛及验证步骤，尚无已核实客户订单，不把分析日期当新闻日期。",
+      "industry": "本期1条，缺9条。德国电动车平台有今天新报道与官方技术资料。其他地区未完成足够的当日项目级核实；不以融资框架或历史产业介绍凑数，中国逐项对照不足已注明。",
+      "views": "本期1条，缺9条。黄仁勋10月16日表述为近七天补充。其余七人未取得主题有价值、日期明确、正文可读且不重复的新增；不代表没有发言。吴恩达新信403，完整采访未读不凭简介扩写。"
+    },
+    "researchPlan": [
+      "Reuters",
+      "AP",
+      "Bloomberg",
+      "FT",
+      "WSJ",
+      "澎湃",
+      "财新",
+      "第一财经",
+      "界面",
+      "The Verge",
+      "Ars Technica",
+      "WIRED",
+      "MIT Technology Review",
+      "IEEE Spectrum",
+      "TechCrunch",
+      "Simon Willison",
+      "Benedict Evans",
+      "Stratechery",
+      "One Useful Thing",
+      "Import AI",
+      "X/Twitter",
+      "Instagram",
+      "The New York Times",
+      "The Washington Post",
+      "BBC",
+      "The Guardian",
+      "The Economist",
+      "CNA",
+      "Nikkei Asia",
+      "Rest of World",
+      "TechCabal",
+      "Al Jazeera",
+      "SCMP",
+      "各地区可靠媒体及行业原始资料",
+      "晚点",
+      "36氪",
+      "游戏葡萄",
+      "各人物原始博客与完整采访",
+      "TNGlobal",
+      "欧洲当地可靠媒体",
+      "Folha de S.Paulo（巴西）",
+      "企业技术公告及监管原文"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/technology/",
+        "status": "频道及两篇原文已读",
+        "note": "学生数据与IPO为北京10月17日，未冒充今天。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/hub/technology",
+        "status": "入口读取失败",
+        "note": "未引用搜索摘要。"
+      },
+      {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "本轮检索及入口读取受限",
+        "note": "未取得正文，不绕过限制。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/innovation",
+        "status": "本轮检索及入口读取受限",
+        "note": "未引用。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/science-and-technology",
+        "status": "检索尝试；入口失败",
+        "note": "未引用，检索见目录不等于报道正文。"
+      },
+      {
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/technology/",
+        "status": "频道和卫星通信报道全文可读",
+        "note": "报道日期10月17日；未引用本期卡片，未把标题的后果判断当确定事实。"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology",
+        "status": "科技频道已读",
+        "note": "未完成本期可用文章级核实；未引用。"
+      },
+      {
+        "name": "FT",
+        "url": "https://www.ft.com/technology",
+        "status": "频道可读；智能体风险正文为订阅入口",
+        "note": "未引用未读全文。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/tech",
+        "status": "频道可读",
+        "note": "未读付费全文，不当作已跑通。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/technology",
+        "status": "入口读取失败",
+        "note": "未引用。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com/",
+        "status": "首页及Starlink快讯入口已查",
+        "note": "首页可读，快讯正文返回不足；不凭首页标题扩写事件。"
+      },
+      {
+        "name": "澎湃",
+        "url": "https://www.thepaper.cn/channel_119908",
+        "status": "频道及黄仁勋报道正文已读",
+        "note": "采用本人10月16日观点，标近期补充。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "首页可读；两篇快讯复读失败",
+        "note": "未以首页摘要冒充全文。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/",
+        "status": "首页可读",
+        "note": "未读付费正文；不视为稳定全文入口。"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/",
+        "status": "多篇正文已读",
+        "note": "采用奔驰新车、TikTok账号及近期智能体访问；Meta条款稿因日期排除。"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/",
+        "status": "首页检索读取完成",
+        "note": "未完成新的本期文章核实；不沿用上轮正文成功。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/business",
+        "status": "频道及关键矿产框架原文已读",
+        "note": "框架10月17日且非已落地项目；Reuters转载不计独立证据。"
+      },
+      {
+        "name": "TNGlobal",
+        "url": "https://technode.global/category/news/",
+        "status": "首页及10月18日技术出口文章全文已读",
+        "note": "引用政策报道，回到商务部原文核实；原政策10月16日。"
+      },
+      {
+        "name": "Mercedes-Benz",
+        "url": "https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495",
+        "status": "官方技术公告正文已读",
+        "note": "采用产品技术、充电条件；性能数字是厂商宣称。"
+      },
+      {
+        "name": "商务部",
+        "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html",
+        "status": "公告及答记者问已读",
+        "note": "区分草案与临时登记；附件未读，不扩写阈值。"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/ukraine-trump-zelenskyy-starlink-russia-war-drones/",
+        "status": "正文已读",
+        "note": "各方对限制原因和服务类型有分歧；未采用定责推断。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "status": "首页可读",
+        "note": "未完成适合今天的文章核实。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "入口失败",
+        "note": "不宣称已覆盖非洲当天新闻。"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/",
+        "status": "经济频道可读",
+        "note": "仅检索入口，未引用。"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/Business/Technology",
+        "status": "入口失败",
+        "note": "未引用。"
+      },
+      {
+        "name": "SCMP",
+        "url": "https://www.scmp.com/tech",
+        "status": "403",
+        "note": "未引用。"
+      },
+      {
+        "name": "Folha（巴西）",
+        "url": "https://m.folha.uol.com.br/tec/index.shtml",
+        "status": "本轮葡语科技及日期检索完成",
+        "note": "只取得索引线索，未读新正文；不冒充拉美完整覆盖。"
+      },
+      {
+        "name": "黄仁勋",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34270981",
+        "status": "中文报道正文已读；BG2官方简介可读",
+        "note": "只采用有日期的媒体明确引述，不把简介当完整访谈。"
+      },
+      {
+        "name": "李飞飞",
+        "url": "https://www.worldlabs.ai/blog",
+        "status": "官方索引已读；姓名日期检索完成",
+        "note": "最近所见本人文章9月28日；第三方转录日期未核实不引用。"
+      },
+      {
+        "name": "Karpathy",
+        "url": "https://karpathy.ai/",
+        "status": "本人账号及近期检索完成；网页入口失败",
+        "note": "不重复此前漏斗观点；英语编程名言系旧话，不因今日转载当新发言。"
+      },
+      {
+        "name": "Sam Altman",
+        "url": "https://blog.samaltman.com/",
+        "status": "本人博客可读；姓名日期检索完成",
+        "note": "博客可见文字日期不足；赞美跑车短帖不符合产品/商业化/基础设施主题价值，不收录。"
+      },
+      {
+        "name": "Dario Amodei",
+        "url": "https://darioamodei.com/",
+        "status": "本人索引已读；日期检索完成",
+        "note": "未获得可用近七天新观点，未用重构问答替代原话。"
+      },
+      {
+        "name": "Demis Hassabis",
+        "url": "https://deepmind.google/",
+        "status": "姓名、日期检索完成",
+        "note": "所见安全旧观点与聚合转录，不重复；本轮未声称读取官网全文。"
+      },
+      {
+        "name": "吴恩达",
+        "url": "https://www.andrewng.org/writing",
+        "status": "索引已读；10月16日新信403",
+        "note": "不凭摘要扩写本人建议，不绕过403。"
+      },
+      {
+        "name": "Elon Musk",
+        "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+        "status": "姓名检索及相关报道已读",
+        "note": "纪录片账号新闻不等于本人观点；不重复上期Roadster。"
+      },
+      {
+        "name": "X/Twitter",
+        "url": "https://x.com/karpathy",
+        "status": "403",
+        "note": "不采用未经核实社交镜像。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/nvidia/",
+        "status": "429",
+        "note": "暂时限流，未引用原帖。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/",
+        "status": "首页可读",
+        "note": "所见最新10月16日，不作当天新信息。"
+      },
+      {
+        "name": "One Useful Thing",
+        "url": "https://www.oneusefulthing.org/",
+        "status": "页面无正文",
+        "note": "本轮未跑通正文。"
+      },
+      {
+        "name": "其余常规媒体和博客",
+        "url": "https://xli-sansi.github.io/",
+        "status": "本轮未逐站检查",
+        "note": "Stratechery、Benedict Evans、WIRED、MIT Technology Review、IEEE Spectrum、TechCrunch、晚点、36氪、游戏葡萄、Import AI等保留在计划，未核实成功不标已采集。"
+      },
+      {
+        "name": "米哈游相关企业",
+        "url": "https://www.hoyoverse.com/en-us/news",
+        "status": "中英文名称与日期检索完成",
+        "note": "没有获得可收录当天新增，不用社区或旧背景填充。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "加州学生数据泄露、中国AI供应链IPO、Meta条款修改",
+        "reason": "已读原文并核对UTC，均属北京时间10月17日，无今天新增，不补进今天。"
+      },
+      {
+        "item": "金融时报AI智能体风险报道",
+        "reason": "频道可见，正文为订阅入口，不引用未读付费全文。"
+      },
+      {
+        "item": "吴恩达新信与黄仁勋BG2访谈",
+        "reason": "前者正文403，后者只读官方简介和日期，未读完整采访，不从标题编造观点。"
+      },
+      {
+        "item": "李飞飞、哈萨比斯第三方转录与聚合页面",
+        "reason": "抓取日期不等于发言日期；未核实原始日期和完整原文。哈萨比斯10月14日安全观点已在前期收录。"
+      },
+      {
+        "item": "Starlink限制、德国钓鱼邮件",
+        "reason": "相关报道与搜索已查，但中文快讯复读失败，部分说法有分歧，未拼接不完整证据写定责结论。"
+      },
+      {
+        "item": "米哈游／HoYoverse／Anuttacon及三位创始人相关企业",
+        "reason": "中英文名称及日期检索未获得可用当日实质新增；不采用社区猜测或旧融资背景，不混同个人和公司投资。"
+      },
+      {
+        "item": "多边开发银行关键矿产框架",
+        "reason": "CNA正文已读，原报道10月17日，未核实今天具体落地项目，不当作新建成产业案例。"
+      },
+      {
+        "item": "中国技术出口政策",
+        "reason": "仅在末尾标10月16日背景，不误报今天颁布最终目录；未读取附件阈值不作个案判断。"
+      }
+    ],
+    "regionalCoverage": "本轮尝试中文、英美、欧洲、东南亚、南亚、中东、非洲和巴西来源/检索。实际采用德国技术公告、英美科技报道、中文人物报道及亚洲媒体政策报道；非洲、中东、南亚、拉美未完成可引用的当日文章核实。入口可读和同源转载均不算独立地域证据。",
+    "cutoff": "仅覆盖本次更新前完成核实的内容，不代表全天或全球完整新闻。"
+  }
+}
