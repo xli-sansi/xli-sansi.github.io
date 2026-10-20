@@ -1,0 +1,565 @@
+{
+  "date": "2026-10-20",
+  "updatedAt": "2026-10-20T08:58:42.000+08:00",
+  "news": [
+    {
+      "id": "20261020-n-3m",
+      "title": "Amazon与3M扩大数据中心合作，采购与认股权挂钩",
+      "body": "3M向Amazon子公司发行认股权，主要部分的归属与光连接及其他数据中心产品采购额挂钩。",
+      "detail": "Reuters报道约85%的对应股份须随采购逐步归属，累计采购达到60亿美元时该部分完全归属。这是合同激励门槛，不是已经收到60亿美元订单，也不是Amazon已经买入全部对应股份。观察算力投资时，材料和连接器同样值得跟踪。",
+      "url": "https://www.reuters.com/business/retail-consumer/3m-expands-amazon-data-center-partnership-shares-gain-2026-10-19/",
+      "org": "Reuters · 公司披露报道",
+      "date": "报道：2026-10-19 22:21 UTC＝北京10-20 06:21；披露：美国10-19",
+      "archiveDate": "2026-10-20",
+      "kind": "数据中心"
+    },
+    {
+      "id": "20261020-n-ms",
+      "title": "微软把AI安全重点扩展到企业内部智能体",
+      "body": "微软发布企业内部智能体安全思路：不能仅因智能体由公司部署，就默认它的所有操作可信。",
+      "detail": "文章提出对身份、权限、运行环境和动作风险持续管理，并把既有Project Perception用于这一方向。该项目7月已公布，今天是治理方案的进一步阐述，不是首次发布；厂商主张也不等于已经证明所有越权行为都能阻断。",
+      "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+      "org": "Microsoft · 原始博客；产品供应商立场",
+      "date": "原文：美国10-19；The Verge报道：北京10-20 01:26",
+      "archiveDate": "2026-10-20",
+      "kind": "智能体安全",
+      "sources": [
+        {
+          "name": "The Verge当日检索入口",
+          "url": "https://www.theverge.com/"
+        }
+      ]
+    },
+    {
+      "id": "20261020-n-google",
+      "title": "Google让AI幻灯片与视频先确认方案，再生成成品",
+      "body": "Gemini Notebook新增分步共创：先根据资料建议主题，再让用户调整格式与视觉风格；Review开关允许先审大纲。",
+      "detail": "Google称将在未来一周向全球用户逐步开放，不能假定所有账号今天已可用。这有助于减少方向偏差，但不会自动保证引用正确、内容完整或成品版式合格，仍需人工核对。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+      "org": "Google · 产品原始公告",
+      "date": "原文：美国10-19；The Verge报道：北京10-20 04:26",
+      "archiveDate": "2026-10-20",
+      "kind": "AI创作流程"
+    },
+    {
+      "id": "20261020-n-mmx",
+      "title": "日本MMX探测器升空，目标是火星卫星采样返回",
+      "body": "据CNA援引JAXA直播，H3火箭于北京时间今天03:41搭载MMX升空，随后探测器完成分离。",
+      "detail": "任务目标是前往火卫一并带回样本，不是今天已经着陆或取得样本。官方任务资料介绍了推进、探测和返回三部分；这是多年期科学与工程任务，发射成功不代表后续全部成功。",
+      "url": "https://www.channelnewsasia.com/world/japan-mars-moon-mission-phobos-launch-rocket-space-6472976",
+      "org": "CNA · 发射报道；JAXA任务资料",
+      "date": "发射：2026-10-20 04:41日本时间＝北京03:41；报道：10-20",
+      "archiveDate": "2026-10-20",
+      "kind": "深空探索",
+      "sources": [
+        {
+          "name": "JAXA任务原始资料",
+          "url": "https://www.mmx.jaxa.jp/en/"
+        },
+        {
+          "name": "JAXA发射排程与直播入口（10月18日）",
+          "url": "https://global.jaxa.jp/news/2026/"
+        }
+      ]
+    },
+    {
+      "id": "20261020-n-sp",
+      "title": "S&P提醒：AI基础设施的债务风险不只在账面借款",
+      "body": "S&P分析师在伦敦圆桌讨论中提醒，科技公司对数据中心及相关企业的融资支持，可能带来尚未充分可见的责任。",
+      "detail": "这是评级机构对风险可见性的判断，不是已经查实隐瞒债务，也未给出额外负债的确定金额。分析师同时表示，目前没有因此必须调整评级的判断。关注实际担保、合同义务和现金流，而非把预测写成财务事实。",
+      "url": "https://www.reuters.com/business/top-hyperscalers-likely-have-more-ai-linked-debt-than-now-known-sp-global-warns-2026-10-19/",
+      "org": "Reuters · 具名S&P分析师表述",
+      "date": "报道：2026-10-19 16:17 UTC＝北京10-20 00:17；圆桌：伦敦10-19",
+      "archiveDate": "2026-10-20",
+      "kind": "基础设施融资",
+      "sources": [
+        {
+          "name": "CNA同源转载全文（不是独立证据）",
+          "url": "https://www.channelnewsasia.com/business/top-hyperscalers-likely-have-more-ai-linked-debt-now-known-sp-global-warns-6472816"
+        }
+      ]
+    },
+    {
+      "id": "20261020-n-apple",
+      "title": "Apple确认10月28日洛杉矶活动，产品细节仍待发布",
+      "body": "Apple已发出“Pro and tell”活动邀请，计划于美国东部时间10月28日13点在洛杉矶举行。",
+      "detail": "对应北京时间10月29日01点。活动是已确认的预告；触屏、OLED等具体新品配置仍属尚未正式公布的信息，本期不把媒体预测当作产品事实，也不据此建议提前购买。",
+      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "org": "The Verge · 活动邀请报道",
+      "date": "报道：2026-10-19 16:04 UTC＝北京10-20 00:04；活动尚未举行",
+      "archiveDate": "2026-10-20",
+      "kind": "消费科技"
+    },
+    {
+      "id": "20261020-n-eff",
+      "title": "Privacy Badger推出macOS Safari版，iOS仍非此次范围",
+      "body": "EFF宣布其免费反追踪扩展支持macOS上的Safari 26.5及以上版本。",
+      "detail": "扩展旨在阻止追踪器加载，并提供按站点停用等处理方式；它不是VPN，也不等于消除所有数据收集。EFF称仍将研究iOS支持，不能把桌面版发布写成iPhone已可用。",
+      "url": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos",
+      "org": "EFF · 原始发布与功能说明",
+      "date": "原文：美国10-19；The Verge报道：北京10-20 02:19",
+      "archiveDate": "2026-10-20",
+      "kind": "隐私工具"
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261020-t-review",
+      "title": "AI汇报服务：先验证客户是否愿为“内容把关”付费",
+      "body": "当日触发：Google把确认主题、审大纲加入幻灯片和视频生成过程，说明生成前的方向控制正成为产品环节。",
+      "detail": "机会假设：小型团队可能更需要整理论点、核对来源和审核结构，而不只是代按生成按钮。先用公开或已获授权资料，为一个真实汇报制作大纲与证据对应表，访谈三位负责人是否愿付费。门槛是行业理解与事实核对；没有本期确认的订单，不上传受限公司文件。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+      "org": "依据Google公告；编辑机会假设",
+      "date": "当日媒体报道：北京2026-10-20 04:26；原文美国10-19",
+      "archiveDate": "2026-10-20",
+      "kind": "机会验证"
+    },
+    {
+      "id": "20261020-t-agent",
+      "title": "企业AI落地：权限清单与人工接管比“能自动做”更关键",
+      "body": "当日触发：微软明确讨论内部智能体的身份、权限、运行环境与持续监督。",
+      "detail": "机会假设：准备部署内部助手的团队可能需要动作边界梳理。先在测试环境选一个获授权流程，列出只读、需审批、禁止执行三类动作，并演示失败时如何转人工。门槛是权限知识、日志与验证能力；不能用普通流程咨询替代专业安全审计，也不绕过公司的工具限制。",
+      "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+      "org": "依据Microsoft原始博客；编辑机会假设",
+      "date": "当日媒体报道：北京2026-10-20 01:26；方案原文美国10-19",
+      "archiveDate": "2026-10-20",
+      "kind": "机会验证"
+    },
+    {
+      "id": "20261020-t-optical",
+      "title": "数据中心配套：先验证安装与验收资料需求",
+      "body": "当日触发：3M扩大客户合作，同时公布与GSEO的光互连制造合作，需求延伸到技术量产和交付环节。",
+      "detail": "机会假设：设备集成商可能需要安装说明、培训材料及验收记录模板。先用公开资料做一份非涉密交付示例，访谈三家集成商，核实语言、记录或培训是否真有预算。门槛是技术准确性与供应商授权；专业光学测试仍需相应能力，不能凭产业增长就认定个人副业有收入。",
+      "url": "https://investors.3m.com/news-events/press-releases/detail/1945/3m-announces-collaboration-with-gseo-to-advance-expanded",
+      "org": "3M · 制造合作公告；编辑机会假设",
+      "date": "原公告：美国2026-10-19 17:31 EDT＝北京10-20 05:31",
+      "archiveDate": "2026-10-20",
+      "kind": "机会验证",
+      "sources": [
+        {
+          "name": "Reuters客户合作报道",
+          "url": "https://www.reuters.com/business/retail-consumer/3m-expands-amazon-data-center-partnership-shares-gain-2026-10-19/"
+        }
+      ]
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261020-i-optical",
+      "title": "美国3M：光互连量产依赖跨地区精密制造",
+      "body": "3M宣布与中国台湾地区的GSEO合作，并拟通过私募认购约4.7%股权；投资尚待通常交割条件。",
+      "detail": "产品是数据中心光互连配套，上游涉及材料、精密光学与制造，中游是连接器等组件，下游面向云与数据中心客户。公告描述GSEO支持制造准备及扩产，具体产量、单价和利润未披露。编辑判断：门槛在一致性、验证与规模交付。该链条本身含台湾地区企业，不能称中国没有；大陆厂商同类技术与成本对照本期尚未完成。",
+      "url": "https://investors.3m.com/news-events/press-releases/detail/1945/3m-announces-collaboration-with-gseo-to-advance-expanded",
+      "org": "3M · 原始制造与投资公告；编辑拆解",
+      "date": "发布：美国2026-10-19 17:31 EDT＝北京10-20 05:31",
+      "archiveDate": "2026-10-20",
+      "kind": "海外产业"
+    },
+    {
+      "id": "20261020-i-mmx",
+      "title": "日本与欧美：深空探测由多种专用系统协同交付",
+      "body": "今天MMX升空，为观察深空探测配套提供了新节点：JAXA任务资料列出三大模块、科学仪器和国际设备合作。",
+      "detail": "交付物包括推进、探测、采样和返回系统，需求方是航天机构及科研项目；上游仪器与部件经整星集成、发射和运行后服务科学数据与样本研究。这是科研项目交付链，不是已验证的消费市场，供应合同金额和利润未核实。门槛在长期可靠性、系统验证与任务周期；本期未做中国对应供应商逐项比较，不称国内空白，也不把发射成功写成采样完成。",
+      "url": "https://www.mmx.jaxa.jp/en/",
+      "org": "JAXA · 任务资料；CNA · 今日进展；编辑拆解",
+      "date": "当日节点：2026-10-20发射；任务结构资料为持续背景",
+      "archiveDate": "2026-10-20",
+      "kind": "海外产业",
+      "sources": [
+        {
+          "name": "今日发射报道",
+          "url": "https://www.channelnewsasia.com/world/japan-mars-moon-mission-phobos-launch-rocket-space-6472976"
+        }
+      ]
+    }
+  ],
+  "views": [
+    {
+      "id": "20261020-v-huang",
+      "title": "黄仁勋：制造经验不会失去价值，AI应增强它",
+      "body": "在柏林与德国总理对谈时，黄仁勋主张把AI与制造、汽车和工业知识结合，并鼓励企业利用自身积累的数据。",
+      "detail": "这是对产业方向的判断，不是所有工厂都能立即获益的证据，也不能据此推断所有岗位不会减少。英伟达销售相关芯片与软件，存在供应商立场；应继续看具体场景的成本、产能和质量结果。本条为中文概括，不是逐字引语。",
+      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "org": "NVIDIA · 对谈原始实录节选；AP报道核对",
+      "date": "发言：德国2026-10-19；AP报道：北京10-20 03:29",
+      "archiveDate": "2026-10-20",
+      "kind": "人物观点",
+      "sources": [
+        {
+          "name": "AP报道（华盛顿邮报转载，同源）",
+          "url": "https://www.washingtonpost.com/business/2026/10/19/jensen-huang-nvidia-merz-germany-economy-artificial-intelligence/6cdd6390-cbf3-11f1-ac04-9f58578a68b4_story.html"
+        }
+      ]
+    }
+  ],
+  "audit": {
+    "edition": "2026-10-20",
+    "mode": "北京时间当日发布或实质新增优先；近七天人物补充明确发言日；不凑数",
+    "target_per_section": 10,
+    "counts": {
+      "news": 7,
+      "trends": 3,
+      "industry": 2,
+      "views": 1
+    },
+    "sectionNotes": {
+      "news": "本期7条，缺3条。均有北京时间10月20日新报道或发射节点；官网只标10月19日而未标时区的公告，使用明确UTC时刻的媒体报道核对，不擅自推定官网精确发布时间。Apple为活动预告、微软项目7月已公布、Google逐步开放、MMX仅完成发射阶段，均已区分。未用旧转载或匿名交易传闻补齐。",
+      "trends": "本期3条，缺7条。今天重新研究内容把关、内部智能体权限与数据中心配套交付三种需求；均有当日触发、潜在买方、门槛与低成本验证步骤。未核实付费订单，不能把编辑假设当作已证明风口。",
+      "industry": "本期2条，缺8条。美国3M跨地区光互连制造有当日公告；日本MMX用今天发射节点连接持续的任务结构资料。后一项是科研项目链，不是已成熟消费市场。未核实分环节利润和中国供应商逐项对照，缺口已明示，不能称中国没有。",
+      "views": "本期1条，缺9条。黄仁勋10月19日德国工业AI发言有公司节选与AP报道对应，明确供应商立场。其他七人未取得适合主题、近七天且不重复的可用原文；不代表没有发言。吴恩达新信403，Karpathy的gist活跃日期不等于新观点；不凭摘要、镜像或旧帖填数。"
+    },
+    "researchPlan": [
+      "Reuters",
+      "AP",
+      "Bloomberg",
+      "FT",
+      "WSJ",
+      "澎湃",
+      "财新",
+      "第一财经",
+      "界面",
+      "The Verge",
+      "Ars Technica",
+      "WIRED",
+      "MIT Technology Review",
+      "IEEE Spectrum",
+      "TechCrunch",
+      "Simon Willison",
+      "Benedict Evans",
+      "Stratechery",
+      "One Useful Thing",
+      "Import AI",
+      "X/Twitter",
+      "Instagram",
+      "The New York Times",
+      "The Washington Post",
+      "BBC",
+      "The Guardian",
+      "The Economist",
+      "CNA",
+      "Nikkei Asia",
+      "Rest of World",
+      "TechCabal",
+      "Al Jazeera",
+      "SCMP",
+      "各地区可靠媒体及行业原始资料",
+      "晚点",
+      "36氪",
+      "游戏葡萄",
+      "各人物原始博客与完整采访",
+      "TNGlobal",
+      "欧洲当地可靠媒体",
+      "Folha de S.Paulo（巴西）",
+      "企业技术公告及监管原文",
+      "GitHub原始版本发布记录",
+      "EQT及Anthropic原始公告",
+      "WPVI/ABC当地原报道",
+      "Microsoft与Google产品原始博客",
+      "EFF原始发布",
+      "JAXA任务与发射资料",
+      "AP现场报道及合法公开转载"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/technology/",
+        "status": "频道及多篇报道正文已读",
+        "note": "采用3M客户合作、S&P具名分析师表述。Modal、DeepSeek禁令、Meta道歉、OpenAI案件稿原始UTC时间对应北京19日，不当20日新增；匿名交易传闻不收。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/hub/technology",
+        "status": "频道入口失败；AP黄仁勋稿在华盛顿邮报公开转载可读",
+        "note": "ABC对应入口失败。采用NVIDIA原文为观点主体；AP转载仅作现场与日期对应，不计两个独立现场报道。"
+      },
+      {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "频道读取及当日限定检索受限",
+        "note": "检索提示robots限制，未取得可引用正文，不用镜像或摘要代替。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/innovation",
+        "status": "频道读取及当日限定检索受限",
+        "note": "非官方BBC镜像出现在检索结果，未使用；不绕过访问限制。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/science-and-technology",
+        "status": "频道失败；当日限定检索受robots限制",
+        "note": "未引用未读正文。"
+      },
+      {
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2026/10/19/jensen-huang-nvidia-merz-germany-economy-artificial-intelligence/6cdd6390-cbf3-11f1-ac04-9f58578a68b4_story.html",
+        "status": "科技频道及AP黄仁勋报道正文已读",
+        "note": "正文有短摘要限制，本期只作日期和主题核对，中文观点主体来自NVIDIA原始节选。"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology",
+        "status": "频道、当日限定检索及澳大利亚职场监控报道已读",
+        "note": "文章首发对应北京19日22点；后续修改是否有实质新增未核实，不凭修改日期充今日。另有25词摘要限制，未引用入卡。"
+      },
+      {
+        "name": "FT",
+        "url": "https://www.ft.com/technology",
+        "status": "频道可读",
+        "note": "欧洲卫星通信、工业AI及基础设施等仅为本轮发现线索，未读付费正文，不计为引用。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/tech",
+        "status": "频道可读",
+        "note": "未读取本期相关文章付费全文；不把首页可读写成全文跑通。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/technology",
+        "status": "入口返回约5个月前缓存",
+        "note": "本轮不是有效当天采集；未引用旧缓存标题，也未据其他媒体转述扩写新品。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com/",
+        "status": "首页检索已读",
+        "note": "所见主要产业文章为19日或更早；不把首页刷新日期当文章日期。"
+      },
+      {
+        "name": "澎湃",
+        "url": "https://www.thepaper.cn/channel_119908",
+        "status": "本轮科技频道可读",
+        "note": "未完成适合今天的新增正文核实，没有因媒体品牌免除日期要求。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "本轮首页可读",
+        "note": "未完成新文章级引用，首页摘要不当作已读全文。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/",
+        "status": "本轮首页可读",
+        "note": "未读相关付费正文，不标为稳定全文入口。"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/",
+        "status": "首页、Apple活动、能源与复古主机文章正文已读",
+        "note": "从当天带UTC时刻的条目追溯微软、Google、EFF原文；Analogue原稿16日、能源稿讨论上周报告，未冒充当日实质新研究。"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/",
+        "status": "首页及海底地热、飞艇、游戏克隆、Florida数据事件正文已读",
+        "note": "所涉试验为8至9月，数据事件原通知为上周；未以今天读取把旧事件改成今天。游戏报道原始发言也较早，未采用。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/world/japan-mars-moon-mission-phobos-launch-rocket-space-6472976",
+        "status": "频道、MMX发射与S&P稿正文已读",
+        "note": "MMX为当日发射报道；S&P来自Reuters，不算独立证据。正文成功与官网静态排程成功分开记录，未独立回看完整直播。"
+      },
+      {
+        "name": "TNGlobal",
+        "url": "https://technode.global/category/news/",
+        "status": "本轮新闻索引可读",
+        "note": "所见近期最新为19日香港U6GHz等，未完成今天的实质新增，不凑地区配额。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "status": "本轮首页可读",
+        "note": "未找到完成本期核实的当天项目级材料。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "本轮403",
+        "note": "未完成非洲今天的正文核实。"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/",
+        "status": "本轮频道可读",
+        "note": "未完成可引用的当日科技产业正文，不冒充地区完整覆盖。"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/Business/Technology",
+        "status": "本轮入口失败",
+        "note": "未采用未读正文。"
+      },
+      {
+        "name": "SCMP",
+        "url": "https://www.scmp.com/tech",
+        "status": "本轮入口失败",
+        "note": "未采用，失败不是永久结论。"
+      },
+      {
+        "name": "Folha（巴西）",
+        "url": "https://m.folha.uol.com.br/tec/index.shtml",
+        "status": "本轮入口可读但为约6日前缓存；另做跨地区日期检索",
+        "note": "未得到可用的拉美当天文章，不用历史页充新覆盖。"
+      },
+      {
+        "name": "Microsoft",
+        "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+        "status": "原始博客正文已读",
+        "note": "区分今天内部智能体治理阐述与7月已公布的Project Perception；厂商控制能力主张不当独立安全验证。"
+      },
+      {
+        "name": "Google",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+        "status": "原始产品公告正文已读",
+        "note": "核实先确认方案与Review流程，以及未来一周逐步开放；不保证所有账号已可用。"
+      },
+      {
+        "name": "EFF",
+        "url": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos",
+        "status": "原始发布正文已读",
+        "note": "仅支持macOS Safari 26.5及以上；iOS非此次已完成范围。"
+      },
+      {
+        "name": "3M",
+        "url": "https://investors.3m.com/news-events/press-releases/detail/1945/3m-announces-collaboration-with-gseo-to-advance-expanded",
+        "status": "投资者关系入口与GSEO公告正文已读",
+        "note": "官网目录给出10月19日17:31 EDT，换算北京20日05:31；投资约4.7%仍待交割，不是量产已完成。Amazon合作主要依据Reuters披露报道。"
+      },
+      {
+        "name": "JAXA",
+        "url": "https://www.mmx.jaxa.jp/en/",
+        "status": "MMX任务结构与发射排程原页已读",
+        "note": "官方静态页仍是发射预告；今天的成功升空与分离由CNA援引直播报道，未将预告页当作成功通报。"
+      },
+      {
+        "name": "NVIDIA／黄仁勋",
+        "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+        "status": "10月19日德国对谈官方节选正文已读；AP现场稿核对",
+        "note": "采用工业AI观点，不把政府目标、公司投资计划或厂商效率数字当已独立验证结果。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/",
+        "status": "本轮首页已读",
+        "note": "新帖偏编程职业体验，非八人名单重大突破，未进入人物栏；昨日插件修复不重复。"
+      },
+      {
+        "name": "Benedict Evans",
+        "url": "https://www.ben-evans.com/",
+        "status": "本轮入口可读",
+        "note": "未完成新的当日文章级核实，未引用。"
+      },
+      {
+        "name": "Stratechery",
+        "url": "https://stratechery.com/",
+        "status": "本轮入口可读",
+        "note": "未读相关订阅正文，不标全文跑通。"
+      },
+      {
+        "name": "李飞飞／World Labs",
+        "url": "https://www.worldlabs.ai/blog",
+        "status": "官方索引及姓名日期检索完成",
+        "note": "本人所见最新9月28日，超七天；收购旧文不会因今日索引重现成为新观点。"
+      },
+      {
+        "name": "Karpathy",
+        "url": "https://x.com/karpathy",
+        "status": "姓名日期检索；X原账号读取失败",
+        "note": "gist的Last active及其他人收藏日期不证明新发言，不用第三方镜像。"
+      },
+      {
+        "name": "Sam Altman",
+        "url": "https://blog.samaltman.com/",
+        "status": "本轮本人博客及姓名日期检索完成",
+        "note": "未取得符合产品、商业化、基础设施主题的可用新增，不采私人纠纷或跑车短帖补数。"
+      },
+      {
+        "name": "Dario Amodei",
+        "url": "https://darioamodei.com/",
+        "status": "本轮本人页面及姓名日期检索完成",
+        "note": "旧文章与公益基金转述不充本人新观点。"
+      },
+      {
+        "name": "Demis Hassabis",
+        "url": "https://deepmind.google/",
+        "status": "姓名、日期和科研主题检索完成",
+        "note": "旧安全观点与LinkedIn旧文再转载不重复；本轮未声称读取官网新文章全文。"
+      },
+      {
+        "name": "吴恩达",
+        "url": "https://www.andrewng.org/writing",
+        "status": "本人索引可读；10月16日新信403",
+        "note": "峰会预告与人物成长史不等于新的应用建议；新信全文失败不凭索引扩写。"
+      },
+      {
+        "name": "Elon Musk",
+        "url": "https://abcnews.com/Technology/wireStory/musk-pledges-share-spacex-company-kid-america-137374394",
+        "status": "本轮姓名主题检索完成，相关新闻只作线索",
+        "note": "不凭摘要扩写股权赠送安排，本期人物优先科技产业发展主题。"
+      },
+      {
+        "name": "X/Twitter",
+        "url": "https://x.com/karpathy",
+        "status": "本轮原始账号读取失败",
+        "note": "Steam链接跳转X的开发者声明未取得原帖核实，不用镜像替代。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/nvidia/",
+        "status": "本轮原始账号读取失败",
+        "note": "未采用原帖，不沿用此前结果冒充本轮可访问。"
+      },
+      {
+        "name": "米哈游及相关企业",
+        "url": "https://www.hoyoverse.com/en-us/news",
+        "status": "miHoYo／HoYoverse／Anuttacon及三位创始人的中英文日期检索完成",
+        "note": "未获得可收录今天新增；招聘聚合、周边商品列表和旧投融资不充主要公司新闻，不混同个人和公司投资。"
+      },
+      {
+        "name": "其余常规来源",
+        "url": "https://xli-sansi.github.io/",
+        "status": "本轮未逐站检查",
+        "note": "One Useful Thing、Import AI、WIRED、MIT Technology Review、IEEE Spectrum、TechCrunch、晚点、36氪、游戏葡萄等仍在计划，不标本轮已采集。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "Modal采用NVIDIA CPU、美国DeepSeek禁令、Meta账号恢复、OpenAI案件Reuters稿",
+        "reason": "逐篇读取正文并核对UTC，原始报道均属北京时间10月19日；未核实20日实质新增，不以今天检索时间重标。"
+      },
+      {
+        "item": "Nscale／Anthropic云交易、OpenAI融资、Waymo车队扩张等传闻线索",
+        "reason": "没有取得符合要求的已确认新公告，不使用匿名交易消息或未读付费全文。"
+      },
+      {
+        "item": "海底地热试验与Sceye跨太平洋飞艇",
+        "reason": "Ars全文已读，实际试验在9月及8至9月，无今天的新测试；不以科技趣味或地区覆盖为由用历史案例补齐。"
+      },
+      {
+        "item": "Florida DMV、Analogue主机与游戏克隆",
+        "reason": "原通知、首发文章或原始开发者表述较早；Steam开发者新闻页未取得正文，X原文未核实。不把首页出现当今天发生。"
+      },
+      {
+        "item": "Guardian澳大利亚职场监控报道",
+        "reason": "正文已读，首发对应北京19日22点；20日修改是否实质新增尚未核实，未充今日新闻，亦遵守25词限制。"
+      },
+      {
+        "item": "人物旧观点、第三方转录、gist活跃日期",
+        "reason": "抓取／收藏／转载日期不等于发言日；不重复昨日或超过七天的观点。"
+      },
+      {
+        "item": "纽约时报、BBC、经济学人及社交平台受限内容",
+        "reason": "本轮确实尝试读取和检索，失败不绕过；不把镜像、标题或摘要当成原文。"
+      },
+      {
+        "item": "米哈游及三位创始人相关企业",
+        "reason": "未取得可靠当天新增；不采社区猜测或过往企业关系填数。"
+      }
+    ],
+    "regionalCoverage": "本轮实际尝试英美、欧洲、东亚、东南亚、南亚、中东、非洲与巴西来源或日期检索。实际采用美国科技公司、美国材料商跨地区制造合作、日本国际深空任务和伦敦具名评级分析师报道。非洲、中东、拉美及南亚未完成可引用的当日项目级材料；CNA同源Reuters转载不算新增地区独立证据。中文主流媒体入口有查，但未以旧稿补引用数量。",
+    "cutoff": "仅覆盖本次更新前完成核实的材料；北京时间当天尚未结束，少发不意味着当天或该人物没有其他新闻。"
+  }
+}
