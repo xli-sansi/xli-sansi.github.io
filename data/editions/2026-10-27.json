@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-27",
+  "updatedAt": "2026-10-27T16:20:04.846+08:00",
+  "news": [
+    {
+      "id": "20261027-n-meta",
+      "title": "NVIDIA向Meta投资30亿美元，扩大Muse合作",
+      "body": "Reuters报道，两家公司10月27日公布投资及模型合作，目标包括降低运行成本。",
+      "detail": "合作方向不等于产品已经交付；报道提到的其他智能体工具合作仍属探索。值得观察的是算力供应商与模型客户之间的资本联系。",
+      "url": "https://www.reuters.com/technology/nvidia-meta-partner-muse-agent-nvidia-invests-3-billion-2026-10-27/",
+      "org": "Reuters",
+      "date": "报道及公司消息：2026-10-27",
+      "archiveDate": "2026-10-27",
+      "kind": "AI基础设施"
+    },
+    {
+      "id": "20261027-n-anthropic",
+      "title": "Anthropic上市文件：收入增长与安全、算力风险并存",
+      "body": "界面10月27日报道其上市文件；AP同时梳理模型安全、容量及客户集中风险。",
+      "detail": "文件披露上半年收入约162.86亿美元。约807.48亿美元净亏损不能直接理解为现金消耗：其中大额来自可转换票据估值。风险披露也不代表所列损害已发生。本轮读取媒体正文，未声称直接审阅全部申报文件。",
+      "url": "https://www.jiemian.com/article/15245583.html",
+      "org": "界面新闻 / AP",
+      "date": "报道：2026-10-27；申报：北京时间10-26晚",
+      "archiveDate": "2026-10-27",
+      "kind": "AI商业化",
+      "sources": [
+        {
+          "name": "界面：财务结构",
+          "url": "https://www.jiemian.com/article/15245583.html"
+        },
+        {
+          "name": "AP：风险披露",
+          "url": "https://apnews.com/article/anthropic-ipo-risk-factors-bbb607ff45bfbd3db0604e232e8b9d1c"
+        }
+      ]
+    },
+    {
+      "id": "20261027-n-bok",
+      "title": "韩国央行测试AI投资放缓对芯片出口的影响",
+      "body": "Reuters报道，压力情景下，韩国明年芯片出口可能比原预测少500亿至1000亿美元。",
+      "detail": "这是条件性情景，不是已经发生的出口下降，也不是确定预测。芯片需求与美国AI投资关联，观察订单时需要同时看客户资本开支。",
+      "url": "https://www.reuters.com/world/asia-pacific/bank-korea-warns-countrys-chip-exports-could-fall-by-up-100-billion-if-ai-2026-10-27/",
+      "org": "Reuters · 韩国央行情景分析",
+      "date": "报道及分析发布：2026-10-27",
+      "archiveDate": "2026-10-27",
+      "kind": "芯片"
+    },
+    {
+      "id": "20261027-n-ios",
+      "title": "iOS 27.2增加动作数据限制，针对摇一摇广告触发",
+      "body": "界面报道，10月27日推送的正式版在中国市场提供按应用限制动作数据的设置。",
+      "detail": "入口位于隐私与安全中的运动与健身设置。限制传感器数据可以减少相关广告误触，不等于屏蔽所有广告。此前测试版已有相关功能；今天的新节点是正式版推送。",
+      "url": "https://www.jiemian.com/article/15246283.html",
+      "org": "界面新闻",
+      "date": "报道及正式版推送：2026-10-27",
+      "archiveDate": "2026-10-27",
+      "kind": "手机体验"
+    },
+    {
+      "id": "20261027-n-uk",
+      "title": "英国AI增长区报告质疑社区参与不足",
+      "body": "Spotlight on Corruption今天发布报告，称所审查的政策会议明显偏向企业及行业组织。",
+      "detail": "研究期为2024年7月至2026年6月，报告统计84%的相关部长会议面向商业利益方，并建议扩大公众参与。这是倡议组织的调查与建议，不能据此认定存在违法腐败。数据中心选址也牵涉地方协商。",
+      "url": "https://www.spotlightcorruption.org/report/zoned-out-how-ordinary-people-public-interest-groups-and-local-communities-are-being-excluded-from-policy-making-on-ai-growth-zones",
+      "org": "Spotlight on Corruption · 原始报告",
+      "date": "报告发布：2026-10-27；研究期：2024-07至2026-06",
+      "archiveDate": "2026-10-27",
+      "kind": "数据中心治理"
+    },
+    {
+      "id": "20261027-n-spain",
+      "title": "西班牙调整数据中心规则草案，扩大过渡安排",
+      "body": "新草案把适用规模门槛从超过1MW提高至超过10MW，并放宽部分清洁电力达标时间。",
+      "detail": "仍是拟议规则，不是已生效的最终法规。开发者的电力安排可能因此变化，不能把草案直接当作项目获批。",
+      "url": "https://www.reuters.com/business/energy/spain-relaxes-initial-proposal-data-center-rules-2026-10-26/",
+      "org": "Reuters",
+      "date": "报道：10-26 22:03 UTC＝北京2026-10-27 06:03；当地公布：10-26",
+      "archiveDate": "2026-10-27",
+      "kind": "能源与算力"
+    },
+    {
+      "id": "20261027-n-thai",
+      "title": "泰国9月汽车产量下降，国内销量仍增长",
+      "body": "泰国工业联合会今天公布：9月汽车产量同比下降6.08%，国内销量增长14.28%。",
+      "detail": "统计期是9月，今天是数据发布日。产量与销售并非同一指标；电动车带动国内需求，不能据此推断全部制造环节同步增长。",
+      "url": "https://www.reuters.com/world/asia-pacific/thailands-september-car-production-drops-608-year-2026-10-27/",
+      "org": "Reuters · 泰国工业联合会数据",
+      "date": "发布及报道：2026-10-27；统计期：2026-09",
+      "archiveDate": "2026-10-27",
+      "kind": "汽车产业"
+    },
+    {
+      "id": "20261027-n-terra",
+      "title": "GPT-6.1 Terra发布：视觉任务与电脑操作成为重点",
+      "body": "今天的科技媒体报道跟进OpenAI于10月26日发布的新模型；官网展示视觉推理及工作流程能力。",
+      "detail": "模型表现与演示来自厂商，尚不能当作独立验证。对设计、文档和软件操作，更有价值的检查是实际任务能否被可靠复现，而不是只看展示效果。原公告日期保留，不将其写成今天首次发布。",
+      "url": "https://www.helpnetsecurity.com/2026/10/27/gpt-6-1-terra-released/",
+      "org": "Help Net Security / OpenAI",
+      "date": "报道：2026-10-27；原公告：2026-10-26",
+      "archiveDate": "2026-10-27",
+      "kind": "AI产品",
+      "sources": [
+        {
+          "name": "今日报道",
+          "url": "https://www.helpnetsecurity.com/2026/10/27/gpt-6-1-terra-released/"
+        },
+        {
+          "name": "OpenAI原公告",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261027-t-visual",
+      "title": "视觉智能体的机会：先做可复查的小流程",
+      "body": "当日触发：Terra今日报道及原始能力说明。证据是产品发布；客户愿意付费仍未验证。",
+      "detail": "编辑假设：面向设计工作室或小企业，测试图纸信息核对、票据录入等单一流程。门槛是尺寸、字段和操作错误的复核，以及数据授权。低成本验证：用20份公开或获授权样本，对比人工耗时、错误率及返工成本，再询问三位潜在买方；不要先承诺全自动。",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "org": "OpenAI / 编辑分析",
+      "date": "触发报道：2026-10-27；原公告：10-26",
+      "archiveDate": "2026-10-27",
+      "kind": "待验证机会",
+      "sources": [
+        {
+          "name": "原始产品说明",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
+        },
+        {
+          "name": "今日报道",
+          "url": "https://www.helpnetsecurity.com/2026/10/27/gpt-6-1-terra-released/"
+        }
+      ]
+    },
+    {
+      "id": "20261027-t-community",
+      "title": "数据中心项目的公众说明，需要可核对的材料",
+      "body": "当日触发：英国报告提出地方参与与透明度不足。它证明存在争议，不证明已有服务订单。",
+      "detail": "编辑假设：项目团队或社区组织可能需要地图、用电用水说明及问题追踪页面。门槛是获取可靠项目数据、说明不确定性，并由专业人员审核技术结论。验证：选一份公开规划文件，制作一页证据索引，找两类使用者分别试读；记录他们是否愿意为更新维护付费。",
+      "url": "https://www.spotlightcorruption.org/report/zoned-out-how-ordinary-people-public-interest-groups-and-local-communities-are-being-excluded-from-policy-making-on-ai-growth-zones",
+      "org": "Spotlight on Corruption / 编辑分析",
+      "date": "触发报告：2026-10-27",
+      "archiveDate": "2026-10-27",
+      "kind": "待验证机会"
+    },
+    {
+      "id": "20261027-t-mobile",
+      "title": "应用权限变化带来体验测试需求",
+      "body": "当日触发：iOS正式版新增动作数据限制。已确认的是功能报道，不是测试服务市场规模。",
+      "detail": "编辑假设：应用团队需要确认权限被拒后，正常功能是否继续工作、广告是否误触。可服务对象是中小应用开发者。门槛包括真机覆盖、复现能力及隐私保护。低成本验证：对自有或获授权应用制作允许／拒绝权限的测试表，交付可复现问题，再询问团队是否需要持续回归测试。",
+      "url": "https://www.jiemian.com/article/15246283.html",
+      "org": "界面新闻 / 编辑分析",
+      "date": "触发报道及推送：2026-10-27",
+      "archiveDate": "2026-10-27",
+      "kind": "待验证机会"
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261027-i-dhl",
+      "title": "德国DHL与亚洲航线：AI硬件运输改变货运组合",
+      "body": "界面今日采访报道显示，芯片和服务器等高价值急件增加航空物流需求；大型配套设备仍可能采用海运。",
+      "detail": "链条：硬件供应商→包装、仓储与跨境运输→组装商或数据中心；买方购买交付服务，门槛是货物处理和时效可靠性。报道明确中国供应商及东南亚中转参与其中，因此不能称中国没有。企业受访者看法不代表全行业运量，单件价值高也不等于足以替代电商货量。",
+      "url": "https://www.jiemian.com/article/15246035.html",
+      "org": "界面新闻 · DHL具名采访",
+      "date": "报道：2026-10-27；采访：2026-10-23",
+      "archiveDate": "2026-10-27",
+      "kind": "跨境硬件物流"
+    },
+    {
+      "id": "20261027-i-wartsila",
+      "title": "芬兰Wärtsilä：算力需求传导到电站设备订单",
+      "body": "今天披露的第三季度新订单同比增长33%，Reuters将数据中心供电需求列为推动因素。",
+      "detail": "产品是供电设备与模块化电站，服务数据中心等买方。链条可理解为设备制造→项目集成→供电；商业收入来自设备和项目交付。编辑判断：可靠性与工程交付是门槛，不能当作轻资产副业。中国同类供应商的逐项对照尚未核实，不声称技术独有。此处依据今日财报报道，并非旧产业案例翻新。",
+      "url": "https://www.reuters.com/business/energy/finlands-wartsila-tops-quarterly-order-estimates-carried-by-data-centre-power-2026-10-27/",
+      "org": "Reuters · 公司季度披露",
+      "date": "报道及披露：2026-10-27；业绩期：2026年第三季度",
+      "archiveDate": "2026-10-27",
+      "kind": "数据中心供电"
+    }
+  ],
+  "views": [
+    {
+      "id": "20261027-v-musk",
+      "title": "马斯克：AI专营算力公司可能面临融资与整合压力",
+      "body": "近七天补充。Reuters引述他10月25日的X发言，称部分AI公司的债务融资环境趋紧，并预计行业整合。",
+      "detail": "中文概括，不是本人中文原话，也不是企业将倒闭的已证实事实。他本人参与AI和基础设施业务，存在商业立场。本轮读取Reuters引述正文，未直接读取X原帖；不采用社交镜像作证据。",
+      "url": "https://www.reuters.com/business/media-telecom/musk-says-spacex-raised-40-billion-debt-gpus-2026-10-25/",
+      "org": "Elon Musk · Reuters引述本人发言",
+      "date": "发言及报道：2026-10-25；近七天补充",
+      "archiveDate": "2026-10-27",
+      "kind": "人物观点"
+    },
+    {
+      "id": "20261027-v-huang",
+      "title": "黄仁勋：算力需求强，但建设资金跟不上",
+      "body": "近七天补充。Business Insider在10月22日报道其CNBC采访：他将专业AI云的困难归因于资金供给，而非缺少需求。",
+      "detail": "中文概括；这是供应商兼投资方的判断，不能推出每家算力公司的债务都安全。与马斯克的融资担忧可对照阅读。本轮读到具名媒体的直接引语，未取得完整采访视频，不扩展为对全部市场的定论。",
+      "url": "https://www.businessinsider.com/jensen-huang-neocloud-demand-soaring-coreweave-stock-slides-2026-10",
+      "org": "Jensen Huang · Business Insider引述CNBC",
+      "date": "采访及报道：2026-10-22；近七天补充",
+      "archiveDate": "2026-10-27",
+      "kind": "人物观点"
+    }
+  ],
+  "audit": {
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/technology/nvidia-meta-partner-muse-agent-nvidia-invests-3-billion-2026-10-27/",
+        "status": "已读取并引用",
+        "note": "逐篇读取Meta、韩国央行、西班牙、泰国、Wärtsilä及马斯克报道；新闻日期按北京时间核对。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/anthropic-ipo-risk-factors-bbb607ff45bfbd3db0604e232e8b9d1c",
+        "status": "已读取并引用",
+        "note": "读取Anthropic风险披露报道；不把风险因素写成已发生损害。"
+      },
+      {
+        "name": "界面新闻",
+        "url": "https://www.jiemian.com/article/15245583.html",
+        "status": "已读取并引用",
+        "note": "读取上市文件、iOS、航空物流及欧洲汽车销售正文；欧洲汽车排名口径混合，未采用该排名。"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+        "status": "已读取，未直接引用",
+        "note": "读取英国数据中心报道；采用其链接的原始研究，避免把倡议组织结论写成司法认定。"
+      },
+      {
+        "name": "Spotlight on Corruption",
+        "url": "https://www.spotlightcorruption.org/report/zoned-out-how-ordinary-people-public-interest-groups-and-local-communities-are-being-excluded-from-policy-making-on-ai-growth-zones",
+        "status": "已读取并引用",
+        "note": "原始报告日期10月27日；明确研究期及组织立场。"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+        "status": "已读取并引用",
+        "note": "产品原文；厂商测试不等于独立验证。"
+      },
+      {
+        "name": "Help Net Security",
+        "url": "https://www.helpnetsecurity.com/2026/10/27/gpt-6-1-terra-released/",
+        "status": "已读取并引用",
+        "note": "读取10月27日报道，与原公告日期分开记录。"
+      },
+      {
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/jensen-huang-neocloud-demand-soaring-coreweave-stock-slides-2026-10",
+        "status": "已读取并引用",
+        "note": "读取黄仁勋采访引语报道；完整CNBC采访未取得，不声称直接观看。"
+      },
+      {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "已检索；读取失败",
+        "note": "当日范围检索未取得适用正文，科技页读取报错；不引用付费摘要。"
+      },
+      {
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/technology/",
+        "status": "已检索；未读到适用全文",
+        "note": "发现10月26日AI简报及科技页线索，未作为已读正文引用。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/innovation",
+        "status": "已检索；读取失败",
+        "note": "日期检索未取得适用正文；直接访问受到robots/403限制。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/science-and-technology",
+        "status": "已检索；读取受限",
+        "note": "未取得适用当日全文，不引用摘要。"
+      },
+      {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/technology",
+        "status": "入口可读；未引用",
+        "note": "读取科技入口，未取得适用付费全文。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
+        "status": "部分可读；未引用",
+        "note": "读取入口及Hassabis文章开头，观点正文未取得。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/technology",
+        "status": "检索有线索；读取受限",
+        "note": "不能把搜索中的黄仁勋摘要视作完整原文。"
+      },
+      {
+        "name": "澎湃",
+        "url": "https://www.thepaper.cn/channel_119908",
+        "status": "频道可读；未引用",
+        "note": "本轮可见科技频道材料未形成适用的27日独立条目。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/",
+        "status": "首页可读；未引用",
+        "note": "读取当日首页，未完成适用报道全文核实。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "读取超时",
+        "note": "本轮入口请求失败；不是永久不可用结论。"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/",
+        "status": "入口可读；发现线索",
+        "note": "看到26日Terra信息；最终引用原公告与今日报道。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/",
+        "status": "可读；发现线索",
+        "note": "读取26日条目线索，未将博客日期改成27日。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/business",
+        "status": "入口及部分文章可读",
+        "note": "部分为Reuters转载，不能视作独立交叉证据。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "status": "可读；未引用",
+        "note": "查看入口及26日相关条目，未形成可核实的27日选题。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "读取失败",
+        "note": "403；非洲地区线索不足，未用旧材料补数。"
+      },
+      {
+        "name": "吴恩达",
+        "url": "https://www.andrewng.org/writing",
+        "status": "索引可读；文章失败",
+        "note": "发现23日工程团队管理文章，目标正文未读取；不依据标题扩写观点。"
+      },
+      {
+        "name": "Sam Altman",
+        "url": "https://blog.samaltman.com/",
+        "status": "可读；未引用",
+        "note": "读取博客，未取得日期明确且适用的近七天新观点。"
+      },
+      {
+        "name": "Dario Amodei",
+        "url": "https://www.darioamodei.com/",
+        "status": "可读；未引用",
+        "note": "未取得适用的新个人观点；IPO公司文件不冒充本人发言。"
+      },
+      {
+        "name": "李飞飞 / World Labs",
+        "url": "https://www.worldlabs.ai/blog",
+        "status": "已检索；未引用",
+        "note": "检索所见相关公告较早，不以复核时间伪装新观点。"
+      },
+      {
+        "name": "X / Twitter",
+        "url": "https://x.com/karpathy",
+        "status": "原帖读取失败",
+        "note": "Karpathy页面403；不使用第三方镜像。马斯克条目明确依据Reuters具名引述。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/nvidia/",
+        "status": "读取失败",
+        "note": "429；不代表永久不可用。"
+      },
+      {
+        "name": "米哈游及创始人相关企业",
+        "url": "https://www.hoyoverse.com/",
+        "status": "已检索；未引用",
+        "note": "检索miHoYo、HoYoverse、Anuttacon、蔡浩宇、刘伟、罗宇皓；本轮所得旧材料或社区内容不足以支持当日重大新闻，不代表没有新活动。"
+      },
+      {
+        "name": "Wärtsilä",
+        "url": "https://www.reuters.com/business/energy/finlands-wartsila-tops-quarterly-order-estimates-carried-by-data-centre-power-2026-10-27/",
+        "status": "媒体正文可读；原始财报未取得",
+        "note": "今日季度数据依据Reuters，不声称已审阅公司完整财报。"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "WIRED",
+        "url": "https://www.wired.com/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "Benedict Evans",
+        "url": "https://www.ben-evans.com/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "Stratechery",
+        "url": "https://stratechery.com/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "One Useful Thing",
+        "url": "https://www.oneusefulthing.org/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "Import AI",
+        "url": "https://importai.substack.com/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "游戏葡萄",
+        "url": "https://youxiputao.com/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "晚点",
+        "url": "https://www.latepost.com/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "36氪",
+        "url": "https://36kr.com/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      },
+      {
+        "name": "SCMP",
+        "url": "https://www.scmp.com/",
+        "status": "本轮未检查",
+        "note": "保留在常规来源清单，不计入实际读取或本期引用。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "以旧闻补齐十条",
+        "reason": "不采用无新进展旧背景；不把同一新闻拆成多个精选。"
+      },
+      {
+        "item": "欧洲汽车销量排名",
+        "reason": "今日报道已读，但集团与品牌统计口径不同，未采用排名比较。"
+      },
+      {
+        "item": "Hassabis与吴恩达近七天新观点",
+        "reason": "未取得适用观点全文，不按摘要或标题扩写。"
+      },
+      {
+        "item": "匿名传闻、社交镜像、未读付费全文",
+        "reason": "不能作为核实依据。"
+      },
+      {
+        "item": "其他地区及游戏新闻",
+        "reason": "本轮尚未取得足够新且可核实的实质内容；是采集不足，不是断言当天没有新闻。"
+      }
+    ],
+    "counts": {
+      "news": 8,
+      "trends": 3,
+      "industry": 2,
+      "views": 2
+    },
+    "sectionNotes": {
+      "news": "本期8条，缺2条。按北京时间核对报道日期，区分数据统计期、事件日期和报道日期。Terra原公告为10月26日，今天有新报道，明确保留实际日期。游戏及部分地区未取得足够可核实新材料，不用旧闻和匿名消息补齐。",
+      "trends": "本期3条，缺7条。每条均以今天报道或报告为触发，列出买方、门槛和低成本验证；均属待验证的编辑分析，没有声称已有付费订单或保证收入。",
+      "industry": "本期2条，缺8条。采用今日物流报道与芬兰供电设备季度披露；标明统计期和采访日。两例均不声称中国没有，芬兰案例的中国供应商逐项对照尚未核实；未以历史行业介绍凑数。",
+      "views": "本期2条，缺8条。未取得适用的当天新发言，仅在后面收录10月25日马斯克及10月22日黄仁勋的近七天观点。已读可靠媒体直接引语，原始X帖及完整CNBC视频未取得并逐条注明。其余六人的全文、日期或主题证据不足，不代表他们没有发言。"
+    },
+    "researchPlan": [
+      "Reuters",
+      "AP",
+      "Bloomberg",
+      "FT",
+      "WSJ",
+      "澎湃",
+      "财新",
+      "第一财经",
+      "界面",
+      "The Verge",
+      "Ars Technica",
+      "WIRED",
+      "MIT Technology Review",
+      "IEEE Spectrum",
+      "TechCrunch",
+      "Simon Willison",
+      "Benedict Evans",
+      "Stratechery",
+      "One Useful Thing",
+      "Import AI",
+      "X/Twitter",
+      "Instagram",
+      "The New York Times",
+      "The Washington Post",
+      "BBC",
+      "The Guardian",
+      "The Economist",
+      "CNA",
+      "Nikkei Asia",
+      "Rest of World",
+      "TechCabal",
+      "Al Jazeera",
+      "SCMP",
+      "各地区可靠媒体及行业原始资料",
+      "晚点",
+      "36氪",
+      "游戏葡萄",
+      "各人物原始博客与完整采访",
+      "TNGlobal",
+      "欧洲当地可靠媒体",
+      "Folha de S.Paulo（巴西）",
+      "企业技术公告及监管原文",
+      "GitHub原始版本发布记录",
+      "EQT及Anthropic原始公告",
+      "WPVI/ABC当地原报道",
+      "Microsoft与Google产品原始博客",
+      "EFF原始发布",
+      "JAXA任务与发射资料",
+      "AP现场报道及合法公开转载",
+      "Help Net Security",
+      "Spotlight on Corruption",
+      "Wärtsilä季度披露"
+    ],
+    "regionalCoverage": [
+      {
+        "region": "北美",
+        "result": "AI产品、融资及人物观点；采用具名媒体和原始公告。"
+      },
+      {
+        "region": "欧洲",
+        "result": "英国治理、西班牙规则、芬兰供电设备和德国物流企业。"
+      },
+      {
+        "region": "东亚",
+        "result": "韩国芯片情景、中国手机体验与物流；米哈游相关检索未形成当日合格条目。"
+      },
+      {
+        "region": "东南亚",
+        "result": "泰国当日统计发布；CNA作为线索入口，Reuters转载不算独立证据。"
+      },
+      {
+        "region": "南亚、中东、非洲、拉美",
+        "result": "进行了地区及日期检索，但未取得可用的当日完整证据；TechCabal读取失败，覆盖仍不足。"
+      }
+    ],
+    "methodology": "常规清单是researchPlan；sources记录本轮检索/读取状态，包括未检查；各卡片url与sources是本期实际引用原文。可靠媒体不免于核实，公开观点保留利益相关立场。未购买订阅。",
+    "archiveNote": "保留全部已有历史日期；未制作10月21日至26日的追溯假日报。",
+    "mechanismCheck": "更新前manifest停在10月20日，既有Pages最后部署成功；当前每日任务已启用。页面已有manifest加载、日期归档和sectionNotes展示机制。本次按先写完整期刊、读回、再更新索引执行；没有证据确定此前停更根因。"
+  }
+}
