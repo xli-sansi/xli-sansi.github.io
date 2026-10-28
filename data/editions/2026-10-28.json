@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-28",
+  "updatedAt": "2026-10-28T08:53:27.038+08:00",
+  "news": [
+    {
+      "id": "20261028-n-sk",
+      "title": "海力士季度利润创新高，并扩大长期供货协议",
+      "body": "公司今天披露第三季度营业利润大幅增长，已与14家主要客户签订长期协议。",
+      "detail": "Reuters引述公司称，已锁定数量超过2027和2028年总产能的一半。长期订单提供可见度，但公司对2030年前供需的判断仍是预测，不是保证。",
+      "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-q3-profit-jumps-more-than-7-fold-beats-forecasts-2026-10-27/",
+      "org": "Reuters / 第一财经",
+      "date": "披露：2026-10-28；Reuters：北京07:49；业绩期：第三季度",
+      "archiveDate": "2026-10-28",
+      "kind": "存储芯片",
+      "sources": [
+        {
+          "name": "Reuters财报报道",
+          "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-q3-profit-jumps-more-than-7-fold-beats-forecasts-2026-10-27/"
+        },
+        {
+          "name": "第一财经供货协议快讯",
+          "url": "https://www.yicai.com/brief/103412185.html"
+        }
+      ]
+    },
+    {
+      "id": "20261028-n-oracle",
+      "title": "Oracle同时扩张NVIDIA供给与其他AI芯片选择",
+      "body": "Oracle宣布扩大Vera Rubin部署计划，同时引入Google TPU及其他推理芯片路线。",
+      "detail": "多供应商不等于完全互换。Cerebras的OCI服务计划于2027年提供，不能写成今天已上线；具体成本优势仍要看实际任务。",
+      "url": "https://www.reuters.com/business/oracle-expands-chip-supply-deal-with-nvidia-adds-google-cerebras-offerings-2026-10-27/",
+      "org": "Reuters / Oracle",
+      "date": "Reuters：10-27 16:01 UTC＝北京2026-10-28 00:01；当地公告：10-27",
+      "archiveDate": "2026-10-28",
+      "kind": "云计算",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/oracle-expands-chip-supply-deal-with-nvidia-adds-google-cerebras-offerings-2026-10-27/"
+        },
+        {
+          "name": "Cerebras合作原公告",
+          "url": "https://www.oracle.com/apac/news/announcement/ai-world-cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-infrastructure-2026-10-27/"
+        }
+      ]
+    },
+    {
+      "id": "20261028-n-amazon",
+      "title": "FCC批准Amazon Leo收购Globalstar",
+      "body": "美国通信监管机构批准115亿美元交易，为Amazon卫星业务整合频谱和卫星资产扫除一道审批障碍。",
+      "detail": "批准不等于交易已经交割，也不等于手机直连服务已经普及。后续仍要观察网络部署和商业开放。",
+      "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+      "org": "Reuters · FCC公告报道",
+      "date": "报道：10-27 18:25 UTC＝北京2026-10-28 02:25；当地审批消息：10-27",
+      "archiveDate": "2026-10-28",
+      "kind": "卫星通信"
+    },
+    {
+      "id": "20261028-n-logi",
+      "title": "罗技视频协作业务增长，存量办公室成为需求来源",
+      "body": "季度财报显示，视频协作设备销售增长12%；公司将其与企业更新办公场所联系起来。",
+      "detail": "这是单一供应商的经营信号，不代表整个办公建设市场回暖。对空间设计和设备整合而言，可关注既有会议室升级。",
+      "url": "https://www.reuters.com/business/logitech-beats-profit-forecast-sales-gaming-conferencing-products-rise-2026-10-27/",
+      "org": "Reuters · 罗技季度财报报道",
+      "date": "报道：10-27 20:09 UTC＝北京2026-10-28 04:09；季度截至9月末",
+      "archiveDate": "2026-10-28",
+      "kind": "办公与硬件"
+    },
+    {
+      "id": "20261028-n-jio",
+      "title": "印度Jio拟于今天上市，数字平台进入新的资本阶段",
+      "body": "Reuters今日开盘前报道，Jio拟在孟买开始交易；此次IPO规模为32亿美元。",
+      "detail": "Jio的业务基础覆盖电信和数字服务。报道时尚未开盘，不把灰市报价写成正式涨幅，也不采用匿名人士对出席安排的消息。",
+      "url": "https://www.reuters.com/world/india/ambanis-jio-make-mumbai-trading-debut-after-record-32-billion-india-ipo-2026-10-28/",
+      "org": "Reuters",
+      "date": "报道：2026-10-28 00:34 UTC＝北京08:34；上市为当日计划",
+      "archiveDate": "2026-10-28",
+      "kind": "印度科技"
+    },
+    {
+      "id": "20261028-n-xiaomi",
+      "title": "小米灵巧手研究：更多自由度不必然更好",
+      "body": "界面今天报道，小米以汽车工厂作业数据进行分析，选择21自由度方案，而非继续堆高自由度。",
+      "detail": "这是企业披露的研究与仿真结果，不能直接等同量产机器人在工厂的成功率。值得注意的是按真实任务选择机构复杂度，而非只比较参数数量。",
+      "url": "https://www.jiemian.com/article/15249371.html",
+      "org": "界面新闻 · 小米技术披露报道",
+      "date": "报道：2026-10-28 08:05；企业披露：10-27",
+      "archiveDate": "2026-10-28",
+      "kind": "机器人"
+    },
+    {
+      "id": "20261028-n-science",
+      "title": "OpenAI科学成果引发新讨论：如何让外部专家充分验证",
+      "body": "The Verge今日北京时间发布采访报道：研究人员关注新成果，也质疑材料开放与审核方式。",
+      "detail": "公司宣称取得结果，不等于学界已全面验证。报道涉及不同领域的不同开放安排；不能把物理研究写成已解决杨–米尔斯质量间隙问题。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "org": "The Verge · 专家采访",
+      "date": "报道：10-27 20:48 UTC＝北京2026-10-28 04:48；原公告：10-26",
+      "archiveDate": "2026-10-28",
+      "kind": "AI与科学验证"
+    },
+    {
+      "id": "20261028-n-broadcom",
+      "title": "博通参与630亿美元算力融资安排，连接设备与租赁",
+      "body": "界面今日报道及AP市场报道介绍了为Anthropic提供博通算力的融资安排。",
+      "detail": "界面报道设备拟从2027年起经特殊目的实体供应并出租。融资总额不是博通当期收入，也不等于设备全部交付；需要区分资金安排与实际使用。",
+      "url": "https://www.jiemian.com/article/15248817.html",
+      "org": "界面新闻 / AP",
+      "date": "界面报道：2026-10-28 08:15；美国市场报道：10-27",
+      "archiveDate": "2026-10-28",
+      "kind": "算力融资",
+      "sources": [
+        {
+          "name": "界面AI早报",
+          "url": "https://www.jiemian.com/article/15248817.html"
+        },
+        {
+          "name": "AP市场报道",
+          "url": "https://apnews.com/article/stocks-markets-ai-earnings-oil-e11a2240fc3283c4507d44b9833f30a2"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261028-t-room",
+      "title": "会议室升级：先验证现有设备为何不好用",
+      "body": "当日触发：罗技披露视频协作设备需求增长。企业更新会议空间是潜在信号，不是你已获得订单。",
+      "detail": "编辑假设：面向物业、设计团队或中小企业，提供会议室使用体验梳理，检查镜头视角、收音、投屏及操作说明。门槛是现场协调和设备适配。低成本验证：在获授权的一间会议室记录三次真实会议的故障与耗时，做改进前后对照，再询问客户是否愿为排查与交付培训付费。",
+      "url": "https://www.reuters.com/business/logitech-beats-profit-forecast-sales-gaming-conferencing-products-rise-2026-10-27/",
+      "org": "Reuters / 编辑分析",
+      "date": "触发报道：北京时间2026-10-28",
+      "archiveDate": "2026-10-28",
+      "kind": "待验证机会"
+    },
+    {
+      "id": "20261028-t-inference",
+      "title": "多芯片云服务，需要按完整任务比较成本",
+      "body": "当日触发：Oracle扩大推理硬件路线。合作公告确认产品方向，尚未证明某方案适合所有客户。",
+      "detail": "编辑假设：小型AI应用团队可能需要模型兼容性、延迟及失败重试成本的比较服务。门槛是可重复测试与数据授权。低成本验证：用公开样本建立30个代表任务，在现有可用服务中比较完成率、总耗时和单任务成本；未开放的2027产品只列观察项，不购买额度或作性能承诺。",
+      "url": "https://www.oracle.com/apac/news/announcement/ai-world-cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-infrastructure-2026-10-27/",
+      "org": "Oracle原公告 / 编辑分析",
+      "date": "触发报道：北京2026-10-28；原公告：10-27",
+      "archiveDate": "2026-10-28",
+      "kind": "待验证机会"
+    },
+    {
+      "id": "20261028-t-robot",
+      "title": "机器人任务整理，可能比参数宣传更接近需求",
+      "body": "当日触发：今天报道的小米作业数据研究。证据是企业使用实际作业流程开展分析，付费外包需求仍未核实。",
+      "detail": "编辑假设：机器人团队或工厂集成商可能需要任务分类、异常动作记录和可复现测试场景。门槛是现场授权、安全边界和专业人员审核。低成本验证：只用公开演示，整理10种抓取任务的输入、成功标准和失败类型，请从业者判断是否有用；不要把观看视频冒充真实工厂数据。",
+      "url": "https://www.jiemian.com/article/15249371.html",
+      "org": "界面新闻 / 编辑分析",
+      "date": "触发报道：2026-10-28；研究披露：10-27",
+      "archiveDate": "2026-10-28",
+      "kind": "待验证机会"
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261028-i-blue",
+      "title": "美国BlueChip：从原型机反推本地供应链",
+      "body": "Anduril与高通公布面向政府等客户的电脑产品线，已有原型，计划2027年接单。",
+      "detail": "链条包括芯片、主板、机壳、电池、显示玻璃与整机组装。高通公告称原型采购成本逾90%来自美国及盟国，不等于已经实现美国全国产。商业路径是硬件交付，门槛在供应商认证与制造工艺。中国逐部件对照未核实；这是特定采购约束下的产业重组，不是中国没有电脑制造能力。",
+      "url": "https://www.qualcomm.com/news/releases/2026/10/anduril-and-qualcomm-unveil-bluechip-to-rebuild-american-compute",
+      "org": "Qualcomm原公告 / Reuters",
+      "date": "Reuters：北京2026-10-28 03:46；原公告：美国10-27",
+      "archiveDate": "2026-10-28",
+      "kind": "电脑制造",
+      "sources": [
+        {
+          "name": "高通原公告",
+          "url": "https://www.qualcomm.com/news/releases/2026/10/anduril-and-qualcomm-unveil-bluechip-to-rebuild-american-compute"
+        },
+        {
+          "name": "Reuters报道",
+          "url": "https://www.reuters.com/business/aerospace-defense/anduril-qualcomm-partner-new-line-us-made-laptops-2026-10-27/"
+        }
+      ]
+    },
+    {
+      "id": "20261028-i-cerebras",
+      "title": "美国Cerebras：芯片通过云平台触达应用客户",
+      "body": "Oracle拟在2027年提供Cerebras推理服务，把专用芯片能力接入已有云客户渠道。",
+      "detail": "链条为晶圆级处理器→云基础设施集成→推理服务→企业和开发者应用。商业路径从硬件延伸至云算力使用，价格与交付细节未披露。厂商强调减少数据移动，但实际优势须按任务测试。门槛在软硬件适配及稳定交付；本轮没有完成中国对应厂商逐项对照，不作独占性判断。",
+      "url": "https://www.oracle.com/apac/news/announcement/ai-world-cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-infrastructure-2026-10-27/",
+      "org": "Oracle · 联合产品公告",
+      "date": "当日触发报道：北京2026-10-28；原公告：10-27；计划开放：2027年",
+      "archiveDate": "2026-10-28",
+      "kind": "推理产业链",
+      "sources": [
+        {
+          "name": "联合公告",
+          "url": "https://www.oracle.com/apac/news/announcement/ai-world-cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-infrastructure-2026-10-27/"
+        },
+        {
+          "name": "当日Reuters报道",
+          "url": "https://www.reuters.com/business/oracle-expands-chip-supply-deal-with-nvidia-adds-google-cerebras-offerings-2026-10-27/"
+        }
+      ]
+    }
+  ],
+  "views": [
+    {
+      "id": "20261028-v-ng",
+      "title": "吴恩达：应对AI就业变化，要持续学习新技能",
+      "body": "近七天补充。NDTV在10月22日现场报道中记录：他认为软件工程是受AI影响较大的职业之一，并强调持续学习。",
+      "detail": "中文概括，依据活动主办媒体现场记录，而非社交镜像。他对未来就业持乐观判断，但这不是个人一定保住工作或获得收入的保证。可把观点转化为一个具体动作：选一项已有工作，练习新工具并测量产出质量，而非只累积课程。",
+      "url": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-live-updates-narendra-modi-s-jaishankar-nikhil-kamath-a-world-between-orders-12218006",
+      "org": "Andrew Ng · NDTV现场记录",
+      "date": "发言：2026-10-22 14:11及15:30（印度时间）；近七天补充",
+      "archiveDate": "2026-10-28",
+      "kind": "人物观点"
+    }
+  ],
+  "audit": {
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/technology/",
+        "status": "已读取并引用",
+        "note": "读取科技入口及海力士、Oracle、Amazon、罗技、Jio、Anduril等正文；换算北京时间，匿名消息不采用。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/stocks-markets-ai-earnings-oil-e11a2240fc3283c4507d44b9833f30a2",
+        "status": "已读取并引用",
+        "note": "读取市场报道正文，仅引用博通融资事实，不以股价证明产业价值。"
+      },
+      {
+        "name": "界面新闻",
+        "url": "https://www.jiemian.com/article/15249371.html",
+        "status": "已读取并引用",
+        "note": "读取10月28日科技及AI早报；昨天已报道条目去重，原披露日与今日报道分开。"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+        "status": "已读取并引用",
+        "note": "读取科学成果采访报道；iPhone屏幕声明与中文报道日期有差异，排除该选题。"
+      },
+      {
+        "name": "Qualcomm",
+        "url": "https://www.qualcomm.com/news/releases/2026/10/anduril-and-qualcomm-unveil-bluechip-to-rebuild-american-compute",
+        "status": "已读取并引用",
+        "note": "读取BlueChip原公告；原型、2027接单计划、美国及盟国采购口径严格区分。"
+      },
+      {
+        "name": "Oracle",
+        "url": "https://www.oracle.com/apac/news/announcement/ai-world-cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-infrastructure-2026-10-27/",
+        "status": "已读取并引用",
+        "note": "读取Cerebras联合公告；2027计划不写为已开放。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/brief/103412185.html",
+        "status": "本轮可读",
+        "note": "首页及海力士长期协议快讯可访问，更新昨日超时状态。"
+      },
+      {
+        "name": "NDTV",
+        "url": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-live-updates-narendra-modi-s-jaishankar-nikhil-kamath-a-world-between-orders-12218006",
+        "status": "已读取并引用",
+        "note": "现场记录核实吴恩达10月22日发言；不是仅依据搜索摘要。"
+      },
+      {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "检索受限",
+        "note": "本轮日期检索返回robots限制，未取得适用正文。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/innovation",
+        "status": "检索受限",
+        "note": "本轮返回robots限制；不沿用未核实摘要。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/science-and-technology",
+        "status": "检索受限",
+        "note": "本轮返回robots限制，未采用付费内容。"
+      },
+      {
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/technology/",
+        "status": "已检索，入口可读",
+        "note": "读取科技入口，看到Waymo及AI文章线索；未取得适用全文，未引用。"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/oct/27/all",
+        "status": "已检索，未引用",
+        "note": "取得科技索引及报道线索；多为北京27日或昨日已用主题，不作28日新消息。"
+      },
+      {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/technology",
+        "status": "入口可读，未引用",
+        "note": "实际查看科技栏目；未读取付费全文，标题不作事实依据。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/tech",
+        "status": "入口可读，未引用",
+        "note": "实际查看科技栏目，没有把首页标题当全文。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/technology",
+        "status": "读取失败",
+        "note": "本轮直接访问返回restricted URL，搜索线索不作为引用。"
+      },
+      {
+        "name": "澎湃",
+        "url": "https://www.thepaper.cn/channel_119908",
+        "status": "入口可读，未引用",
+        "note": "实际查看科技频道，所见主要为27日内容；不按抓取时间更新新闻日期。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/",
+        "status": "首页可读，未引用",
+        "note": "本轮读取首页，未取得适用文章全文。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/",
+        "status": "已读取，未引用",
+        "note": "读取27日会议徽章硬件条目，未形成重要且日期充分核实的今日选题。"
+      },
+      {
+        "name": "Andrew Ng",
+        "url": "https://www.andrewng.org/writing",
+        "status": "索引可读，正文403",
+        "note": "重新尝试Four Ps文章，原站正文失败；不使用第三方镜像补全文。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/business",
+        "status": "入口可读，未引用",
+        "note": "实际查看商业入口；没有把Reuters转载视作独立证据。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "status": "入口可读，未引用",
+        "note": "重新查看全球科技入口，未形成适用当日材料。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "读取失败",
+        "note": "本轮403；非洲覆盖不足。"
+      },
+      {
+        "name": "米哈游、HoYoverse、Anuttacon及三位创始人",
+        "url": "https://www.hoyoverse.com/",
+        "status": "实际检索，未引用",
+        "note": "检索蔡浩宇、刘伟、罗宇皓及相关企业；返回旧捐赠、旧产品及未核实投资说法，未作为今日新闻。"
+      },
+      {
+        "name": "八位重点人物",
+        "url": "https://www.andrewng.org/writing",
+        "status": "实际检索，部分可用",
+        "note": "按姓名及日期查找黄仁勋、李飞飞、Karpathy、Altman、Amodei、Hassabis、吴恩达、Musk；只纳入有原始现场记录且未与昨天重复的吴恩达观点。Dario播客新发布但录于7月，排除。"
+      },
+      {
+        "name": "全球地区检索",
+        "url": "https://www.channelnewsasia.com/business",
+        "status": "部分完成",
+        "note": "检索印度、新加坡、巴西当日科技及产业线索，主要返回会议预告，未据此编写产业成果。"
+      },
+      {
+        "name": "X / Twitter",
+        "url": "https://x.com/karpathy",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/nvidia/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "WIRED",
+        "url": "https://www.wired.com/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "Benedict Evans",
+        "url": "https://www.ben-evans.com/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "Stratechery",
+        "url": "https://stratechery.com/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "One Useful Thing",
+        "url": "https://www.oneusefulthing.org/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "Import AI",
+        "url": "https://importai.substack.com/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "游戏葡萄",
+        "url": "https://youxiputao.com/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "晚点",
+        "url": "https://www.latepost.com/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "36氪",
+        "url": "https://36kr.com/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      },
+      {
+        "name": "SCMP",
+        "url": "https://www.scmp.com/",
+        "status": "本轮未直接检查",
+        "note": "保留常规清单，不继承昨日成功或失败状态，不计作本期已读来源。"
+      }
+    ],
+    "counts": {
+      "news": 8,
+      "trends": 3,
+      "industry": 2,
+      "views": 1
+    },
+    "sectionNotes": {
+      "news": "本期8条，缺2条。按北京时间核对Reuters及The Verge报道；界面早报条目保留10月27日原披露日期。Jio为开盘前上市预告，卫星并购为审批，2027云服务为计划，不冒充已实现。未用匿名融资、昨日重复消息或日期矛盾材料补齐。",
+      "trends": "本期3条，缺7条。今天重新研究会议室升级、推理任务评测和机器人任务整理，均列出潜在买方、门槛与低成本验证。需求信号不等于已成交订单，编辑假设不构成收入承诺。",
+      "industry": "本期2条，缺8条。BlueChip原型供应链与Cerebras云渠道均有今天北京时间报道触发及原始公告。未完成中国厂商逐部件比较，已明确说明；不声称中国没有，也不把2027计划写成当前量产。",
+      "views": "本期1条，缺9条。当天未取得适用且可核实新发言，收录10月22日吴恩达现场记录作近七天补充。昨天黄仁勋及马斯克观点不重复；Dario新发布采访实际录于7月；吴恩达新文章403。其余人物没有合格新材料不代表没有发言。"
+    },
+    "researchPlan": [
+      "Reuters",
+      "AP",
+      "Bloomberg",
+      "FT",
+      "WSJ",
+      "澎湃",
+      "财新",
+      "第一财经",
+      "界面",
+      "The Verge",
+      "Ars Technica",
+      "WIRED",
+      "MIT Technology Review",
+      "IEEE Spectrum",
+      "TechCrunch",
+      "Simon Willison",
+      "Benedict Evans",
+      "Stratechery",
+      "One Useful Thing",
+      "Import AI",
+      "X/Twitter",
+      "Instagram",
+      "The New York Times",
+      "The Washington Post",
+      "BBC",
+      "The Guardian",
+      "The Economist",
+      "CNA",
+      "Nikkei Asia",
+      "Rest of World",
+      "TechCabal",
+      "Al Jazeera",
+      "SCMP",
+      "各地区可靠媒体及行业原始资料",
+      "晚点",
+      "36氪",
+      "游戏葡萄",
+      "各人物原始博客与完整采访",
+      "TNGlobal",
+      "欧洲当地可靠媒体",
+      "Folha de S.Paulo（巴西）",
+      "企业技术公告及监管原文",
+      "GitHub原始版本发布记录",
+      "EQT及Anthropic原始公告",
+      "WPVI/ABC当地原报道",
+      "Microsoft与Google产品原始博客",
+      "EFF原始发布",
+      "JAXA任务与发射资料",
+      "AP现场报道及合法公开转载",
+      "Help Net Security",
+      "Spotlight on Corruption",
+      "Wärtsilä季度披露",
+      "Qualcomm制造公告",
+      "Oracle云基础设施公告",
+      "NDTV现场访谈"
+    ],
+    "regionalCoverage": [
+      {
+        "region": "东亚",
+        "result": "韩国存储供货、中国机器人研究；米哈游相关当日实质新闻未核实。"
+      },
+      {
+        "region": "北美",
+        "result": "云芯片、卫星通信、制造供应链、AI科研及融资。"
+      },
+      {
+        "region": "欧洲",
+        "result": "瑞士—美国罗技办公设备经营信号。"
+      },
+      {
+        "region": "南亚",
+        "result": "印度Jio当日上市安排及NDTV吴恩达近七天现场发言。"
+      },
+      {
+        "region": "东南亚、拉美",
+        "result": "检索新加坡、巴西及CNA/Rest of World线索，未得到符合日期和深度要求的新案例。"
+      },
+      {
+        "region": "非洲、中东",
+        "result": "覆盖不足；TechCabal本轮403，中东未完成当地媒体逐篇核实。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "昨天Meta合作、Terra发布及两位人物观点",
+        "reason": "去重，不依靠转载制造新进展。"
+      },
+      {
+        "item": "iPhone Duo屏幕声明",
+        "reason": "The Verge与中文报道的声明日期存在差异，未作为今日事件。"
+      },
+      {
+        "item": "Intel收购Classiq",
+        "reason": "原公告日期与中文早报事件日期有差异；匿名收购金额不采用。"
+      },
+      {
+        "item": "Dario Amodei新播客",
+        "reason": "10月27日发布，但可见说明指出实际录于7月；不当作近七天新发言。"
+      },
+      {
+        "item": "Polymarket调查、Argentum融资与间谍公司线索",
+        "reason": "主要依赖匿名消息，不符合本栏目规则。"
+      },
+      {
+        "item": "未完成地区及游戏新闻",
+        "reason": "本轮采集证据不足，不代表当天没有值得关注事件。"
+      }
+    ],
+    "methodology": "researchPlan是常规检索清单；sources是本轮实际状态（包含明确未检查项）；卡片url/sources是实际引用文章。正文已读取，原始公告仅代表企业陈述。来源失效不认定为永久失效。未购买服务，未改权限。"
+  }
+}
