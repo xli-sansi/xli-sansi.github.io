@@ -1,0 +1,411 @@
+{
+  "date": "2026-10-29",
+  "updatedAt": "2026-10-29T08:54:25.880+08:00",
+  "news": [
+    {
+      "id": "20261029-n-google",
+      "title": "Alphabet：云业务增长，现金流承压",
+      "body": "第三季度Google Cloud收入307.1亿美元、同比翻倍以上；集团自由现金流为负90.7亿美元。",
+      "detail": "统计期为第三季度，并非今天一天的经营结果。今天发布的财报报道显示，AI业务增长与资金消耗可以同时发生，不能只看云收入判断投入已得到回报。",
+      "url": "https://www.reuters.com/business/alphabets-google-cloud-unit-beats-quarterly-revenue-estimates-steady-ai-demand-2026-10-28/",
+      "org": "Reuters",
+      "date": "报道：2026-10-29 04:06 北京时间；美国财报日：10月28日",
+      "archiveDate": "2026-10-29",
+      "kind": "财报"
+    },
+    {
+      "id": "20261029-n-ms",
+      "title": "微软Azure增长48%，较低资本开支有交付延迟因素",
+      "body": "微软披露截至9月的财季Azure收入331.7亿美元，自由现金流186亿美元。",
+      "detail": "资本开支452亿美元，低于此前预计的500亿美元；公司将差额归因于部分第三方容量延迟交付，不能直接解读为削减AI投资计划。",
+      "url": "https://www.reuters.com/business/retail-consumer/microsoft-beats-quarterly-cloud-revenue-estimates-2026-10-28/",
+      "org": "Reuters",
+      "date": "报道：2026-10-29 04:07 北京时间；美国披露日：10月28日",
+      "archiveDate": "2026-10-29",
+      "kind": "云计算"
+    },
+    {
+      "id": "20261029-n-apple",
+      "title": "苹果发布首款触屏MacBook Pro",
+      "body": "新机采用OLED触屏与M5 Pro或M5 Max芯片；苹果宣布11月6日上市。",
+      "detail": "这是新品发布，不是已完成长期使用验证。它与本周采用M6的非触屏基础款不同；对创作者的实际价值仍需看应用适配、操作效率和成本。",
+      "url": "https://www.reuters.com/business/retail-consumer/apple-shows-first-touchscreen-laptops-amid-product-blitz-2026-10-28/",
+      "org": "Reuters",
+      "date": "报道：2026-10-29 01:43 北京时间；发布：美国10月28日；上市计划：11月6日",
+      "archiveDate": "2026-10-29",
+      "kind": "个人电脑"
+    },
+    {
+      "id": "20261029-n-oracle",
+      "title": "甲骨文公布AI投资后的现金流目标",
+      "body": "公司在投资者日称，资本开支将于本财年和下一财年见顶，并预计2028财年下半年自由现金流转正。",
+      "detail": "这些是管理层预测，不是已经实现的结果。与昨日芯片供应合作不同，本条关注资金计划：公司称截至2030财年新增AI融资不超过200亿美元。",
+      "url": "https://www.reuters.com/business/oracle-expects-turn-cash-flow-positive-second-half-fiscal-2028-2026-10-28/",
+      "org": "Reuters",
+      "date": "报道：2026-10-29 02:36 北京时间；投资者日：美国10月28日",
+      "archiveDate": "2026-10-29",
+      "kind": "基础设施"
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261029-t-touch",
+      "title": "可验证的服务机会：Mac应用触控适配",
+      "body": "事实：苹果已提供触控设计、应用适配和Live Activities教学入口；The Verge报道了触摸目标放大等交互变化。",
+      "detail": "编辑假设：独立Mac软件商、设计工具团队可能需要交互检查和适配服务。门槛是macOS开发能力、真实设备测试及无障碍设计。低成本验证：先选一个获授权应用，整理五处触控问题，与两家开发团队核实是否愿为修复付费；没有验证前，不把新硬件等同于新增收入。",
+      "url": "https://developer.apple.com/touch-on-mac/",
+      "org": "Apple Developer / The Verge",
+      "date": "新进展报道：2026-10-29 01:48 北京时间；开发者页面：本期读取",
+      "archiveDate": "2026-10-29",
+      "kind": "机会假设",
+      "sources": [
+        {
+          "name": "Apple开发者原文",
+          "url": "https://developer.apple.com/touch-on-mac/"
+        },
+        {
+          "name": "The Verge交互报道",
+          "url": "https://www.theverge.com/tech/1020084/macos-touchscreen-changes"
+        }
+      ]
+    },
+    {
+      "id": "20261029-t-delivery",
+      "title": "算力采购：把交付风险写进验收",
+      "body": "事实：微软本季部分第三方容量未按预期交付。需求规模和按时可用是两个不同问题。",
+      "detail": "编辑假设：使用外部算力的中小团队可能需要交付验收与迁移预案服务。潜在买方是缺少专职基础设施人员的软件团队；门槛包括合同理解、数据权限及备用环境测试。低成本验证：用一份匿名化采购需求列出容量、上线日期、失败回退三项验收条件，访谈三家客户；先验证痛点，不囤算力或承诺收益。",
+      "url": "https://www.reuters.com/business/retail-consumer/microsoft-beats-quarterly-cloud-revenue-estimates-2026-10-28/",
+      "org": "Reuters；编辑分析",
+      "date": "证据报道：2026-10-29 04:07 北京时间",
+      "archiveDate": "2026-10-29",
+      "kind": "机会假设"
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261029-i-serve",
+      "title": "澳大利亚：配送机器人背后的本地运营链",
+      "body": "格里菲斯大学与Serve公告确认，黄金海岸健康与知识园区今天启动机器人配送，DoorDash连接餐厅与顾客，大学提供运营基地。",
+      "detail": "产业链：上游是机器人及远程协助，运营环节包括驻场、充电、调度和维护，下游是短距离餐饮订单。商业模式是通过配送平台承接服务，具体分成和单笔盈利未披露。门槛在道路适配、社区接受度和运维，而非仅购置机器人。中国对照：本轮未取得同口径成本与监管资料，不能断言中国没有或澳洲更成熟。值得观察的是平台、城市与大学基地的协作方式；扩区仍取决于试点反馈。",
+      "url": "https://news.griffith.edu.au/2026/10/29/griffith-home-to-first-serve-robot-delivery-service-outside-us/",
+      "org": "Griffith University / Serve Robotics公告",
+      "date": "启动及大学发布：2026-10-29（澳大利亚当地日期）；公告：06:30 AEST",
+      "archiveDate": "2026-10-29",
+      "kind": "海外产业链",
+      "sources": [
+        {
+          "name": "大学落地说明",
+          "url": "https://news.griffith.edu.au/2026/10/29/griffith-home-to-first-serve-robot-delivery-service-outside-us/"
+        },
+        {
+          "name": "Serve公司发布稿（非独立报道）",
+          "url": "https://newshub.medianet.com.au/2026/10/serve-robotics-and-doordash-launch-australias-first-footpath-delivery-robots-on-the-gold-coast/179064/"
+        }
+      ]
+    }
+  ],
+  "views": [
+    {
+      "id": "20261029-v-huang",
+      "title": "黄仁勋：AI产业基础同时需要能源与技术人才",
+      "body": "10月23日在哈萨克斯坦会面时，黄仁勋强调能源和理工人才是新产业的基础，并提出发展Physical AI的方向。",
+      "detail": "这是总统府会面记录中的本人观点，以上为中文转述；政府与供应商均有推动项目的立场。编辑解读：判断地区AI机会，应同时核查电力、工程人才和应用客户，不能只凭资源丰富就推定项目盈利。近七天补充，非今天的新发言。",
+      "url": "https://akorda.kz/en/president-kassym-jomart-tokayev-meets-nvidia-co-founder-and-president-jensen-huang-2392718",
+      "org": "哈萨克斯坦总统府会面记录",
+      "date": "发言及原文：2026-10-23；近七天补充",
+      "archiveDate": "2026-10-29",
+      "kind": "人物观点"
+    }
+  ],
+  "audit": {
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/technology/",
+        "status": "已检索并引用",
+        "note": "读取Alphabet、Microsoft、Apple、Oracle、Serve等正文；四条新闻和交付风险分析采用。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/technology",
+        "status": "已检索，未引用",
+        "note": "检索出现较早报道；未取得符合当日条件且可引用的新正文。"
+      },
+      {
+        "name": "FT",
+        "url": "https://www.ft.com/technology",
+        "status": "入口可读，未引用",
+        "note": "读取科技频道标题列表；未把标题当付费全文。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/tech",
+        "status": "入口可读，未引用",
+        "note": "读取科技列表；未取得并采用独立文章全文。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/technology",
+        "status": "读取失败",
+        "note": "本轮入口受到读取限制，未引用。"
+      },
+      {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "检索受限",
+        "note": "本轮检索提示robots限制；未取得可引用全文。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/innovation",
+        "status": "检索受限",
+        "note": "本轮检索提示robots限制；未引用。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/science-and-technology",
+        "status": "检索受限",
+        "note": "本轮检索提示robots限制；未引用。"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology",
+        "status": "已检索，未引用",
+        "note": "返回科技及商业列表，候选较早或偏评论；未作为今日事实证据。"
+      },
+      {
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/technology/",
+        "status": "入口可读，未引用",
+        "note": "读取频道日期及标题；候选不满足本期新进展条件。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com/article/15257661.html",
+        "status": "正文可读，未引用",
+        "note": "读取29日科技早报及AI早报；内容多涉及28日或更早事项，未用来填数量。"
+      },
+      {
+        "name": "澎湃",
+        "url": "https://www.thepaper.cn/channel_119908",
+        "status": "入口可读，未引用",
+        "note": "科技频道可读；未完成符合本期范围的原始研究交叉核验。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/",
+        "status": "入口可读，未引用",
+        "note": "本轮读取首页，不代表读取付费报道全文。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "读取失败",
+        "note": "本轮首页读取超时；不将昨日成功状态沿用。"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/1020084/macos-touchscreen-changes",
+        "status": "正文可读，已引用",
+        "note": "读取触屏macOS变化；用于适配机会的事实基础。"
+      },
+      {
+        "name": "9to5Mac",
+        "url": "https://9to5mac.com/2026/10/28/apple-releases-touchscreen-mac-developer-videos-with-live-sessions-coming-in-november/",
+        "status": "正文可读，发现线索",
+        "note": "读取开发者资源报道并追溯Apple原文。"
+      },
+      {
+        "name": "Apple Developer",
+        "url": "https://developer.apple.com/touch-on-mac/",
+        "status": "原文可读，已引用",
+        "note": "确认触控教学、实验室活动及工具入口；不据此保证适配市场需求。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/",
+        "status": "入口可读，未引用",
+        "note": "读取10月28日条目，追溯GitHub报告；未确定报告北京时间发布日，不放入今日新闻。"
+      },
+      {
+        "name": "GitHub Octoverse",
+        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+        "status": "正文可读，未引用",
+        "note": "原文仅显示10月28日；无法确定北京时间当天发布，不冒充29日新闻。"
+      },
+      {
+        "name": "游戏葡萄",
+        "url": "https://youxiputao.com/",
+        "status": "内容有限",
+        "note": "本轮返回品牌及社交入口，未获取稳定文章列表。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/business",
+        "status": "入口可读，未引用",
+        "note": "频道读取成功，未取得额外符合条件的独立正文；转载不作独立证据。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "status": "入口可读，未引用",
+        "note": "本轮读取入口，未完成可收录的新文章核实。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "尝试读取，未取得可用结果",
+        "note": "本轮打开请求没有返回可用正文，不视为覆盖完成。"
+      },
+      {
+        "name": "Griffith University",
+        "url": "https://news.griffith.edu.au/2026/10/29/griffith-home-to-first-serve-robot-delivery-service-outside-us/",
+        "status": "原文可读，已引用",
+        "note": "大学说明本地运营基地、启动范围和招聘；大学是参与方。"
+      },
+      {
+        "name": "Serve Robotics / Medianet",
+        "url": "https://newshub.medianet.com.au/2026/10/serve-robotics-and-doordash-launch-australias-first-footpath-delivery-robots-on-the-gold-coast/179064/",
+        "status": "发布稿可读，已引用",
+        "note": "公司发布稿说明试点、餐厅、远程监督及平台流程；不是独立媒体调查。"
+      },
+      {
+        "name": "哈萨克斯坦总统府",
+        "url": "https://akorda.kz/en/president-kassym-jomart-tokayev-meets-nvidia-co-founder-and-president-jensen-huang-2392718",
+        "status": "原文可读，已引用",
+        "note": "10月23日会面记录直接记载黄仁勋发言，标明政府来源及真实日期。"
+      },
+      {
+        "name": "Andrew Ng",
+        "url": "https://www.andrewng.org/writing",
+        "status": "目录可读，正文失败",
+        "note": "10月23日Four Ps文章在官方目录出现；官方跳转和deeplearning.ai正文均403，未据标题生成观点。"
+      },
+      {
+        "name": "X / Twitter",
+        "url": "https://x.com/karpathy",
+        "status": "读取失败",
+        "note": "本轮Karpathy账号返回403；不采用第三方镜像作为原帖证据。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/openai/",
+        "status": "读取失败",
+        "note": "本轮OpenAI账号返回429；不能据此断言所有账号不可读。"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=SwoFsYmMvyA",
+        "status": "内容有限",
+        "note": "Altman与Oracle对谈页面仅返回通用页脚，未取得字幕或发言正文。"
+      },
+      {
+        "name": "Rediff",
+        "url": "https://m.rediff.com/amp/business/report/openais-sam-altman-urges-focus-on-ai-security-threats/20261028.htm",
+        "status": "正文可读，未引用",
+        "note": "发现Altman安全观点线索，但原视频未读取，未列入人物栏。"
+      },
+      {
+        "name": "Anuttacon",
+        "url": "https://www.anuttacon.com/",
+        "status": "入口可读，未引用",
+        "note": "本轮官网仅使命说明，无可核实当日新公告；米哈游及三名创始人的检索未产出符合日期的新证据。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "Anthropic致加州州长信",
+        "reason": "新报道涉及10月15日信件；不把公司建议当已通过法律或Dario本人新观点。"
+      },
+      {
+        "item": "Genie 4、亚马逊Echo与ASM财报",
+        "reason": "原始事件或已核实报道在北京时间29日之前；不以重新分析冒充当天进展。"
+      },
+      {
+        "item": "GitHub Octoverse 2026",
+        "reason": "已读原文，日期显示10月28日但缺乏时区时间，未纳入当天栏。"
+      },
+      {
+        "item": "Karpathy传播中的观点及重发课程",
+        "reason": "原帖403，第三方转载与播客上传日期不能证明原始发言时间。"
+      },
+      {
+        "item": "吴恩达Four Ps",
+        "reason": "官方目录存在23日条目，但正文403；不依据目录编写框架内容。"
+      },
+      {
+        "item": "Altman Oracle对谈",
+        "reason": "媒体线索可读，但原视频未返回实质内容；本期没有以第三方整理替代直接来源。"
+      },
+      {
+        "item": "马斯克机器人内存观点",
+        "reason": "中文早报提供27日发言线索，未核实原帖；不据此推算未来芯片需求。"
+      },
+      {
+        "item": "李飞飞采访、Dario及Hassabis观点",
+        "reason": "检索发现旧采访、转载或公司发布，未获得日期和原始发言同时合格的新内容。"
+      },
+      {
+        "item": "海外能源及非洲数据中心线索",
+        "reason": "未完成当天日期与原始落地证据核实，不冒充已研究完成的产业案例。"
+      }
+    ],
+    "counts": {
+      "news": 4,
+      "trends": 2,
+      "industry": 1,
+      "views": 1
+    },
+    "sectionNotes": {
+      "news": "目标10条，实际4条，缺6条。只采用北京时间29日已读正文；排除旧公告、重复事件及仅有摘要的线索。米哈游、HoYoverse与蔡浩宇/刘伟/罗宇皓相关检索未取得可核实的当日新增信息，不代表没有动态。",
+      "trends": "目标10条，实际2条，缺8条。基于今天的开发者适配入口和算力交付信息重新分析；潜在买方及付费意愿是待验证假设，不是已证实商机。不重复昨日会议室和机器人训练数据选题。",
+      "industry": "目标10条，实际1条，缺9条。本期仅澳大利亚配送机器人具备明确启动日期和可读的产业参与方原文。其余地区未完成足够新且可核实的链条证据；不拿旧芬兰或巴西案例补齐，中国比较缺少同口径数据已标注。",
+      "views": "目标10条，实际1条，缺9条。黄仁勋10月23日发言作为近七天补充。八人均有检索尝试；其他线索存在原文不可读、发言日期不明、重复或超期问题。未找到可用原文不等于本人没有发言。"
+    },
+    "researchPlan": [
+      "常规清单（不是本轮全部已检查）：Reuters、AP、FT、WSJ、Bloomberg、NYT、Washington Post、BBC、Guardian、Economist；澎湃、财新、第一财经、界面、晚点、36氪。",
+      "常规科技及博客清单：The Verge、Ars Technica、WIRED、MIT Technology Review、IEEE Spectrum、TechCrunch、游戏葡萄、Simon Willison、Benedict Evans、Stratechery、One Useful Thing、Import AI。",
+      "常规全球清单：CNA、Nikkei Asia、Rest of World、TechCabal、Al Jazeera、SCMP及当地行业一手材料；实际访问情况逐项见sources。",
+      "本轮实际执行：跨媒体当日科技与企业财报检索；逐篇核实Reuters和界面报道；读取FT/WSJ/Washington Post等频道；检索NYT/BBC/Economist并记录限制。",
+      "本轮人物：检索黄仁勋、李飞飞、Karpathy、Altman、Dario、Hassabis、吴恩达、Musk；仅黄仁勋取得符合七日窗口且可读的直接记录。原文限制见excluded。",
+      "本轮重点企业：检索米哈游、HoYoverse、Anuttacon及蔡浩宇、刘伟、罗宇皓；不从历史职务推定当前控股关系。",
+      "本轮未检查/未完成：Ars、MIT Technology Review、IEEE Spectrum、TechCrunch、Benedict Evans、Stratechery、One Useful Thing、Import AI及部分地区当地媒体的逐篇检索。本期覆盖不完整，不能把常规名单当成实际采集数量。",
+      "本期引用原文：以卡片url及sources为准；audit.sources只记录真实访问结果，入口可读不代表文章全文可用。"
+    ],
+    "regionalCoverage": [
+      {
+        "region": "北美",
+        "result": "核实科技财报、苹果新品及开发者资源；多家主流媒体实际检索。"
+      },
+      {
+        "region": "中国及东亚",
+        "result": "界面、澎湃、财新入口与部分正文可读；米哈游相关未取得可用当天新信息。第一财经本轮超时；日韩当日产业链核实不足。"
+      },
+      {
+        "region": "欧洲",
+        "result": "FT、Guardian及欧洲半导体候选已检索；候选多为较早事件，未收录独立产业案例。"
+      },
+      {
+        "region": "大洋洲",
+        "result": "澳大利亚大学及公司原文共同确认29日配送服务启动，收录1个产业案例。"
+      },
+      {
+        "region": "中亚",
+        "result": "取得哈萨克斯坦总统府23日黄仁勋直接发言，作为七日补充。"
+      },
+      {
+        "region": "东南亚与南亚",
+        "result": "CNA入口、印度Nike报道及Rediff观点线索已读取；Nike属于消费市场线索，未作为完整科技产业链。"
+      },
+      {
+        "region": "非洲与拉美",
+        "result": "检索到数据中心和发电改造线索，但未完成当日核验；TechCabal未取得可用正文。无合格收录。"
+      },
+      {
+        "region": "中东",
+        "result": "本轮未完成独立当地媒体与产业原文核实，覆盖缺口保留。"
+      }
+    ],
+    "methodology": "北京时间2026-10-29编选。以逐篇读取正文及可核实发布日期为准；美国10月28日晚间报道换算为北京时间29日。公司预测、发布稿及编辑机会假设均明确标注。不将搜索摘要或无法读取的付费全文作为证据；不沿用昨日来源访问状态。跨栏分析不计为新的独立新闻；质量不足少发，不补旧闻。"
+  }
+}
