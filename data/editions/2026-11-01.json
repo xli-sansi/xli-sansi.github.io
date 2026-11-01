@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-01",
+  "updatedAt": "2026-11-01T08:09:00.571+08:00",
+  "news": [
+    {
+      "id": "20261101-news-fbi",
+      "title": "币安失窃案新增 FBI 官方归因",
+      "body": "FBI将超过60亿美元虚拟资产失窃归因于朝鲜相关TraderTraitor活动。路透社北京时间11月1日05:43发布该进展。",
+      "detail": "已读取FBI原文：执法部门称观察到被盗资产主要转换为ETH，预计会进一步洗钱。这是官方调查归因，不是法院定罪；也不能据此认定所有资金已追回。盗窃发生于10月29日前后，今天收录的是新增官方归因报道。",
+      "url": "https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack",
+      "org": "FBI；Reuters",
+      "date": "FBI公告：2026-10-31（美国日期）；Reuters报道：2026-11-01 05:43北京时间",
+      "archiveDate": "2026-11-01",
+      "kind": "网络安全",
+      "sources": [
+        {
+          "name": "FBI原始公告",
+          "url": "https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack"
+        },
+        {
+          "name": "Reuters当日报道",
+          "url": "https://www.reuters.com/world/fbi-links-north-korea-theft-6-billion-from-binance-2026-10-31/"
+        }
+      ]
+    },
+    {
+      "id": "20261101-news-vietnam",
+      "title": "越南今日起降低平均零售电价",
+      "body": "据CNA刊载的路透社报道，越南宣布11月1日起平均零售电价下调2%，至每千瓦时2,159.9越南盾，不含增值税。",
+      "detail": "政府10月31日宣布，今日生效；同时汽油特别消费税由7%—10%降为零，持续至2027年3月底。平均电价不能直接当作某家工厂或数据中心的实际合同电价，仍需核对用户类别与账单。",
+      "url": "https://www.channelnewsasia.com/business/vietnam-cuts-retail-electricity-price-removes-gasoline-tax-november-1-6510361",
+      "org": "Reuters，经CNA刊载",
+      "date": "宣布：2026-10-31；生效：2026-11-01",
+      "archiveDate": "2026-11-01",
+      "kind": "能源与制造成本"
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261101-trends-vietnam",
+      "title": "机会假设：为越南业务做能源账单变动核算",
+      "body": "今日生效的电价调整，提供了向在越南经营的中小企业验证账单核算需求的具体切入口；尚无证据证明客户愿意付费。",
+      "detail": "潜在买方：在越南设厂或经营仓储的企业财务、采购人员。交付假设：核对新旧账单、用电类别和合同条款，制作可追溯的成本变化表。门槛：越南语、当地计费规则和客户数据授权。低成本验证：先访谈3家企业，用脱敏账单试算，只有确认存在重复工作且愿意付费才开发工具。不能将平均降幅直接套到全部企业，也不把政策变化推断成产业迁移。",
+      "url": "https://www.channelnewsasia.com/business/vietnam-cuts-retail-electricity-price-removes-gasoline-tax-november-1-6510361",
+      "org": "编辑分析；事实依据Reuters/CNA",
+      "date": "事实生效：2026-11-01；分析：2026-11-01",
+      "archiveDate": "2026-11-01",
+      "kind": "待验证机会"
+    }
+  ],
+  "industry": [],
+  "views": [],
+  "audit": {
+    "sources": [
+      {
+        "name": "FBI",
+        "url": "https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack",
+        "status": "已读取并引用",
+        "note": "原始归因公告；调查结论不等于法院定罪。"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/fbi-links-north-korea-theft-6-billion-from-binance-2026-10-31/",
+        "status": "已读取并引用",
+        "note": "11月1日北京时间05:43归因报道；科技频道也已检索。"
+      },
+      {
+        "name": "CNA / Reuters",
+        "url": "https://www.channelnewsasia.com/business/vietnam-cuts-retail-electricity-price-removes-gasoline-tax-november-1-6510361",
+        "status": "已读取并引用",
+        "note": "越南电价11月1日生效。CNA转载Reuters，非独立双源。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/technology",
+        "status": "已检索；未引用",
+        "note": "科技入口已打开；归因报道搜索命中，未进一步采用正文。"
+      },
+      {
+        "name": "NYT",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "读取失败",
+        "note": "本轮已检索并尝试入口，未取得可用正文。"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/technology/2026/10/31/election-officials-brace-ai-powered-cyberattacks-midterms-near/",
+        "status": "已读取；未引用",
+        "note": "选举网络安全报道为北京时间10月31日，未作为今日新进展。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/innovation",
+        "status": "读取受限",
+        "note": "本轮检索并打开失败，不声称全文可用。"
+      },
+      {
+        "name": "Guardian",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+        "status": "已读取；未引用",
+        "note": "当日澳大利亚报道；来源摘要额度限制，未形成实质卡片。"
+      },
+      {
+        "name": "Economist",
+        "url": "https://www.economist.com/science-and-technology",
+        "status": "读取失败",
+        "note": "本轮查询和打开未获得可用正文。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/technology",
+        "status": "入口陈旧",
+        "note": "返回旧缓存，不能视为今日采集成功。"
+      },
+      {
+        "name": "FT",
+        "url": "https://www.ft.com/technology",
+        "status": "入口可读；未引用",
+        "note": "未读取可采用的当日文章全文。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/tech",
+        "status": "入口可读；未引用",
+        "note": "仅入口线索，未将付费全文当已读。"
+      },
+      {
+        "name": "澎湃",
+        "url": "https://www.thepaper.cn/channel_119908",
+        "status": "频道可读；未引用",
+        "note": "本轮展示候选多为10月30—31日。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "首页可读；未引用",
+        "note": "DeepSeek等线索为10月31日晚，未冒充11月1日新发布。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com/lists/6.html",
+        "status": "入口可读；未引用",
+        "note": "检索及打开，无采用的当日核实正文。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/tech/",
+        "status": "入口可读；未引用",
+        "note": "检索及打开，未取得可采用的当日全文。"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/",
+        "status": "入口可读；未引用",
+        "note": "游戏重组线索未完成原始时间与可核实来源核验。"
+      },
+      {
+        "name": "IT之家",
+        "url": "https://www.ithome.com/list",
+        "status": "已读取候选；未引用",
+        "note": "11月1日转载的Linux Mint、微信机器人、SharedViewKit等追溯后无已证实当日新事件。"
+      },
+      {
+        "name": "Linux Mint",
+        "url": "https://blog.linuxmint.com/?p=5093",
+        "status": "原文可读；未引用",
+        "note": "10月31日月报；未取得应列今日新进展的证据。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+        "status": "已读取；未引用",
+        "note": "追溯漏洞原文为10月28日，不按博客转述重发日期包装。"
+      },
+      {
+        "name": "Parameter",
+        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "status": "已读取；未引用",
+        "note": "披露10月28日，称10月26日修复；非今日新进展。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "status": "入口可读；未引用",
+        "note": "未完成当日完整产业案例核验。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "403",
+        "note": "本轮打开失败。"
+      },
+      {
+        "name": "吴恩达",
+        "url": "https://www.deeplearning.ai/the-batch/how-to-face-your-ai-fears-this-year/",
+        "status": "正文403",
+        "note": "个人目录可读，10月30日新文不可读；未用镜像补证。"
+      },
+      {
+        "name": "X / Twitter",
+        "url": "https://x.com/elonmusk/status/2116019939056513218",
+        "status": "403",
+        "note": "Musk原帖无法读取，不引用第三方镜像。"
+      },
+      {
+        "name": "Sam Altman",
+        "url": "https://blog.samaltman.com/",
+        "status": "目录可读；未引用",
+        "note": "未核实新的近七日原文；已归档访谈不重复。"
+      },
+      {
+        "name": "Dario Amodei",
+        "url": "https://darioamodei.com/",
+        "status": "目录可读；未引用",
+        "note": "检索命中旧文，未取得新的近七日发言。"
+      },
+      {
+        "name": "Karpathy",
+        "url": "https://www.karpathy.ai/",
+        "status": "读取失败；未引用",
+        "note": "定向搜索未核实合格近七日原文。"
+      },
+      {
+        "name": "World Labs",
+        "url": "https://www.worldlabs.ai/blog",
+        "status": "已检索；未引用",
+        "note": "命中此前文章与公告，不当作李飞飞当日观点。"
+      },
+      {
+        "name": "NVIDIA",
+        "url": "https://nvidianews.nvidia.com/",
+        "status": "已检索；未引用",
+        "note": "命中授奖等公司消息，未代替黄仁勋相关主题实质观点。"
+      },
+      {
+        "name": "DeepMind",
+        "url": "https://deepmind.google/blog/",
+        "status": "已检索；未引用",
+        "note": "公司研究目录不能直接充作Hassabis本人发言。"
+      },
+      {
+        "name": "HoYoverse",
+        "url": "https://www.hoyoverse.com/en-us/news",
+        "status": "无可读正文",
+        "note": "本轮打开，未核实当日企业消息。"
+      },
+      {
+        "name": "Anuttacon",
+        "url": "https://www.anuttacon.com/",
+        "status": "首页信息有限",
+        "note": "只取得使命与产品名，无法核实当日动态。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "Meta/Fourier合作与OpenAI融资调整传闻",
+        "reason": "匿名消息或未独立证实，且存在前日首发，不采用。"
+      },
+      {
+        "item": "微信机器人、Linux Mint、SharedViewKit与Turn10重组",
+        "reason": "当日转载不等于当日事件；原始日期较早或核验不足。"
+      },
+      {
+        "item": "Parameter披露的ChatGPT漏洞",
+        "reason": "原文10月28日，称10月26日修复；没有今日实质新增。"
+      },
+      {
+        "item": "八位人物的旧访谈、公司新闻和社交镜像",
+        "reason": "不符合近七日原始发言或已收录，拒绝凑数。"
+      },
+      {
+        "item": "米哈游三名创始人关联企业",
+        "reason": "未核实当日消息，不按第三方简介扩展未经核实的股权关系。"
+      }
+    ],
+    "counts": {
+      "news": 2,
+      "trends": 1,
+      "industry": 0,
+      "views": 0
+    },
+    "sectionNotes": {
+      "news": "目标10条，实际2条，缺8条。收录FBI新归因报道及越南今日生效的能源成本调整。已排除今日转载但原事件更早的游戏、机器人、Linux Mint消息及匿名融资传闻。米哈游及三名创始人关联企业未核实到合格当日进展。本轮检索并非穷尽，不代表今天没有其他重要新闻。",
+      "trends": "目标10条，实际1条，缺9条。根据今日生效的越南能源价格调整重新研究账单核算需求；买方、门槛和低成本验证均列明。付费需求是编辑假设，尚未验证。没有把旧案例改写为今日风口。",
+      "industry": "目标10条，实际0条，缺10条。本轮重新检查全球产业入口，但未完成同时具备当日进展、产品与上下游证据、商业模式和中国对照的产业案例。越南电价只作为成本新闻，未扩写成缺乏证据的产业链案例；不以旧背景补数。",
+      "views": "目标10条，实际0条，缺10条。八位重点人物检索未获得近七天内、主题符合且未重复的可核实原始发言。Altman已收录访谈不重复；Ng新文正文403，Musk原帖403；其余存在旧材料、公司消息或日期与原文核验不足。未收录不代表本人没有发言。"
+    },
+    "researchPlan": [
+      "常规清单：Reuters、AP、FT、WSJ、Bloomberg、NYT、Washington Post、BBC、Guardian、Economist；澎湃、财新、第一财经、界面、晚点、36氪。名单不是本轮全文采集记录。",
+      "常规科技与博客：The Verge、Ars、WIRED、MIT Technology Review、IEEE Spectrum、TechCrunch、游戏葡萄、Simon Willison、Benedict Evans、Stratechery、One Useful Thing、Import AI；X/Twitter与Instagram只用可核实原帖。",
+      "常规全球入口：CNA、Nikkei Asia、Rest of World、TechCabal、Al Jazeera、SCMP及地区产业原文；不设地区凑数配额。",
+      "本轮实际检索：国际主流媒体、中文科技媒体、全球产业入口及八位重点人物；逐篇读取FBI、Reuters、CNA、Guardian、Washington Post、IT之家、Linux Mint和Parameter相关页面，结果见sources。搜索结果摘要不等于读过原文。",
+      "本轮产业：从CNA、Rest of World、TechCabal及区域定向检索寻找当日证据；越南能源价格有今日生效节点，但未取得完整产业链和中国对照，因此海外产业留空。",
+      "本轮人物：八人组合检索及NVIDIA、World Labs、DeepMind、Karpathy、Dario、Ng定向查询；尝试Ng新文、Musk原帖，读取Altman与Dario目录。排除聚合镜像与旧稿，不重复昨日Altman访谈。",
+      "本轮米哈游：检索miHoYo、HoYoverse、Anuttacon及蔡浩宇、刘伟、罗宇皓；HoYoverse新闻页无可读正文，Anuttacon首页信息有限；未据第三方简介推断新投资关系。",
+      "本轮引用：新闻与机会卡片的url和sources为采用原文；audit.sources为实际检索或访问记录，未采用的入口不能视为引用。",
+      "本轮未完成：Ars、WIRED、MIT Technology Review、TechCrunch、Benedict Evans、Stratechery、One Useful Thing、Import AI、游戏葡萄、晚点、36氪逐篇核验；Instagram未重新测试。保留在常规清单，未冒充本轮成功采集。"
+    ],
+    "regionalCoverage": [
+      {
+        "region": "北美",
+        "result": "采用FBI及Reuters新归因；其他公司消息多为此前报道或匿名线索。"
+      },
+      {
+        "region": "东亚",
+        "result": "读取中文科技入口；米哈游相关无合格当日原文。"
+      },
+      {
+        "region": "东南亚",
+        "result": "采用越南今日生效电价调整；CNA为Reuters转载，不算第二份独立证据。"
+      },
+      {
+        "region": "欧洲、澳大利亚",
+        "result": "Linux Mint原始日期较早；Guardian澳大利亚创作行业报道已读取，摘要额度不足以形成实质卡片，未采用。"
+      },
+      {
+        "region": "南亚",
+        "result": "定向检索返回印度技术活动旧预告等，未核实当日产业案例。"
+      },
+      {
+        "region": "非洲、拉美、中东",
+        "result": "Rest of World入口可读，TechCabal403；区域搜索未形成可采用当日原文，覆盖不足。"
+      }
+    ],
+    "methodology": "以北京时间2026-11-01为本期日期；当天报道与事件日期分开。先读取原文，辨别官方归因、公司声明与分析假设。保留缺额、实际访问限制和过往归档，不采用未读取付费全文、匿名传闻、社交镜像或旧闻填充。"
+  }
+}
