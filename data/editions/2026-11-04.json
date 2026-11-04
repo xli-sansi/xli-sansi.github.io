@@ -1,0 +1,483 @@
+{
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04T08:35:25.908+08:00",
+  "news": [
+    {
+      "id": "20261104-news-amd",
+      "title": "AMD数据中心收入增长，消费芯片仍承压",
+      "body": "AMD第三季度数据中心收入85.5亿美元，同比增长97%；预计第四季度总收入约170亿美元、上下浮动3%。",
+      "detail": "北京时间今晨报道，美国11月3日业绩发布。客户端与游戏业务收入同比下降8%。编辑判断：AI基础设施需求与消费电子景气应分开观察；公司指引不是已实现收入。",
+      "url": "https://www.reuters.com/business/amd-forecasts-quarterly-revenue-above-estimates-data-center-growth-accelerates-2026-11-03/",
+      "org": "Reuters",
+      "date": "报道：11月4日05:18北京时间；事件：美国11月3日",
+      "archiveDate": "2026-11-04",
+      "kind": "芯片",
+      "sources": []
+    },
+    {
+      "id": "20261104-news-meta",
+      "title": "Meta通过五期美元债融资150亿美元",
+      "body": "Meta宣布五期美元债发行，为AI基础设施扩张筹集150亿美元。",
+      "detail": "报道时间为北京时间11月4日06:50，公告为美国11月3日。编辑观察：基础设施竞争也体现在融资能力；债券融资不能直接等同项目收益或确定算力需求。",
+      "url": "https://www.reuters.com/technology/meta-raises-15-billion-in-five-part-us-bond-sale-2026-11-03/",
+      "org": "Reuters",
+      "date": "报道：2026-11-04 06:50北京时间；事件：美国11月3日",
+      "archiveDate": "2026-11-04",
+      "kind": "AI基础设施",
+      "sources": []
+    },
+    {
+      "id": "20261104-news-block",
+      "title": "Block上调毛利预期，同时面临信贷损失压力",
+      "body": "Block把2026年毛利预期提高至126.3亿美元；第三季度交易、贷款和消费应收款损失同比增加65.6%。",
+      "detail": "今晨报道还提及反洗钱项目与美国司法部达成初步和解，不能写成最终结案。编辑观察：金融科技增长需要与信用成本一起评估；毛利不是净利润。",
+      "url": "https://www.reuters.com/business/block-lifts-profit-outlook-cash-app-strength-reaches-preliminary-doj-settlement-2026-11-03/",
+      "org": "Reuters",
+      "date": "报道：2026-11-04 07:59北京时间；事件：美国11月3日",
+      "archiveDate": "2026-11-04",
+      "kind": "金融科技",
+      "sources": []
+    },
+    {
+      "id": "20261104-news-tesla",
+      "title": "韩国消费者组织拟投诉特斯拉FSD营销",
+      "body": "路透社读到拟提交投诉，指特斯拉向部分无法合法使用FSD的韩国车主营销该功能。韩国公平交易委员会官员确认此前已展开调查。",
+      "detail": "报道为11月4日08:03北京时间；投诉拟于周四提交，尚不是已提交或裁决。特斯拉未回应报道询问。须区别车辆技术能力、当地认证和营销承诺；FSD仍需要驾驶员监督。",
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-misled-south-korean-customers-about-automated-driving-tech-consumer-group-2026-11-04/",
+      "org": "Reuters",
+      "date": "报道：2026-11-04 08:03北京时间；拟提交：11月5日",
+      "archiveDate": "2026-11-04",
+      "kind": "智能汽车·指控",
+      "sources": []
+    },
+    {
+      "id": "20261104-news-education",
+      "title": "Google将调整学校AI开关，搜索也在控制范围内",
+      "body": "Google宣布把引导式学习扩展至Search与Classroom，并计划让K—12学生账户的相关AI产品默认关闭，须由校方开启。",
+      "detail": "Classroom功能已宣布开放；Search先在部分美国学校试点。学校控制变更将在之后推出，不能写成今天所有学校已切换。编辑关注：教学评估、账户设置与访问搜索的安排需要一起考虑，功能可用不等于学习效果已获独立证明。Ars报道网页时间戳为11月3日17:54 UTC，即北京时间11月4日01:54。",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+      "org": "Google公告；Ars Technica",
+      "date": "报道：2026-11-04 01:54北京时间；公告原页：11月3日",
+      "archiveDate": "2026-11-04",
+      "kind": "教育科技",
+      "sources": [
+        {
+          "name": "Ars报道与日期交叉核对",
+          "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
+        }
+      ]
+    },
+    {
+      "id": "20261104-news-usmarket",
+      "title": "美股科技权重回升，但上涨没有覆盖多数股票",
+      "body": "美国11月3日收盘，标普500上涨0.4%、纳斯达克上涨0.8%，道指下跌0.4%；标普成分股多数仍下跌。",
+      "detail": "AP收盘报道显示，部分大型科技股带动指数，苹果则下跌。该收盘对应北京时间11月4日凌晨。编辑观察：指数回升与市场广度改善是两个问题，不把美股单日表现直接外推A股开盘。",
+      "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-0d235af127a92c68da0cc2c45c028cef",
+      "org": "AP",
+      "date": "事件：美国2026-11-03收盘＝北京时间11月4日凌晨",
+      "archiveDate": "2026-11-04",
+      "kind": "全球科技市场",
+      "sources": []
+    },
+    {
+      "id": "20261104-news-skyworks",
+      "title": "Skyworks季度指引偏弱，手机链与AI链分化",
+      "body": "Skyworks预计第一财季收入18亿—19亿美元，低于报道中的市场预期；公司预计智能手机业务环比下降低双位数百分比。",
+      "detail": "CNA今晨收录美国11月3日财报报道。公司已完成Qorvo收购，预测期与上季度合并范围不同，不能直接把收入指引与上季数字作简单增长比较。编辑关注：芯片行业内部需求并不同步。",
+      "url": "https://www.channelnewsasia.com/business/skyworks-tumbles-sluggish-smartphone-market-weighs-forecast-6518061",
+      "org": "Reuters（CNA转载）",
+      "date": "报道首发：2026-11-04 06:09北京时间；财报事件：美国11月3日",
+      "archiveDate": "2026-11-04",
+      "kind": "消费电子产业链",
+      "sources": []
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261104-trends-school",
+      "title": "机会假设：给学校做AI启用前的教学流程检查",
+      "body": "今晨教育AI更新提示：学校需要同时处理功能选择、课堂任务和教师反馈。这提供服务假设，但尚未证明学校愿意付费。",
+      "detail": "潜在买方：已使用相关平台的学校或教育服务机构。交付可以是账户开关清单、合成作业测试、教师培训及切换预案。门槛：熟悉校方采购与未成年人数据边界；只使用授权账户及虚构学生数据。低成本验证：与两位教师测试同一份课程任务，比较学生是否仍需独立解释答案、教师复核耗时是否下降，再询问购买意愿。不把产品宣传的学习增益当作本服务效果。",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+      "org": "编辑假设；Google当日新报道为依据",
+      "date": "依据：11月3日公告、北京时间11月4日报道；分析：11月4日",
+      "archiveDate": "2026-11-04",
+      "kind": "待验证机会",
+      "sources": []
+    },
+    {
+      "id": "20261104-trends-compute",
+      "title": "机会假设：以实际任务比较算力供应方案",
+      "body": "AMD今晨业绩提示数据中心需求仍有增长。对小团队而言，值得验证的服务不是代购热门芯片，而是把不同供应方案的报价与任务表现变成可比较的结果。",
+      "detail": "潜在买方：已有模型部署需求、准备更换算力供应商的开发工作室。交付：固定一批授权测试任务，记录质量、延迟、稳定性和总费用；把软件迁移工时计入成本。门槛是可复现测试、兼容性与报价有效期。低成本验证：先为一家团队比较两份真实报价及小规模试用结果，再询问是否愿意为迁移评估付费。大型芯片公司收入增长不能证明小团队存在付费需求；此为编辑假设，尚无订单证据。",
+      "url": "https://www.reuters.com/business/amd-forecasts-quarterly-revenue-above-estimates-data-center-growth-accelerates-2026-11-03/",
+      "org": "编辑假设；Reuters财报为触发线索",
+      "date": "事实报道及分析：2026-11-04",
+      "archiveDate": "2026-11-04",
+      "kind": "待验证机会"
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261104-industry-oxford",
+      "title": "英国牛津：大学研究与药企研发的连接",
+      "body": "AbbVie宣布扩建牛津研发设施，属于超过1.2亿英镑投资的一部分，拓展免疫学、神经科学和肿瘤研究。",
+      "detail": "产业链读法（编辑分析）：上游是科研人才、实验工具与疾病研究，研发设施把它们连接到药企后续开发；价值在可验证的候选项目，而非建成实验室即可有新药收入。客户/需求方是药企研发部门；门槛为科学积累、验证周期与失败风险。该公告未披露完整外包采购、商业回报或上市时间。中国对照：本轮未取得足以比较同类合作模式与采购规模的资料，不作“中国没有”的结论。",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/abbvie-expands-oxford-rd-facility-part-120-million-plus-investment-2026-11-04/",
+      "org": "Reuters；产业链部分为编辑分析",
+      "date": "报道：2026-11-04 08:08北京时间；公司宣布：11月4日",
+      "archiveDate": "2026-11-04",
+      "kind": "英国·生物科技",
+      "sources": []
+    },
+    {
+      "id": "20261104-industry-fibre",
+      "title": "背景补充：英国宽带从重复建设转向批发网络的选择",
+      "body": "11月3日，Virgin Media O2宣布削减成本并收缩光纤扩张，探索利用其他运营商网络。因今日完整产业案例不足，本条作为昨日背景置于末尾。",
+      "detail": "链条：网络建设与维护在上游，批发接入连接面向家庭和企业的零售服务；公司同时承受竞争与债务压力。商业模式关注每户收入、网络使用成本及客户留存。编辑分析：批发接入可能减轻重复建设投入，但依赖合同价格、服务质量和监管条件，不能把拟议安排写成已签约。中国对照：未取得同口径网络租用及零售竞争数据，不推导中国可直接复制，也不声称海外独有。",
+      "url": "https://www.channelnewsasia.com/business/virgin-media-o2-cut-thousands-jobs-and-halt-uk-fibre-expansion-6516211",
+      "org": "Reuters（CNA转载）；编辑产业链分析",
+      "date": "首发：2026-11-03 15:47北京时间；页面更新：11月4日00:53；不视为新事件",
+      "archiveDate": "2026-11-04",
+      "kind": "背景·英国通信基础设施",
+      "sources": []
+    }
+  ],
+  "views": [],
+  "audit": {
+    "counts": {
+      "news": 7,
+      "trends": 2,
+      "industry": 2,
+      "views": 0
+    },
+    "sectionNotes": {
+      "news": "目标10条，实际7条，缺3条。首发时间与事件日期分开核实；剔除只有11月4日页面更新、实际11月3日首发且无法确认新进展的文章。不采用匿名传闻或旧公告凑数。",
+      "trends": "目标10条，实际2条，缺8条。重新研究学校AI流程和算力方案比较；均为待验证商业假设，列明买方、门槛与低成本测试，不暗示已有收入。",
+      "industry": "目标10条，实际2条，缺8条。今日牛津研发扩建1条；当日完整案例不足，另在末尾附11月3日英国宽带背景1条。中国同口径对照不足已明确保留，不声称中国没有。",
+      "views": "目标10条，实际0条，缺10条。八人定向检索未取得可确认在近七天内发生、可读原始出处且不重复的合格新观点。黄仁勋新刊访谈实际讲述10月柏林行程；吴恩达10月30日原文403；其他结果多为旧文、受限原文或不可信拼接。公司新闻不冒充本人观点；未检得不代表本人没有发言。"
+    },
+    "sources": [
+      {
+        "name": "Reuters｜AMD数据中心收入增长，消费芯片仍承压",
+        "url": "https://www.reuters.com/business/amd-forecasts-quarterly-revenue-above-estimates-data-center-growth-accelerates-2026-11-03/",
+        "status": "已读取并引用",
+        "note": "实际日期、事实及判断边界见卡片。"
+      },
+      {
+        "name": "Reuters｜Meta通过五期美元债融资150亿美元",
+        "url": "https://www.reuters.com/technology/meta-raises-15-billion-in-five-part-us-bond-sale-2026-11-03/",
+        "status": "已读取并引用",
+        "note": "实际日期、事实及判断边界见卡片。"
+      },
+      {
+        "name": "Reuters｜Block上调毛利预期，同时面临信贷损失压力",
+        "url": "https://www.reuters.com/business/block-lifts-profit-outlook-cash-app-strength-reaches-preliminary-doj-settlement-2026-11-03/",
+        "status": "已读取并引用",
+        "note": "实际日期、事实及判断边界见卡片。"
+      },
+      {
+        "name": "Reuters｜韩国消费者组织拟投诉特斯拉FSD营销",
+        "url": "https://www.reuters.com/business/autos-transportation/tesla-misled-south-korean-customers-about-automated-driving-tech-consumer-group-2026-11-04/",
+        "status": "已读取并引用",
+        "note": "实际日期、事实及判断边界见卡片。"
+      },
+      {
+        "name": "Google公告；Ars Technica｜Google将调整学校AI开关，搜索也在控制范围内",
+        "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+        "status": "已读取并引用",
+        "note": "实际日期、事实及判断边界见卡片。"
+      },
+      {
+        "name": "AP｜美股科技权重回升，但上涨没有覆盖多数股票",
+        "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-0d235af127a92c68da0cc2c45c028cef",
+        "status": "已读取并引用",
+        "note": "实际日期、事实及判断边界见卡片。"
+      },
+      {
+        "name": "Reuters（CNA转载）｜欧盟法院总法律顾问提出AI新闻使用版权意见",
+        "url": "https://www.channelnewsasia.com/business/setback-google-eu-court-adviser-warns-ai-chatbot-may-breach-copyright-rules-6516366",
+        "status": "已读取；排除今日新闻",
+        "note": "元数据为11月3日首发，11月4日更新；未确认实质新增，不引用为当日消息。"
+      },
+      {
+        "name": "Reuters（CNA转载）｜Skyworks季度指引偏弱，手机链与AI链分化",
+        "url": "https://www.channelnewsasia.com/business/skyworks-tumbles-sluggish-smartphone-market-weighs-forecast-6518061",
+        "status": "已读取并引用",
+        "note": "实际日期、事实及判断边界见卡片。"
+      },
+      {
+        "name": "AFP（CNA刊载）；依据币安调查｜币安公布攻击调查：假招聘是重要入口",
+        "url": "https://www.channelnewsasia.com/business/binance-reveals-hackers-used-fake-job-interviews-malicious-code-in-us6-bn-heist-6517421",
+        "status": "已读取；排除今日新闻",
+        "note": "元数据为11月3日首发，11月4日更新；未确认实质新增，不引用为当日消息。"
+      },
+      {
+        "name": "Reuters；产业链部分为编辑分析｜英国牛津：大学研究与药企研发的连接",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/abbvie-expands-oxford-rd-facility-part-120-million-plus-investment-2026-11-04/",
+        "status": "已读取并引用",
+        "note": "实际日期、事实及判断边界见卡片。"
+      },
+      {
+        "name": "Reuters（CNA转载）；编辑产业链分析｜英国宽带：从重复建设转向批发网络的选择",
+        "url": "https://www.channelnewsasia.com/business/virgin-media-o2-cut-thousands-jobs-and-halt-uk-fibre-expansion-6516211",
+        "status": "已读取并引用",
+        "note": "元数据首发11月3日15:47，仅末尾背景；未把页面更新当新事件。"
+      },
+      {
+        "name": "Ars教育报道",
+        "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+        "status": "已读取并引用",
+        "note": "另读HTML元数据，确认北京时间11月4日01:54。"
+      },
+      {
+        "name": "NYT",
+        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+        "status": "读取失败",
+        "note": "定向检索受robots限制；教育报道点击原文仍不可访问，未冒充读全文。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/innovation",
+        "status": "检索受限",
+        "note": "定向检索返回robots限制；未读全文。"
+      },
+      {
+        "name": "Economist",
+        "url": "https://www.economist.com/science-and-technology",
+        "status": "检索受限",
+        "note": "定向检索返回robots限制。"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/11/03/ai-tech-brief-apples-ai-bill-is-coming-due/",
+        "status": "已读；未引用",
+        "note": "评论分析不当事实；苹果成本主题昨日已覆盖。"
+      },
+      {
+        "name": "Guardian",
+        "url": "https://www.theguardian.com/technology/technology%2Btechnology",
+        "status": "目录可读；日期不一致",
+        "note": "检索显示11月3日，打开返回10月30日目录；不据其写今天正文。"
+      },
+      {
+        "name": "FT",
+        "url": "https://www.ft.com/technology",
+        "status": "目录可读",
+        "note": "未取得候选付费全文，不引用标题作结论。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/tech",
+        "status": "目录可读",
+        "note": "Hassabis候选原文未获得可用完整正文。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/technology",
+        "status": "读取受限",
+        "note": "restricted URL。"
+      },
+      {
+        "name": "澎湃",
+        "url": "https://www.thepaper.cn/channel_119908",
+        "status": "目录可读；部分正文复取失败",
+        "note": "市场本轮已读署名央行转载；其他旧/相对日期不作为今晨事件。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/tech/index.html",
+        "status": "目录可读",
+        "note": "检索及打开返回日期不同；未采用未读取全文。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "超时",
+        "note": "未据搜索片段构建卡片。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com/lists/6.html",
+        "status": "目录可读",
+        "note": "搜索命中跨年份旧目录，仅月日不足确认2026当日，不采用。"
+      },
+      {
+        "name": "Ars航天与设备安全",
+        "url": "https://arstechnica.com/",
+        "status": "已读文章；未采用",
+        "note": "追溯Google XCPE原文为11月2日，不用新报道掩盖旧事件。"
+      },
+      {
+        "name": "The Verge / TechCrunch",
+        "url": "https://techcrunch.com/",
+        "status": "仅定向检索",
+        "note": "未完成候选正文核实，不标全文可用。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+        "status": "正文可读；未采用",
+        "note": "实验含失败样例；精确时区未确认，不据此填今日新闻。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/business",
+        "status": "目录及候选正文已读",
+        "note": "Reuters转载不是第二份独立证据；币安稿署名AFP。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/region/global/",
+        "status": "目录可读",
+        "note": "地区检索命中多数较旧，未收。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "403",
+        "note": "本轮重新测试。"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/",
+        "status": "检索受限",
+        "note": "robots限制；未读全文。"
+      },
+      {
+        "name": "SCMP",
+        "url": "https://www.scmp.com/tech",
+        "status": "仅定向检索",
+        "note": "可见目录线索，未确认合格当日全文。"
+      },
+      {
+        "name": "Economic Times",
+        "url": "https://economictimes.indiatimes.com/topic/technology-in-india",
+        "status": "仅定向检索",
+        "note": "候选日期较早，未采用。"
+      },
+      {
+        "name": "黄仁勋 / Tagesspiegel",
+        "url": "https://www.tagesspiegel.de/wirtschaft/nvidia-chef-jensen-huang-im-interview-die-deutschen-mussen-lernen-ein-wenig-lockerer-zu-werden-16222534.html",
+        "status": "正文可读；未采用",
+        "note": "刊发日期不能替代10月访谈发生日期。"
+      },
+      {
+        "name": "李飞飞 / World Labs",
+        "url": "https://www.worldlabs.ai/blog",
+        "status": "目录可读",
+        "note": "可见本人文章为9月28日，超期。"
+      },
+      {
+        "name": "Karpathy",
+        "url": "https://karpathy.ai/",
+        "status": "主页可读",
+        "note": "未取得近七日合格新观点。"
+      },
+      {
+        "name": "Dario Amodei",
+        "url": "https://darioamodei.com/",
+        "status": "主页可读",
+        "note": "定向搜索多为旧发言；未用公司财务报道充作本人观点。"
+      },
+      {
+        "name": "Demis Hassabis / WSJ",
+        "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
+        "status": "全文不足",
+        "note": "不采用第三方拼接访谈替代。"
+      },
+      {
+        "name": "Andrew Ng",
+        "url": "https://www.andrewng.org/writing",
+        "status": "目录可读；正文403",
+        "note": "10月30日原文未读，不能编写摘要。"
+      },
+      {
+        "name": "Sam Altman",
+        "url": "https://openai.com/news/",
+        "status": "仅定向检索",
+        "note": "未打开此入口；新检索未取得未重复的合格发言。"
+      },
+      {
+        "name": "Elon Musk / X",
+        "url": "https://x.com/elonmusk",
+        "status": "403",
+        "note": "未使用社交镜像替代本人原帖。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/openai/",
+        "status": "429",
+        "note": "本轮限流，不视为永久不可用。"
+      },
+      {
+        "name": "HoYoverse",
+        "url": "https://www.hoyoverse.com/en-us/news",
+        "status": "正文不可读",
+        "note": "不据公司名推定今日有消息。"
+      },
+      {
+        "name": "Anuttacon",
+        "url": "https://www.anuttacon.com/",
+        "status": "介绍页可读",
+        "note": "无可用当日公告，不推断蔡浩宇当前职位/控制关系。"
+      },
+      {
+        "name": "米哈游三位创始人 / 36氪线索",
+        "url": "https://www.36kr.com/p/4051901890680457",
+        "status": "定向检索；未引用",
+        "note": "11月2日综述包含旧事件，未完成原始关联关系核实。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "匿名消息：Jio谈判、SK海力士设厂障碍、OpenAI内部预警",
+        "reason": "不采用匿名传闻构建事实卡片。"
+      },
+      {
+        "item": "黄仁勋11月2日新刊德国采访",
+        "reason": "正文场景为10月柏林行程，未确认发言发生于近七天；不以转载日替代发言日。"
+      },
+      {
+        "item": "Hassabis第三方拼接问答",
+        "reason": "未确认原始访谈，排除。WSJ候选未取得可用完整正文。"
+      },
+      {
+        "item": "吴恩达10月30日文章",
+        "reason": "本人目录可见，正文两种官方入口均403；不据标题编观点。"
+      },
+      {
+        "item": "Google XCPE、Argo航天、Simon模型实验",
+        "reason": "本轮已读，但原事件/时区或当日实质增量未全部确认；不包装成当日新发现。"
+      },
+      {
+        "item": "米哈游11月2日综述及创始人关联企业",
+        "reason": "旧事件、日期及关联性质未完成原始证据核验；HoYoverse入口无可读正文，Anuttacon仅介绍页。"
+      },
+      {
+        "item": "部分A股收评成交额",
+        "reason": "存在口径和总分项差异，未强行拼接；精确广度复取失败。"
+      },
+      {
+        "item": "CNA欧盟版权与币安调查报道",
+        "reason": "HTML元数据分别首发11月3日17:20、22:51北京时间；11月4日仅页面更新，无法确认实质新增，移出今日新闻。"
+      }
+    ],
+    "researchPlan": [
+      "常规清单：Reuters、AP、NYT、Washington Post、BBC、Guardian、Economist、FT、WSJ、Bloomberg；澎湃、财新、第一财经、界面；主流科技媒体、博客与本人原文。清单不等于全部全文已采集。",
+      "本轮实际检索与访问：见下表逐项记录；引用原文以“已读取并引用”标识，卡片附原文链接。Reuters经CNA转载仍为同一来源，AFP另行标明。",
+      "本轮未逐站检查：WIRED、MIT Technology Review、IEEE Spectrum、游戏葡萄、Benedict Evans、Stratechery、One Useful Thing、Import AI；不能把它们标成可用。",
+      "市场观察单独归档3卡；先核实11月3日收盘及政策，再编辑本期四栏。下一轮优先补齐市场原始全表、非英美地区当日产链、中国对照与八人可验证新发言。"
+    ],
+    "regionalCoverage": {
+      "东亚": "韩国Tesla报道、中文媒体及企业入口实际检索；未找到合格当日米哈游新进展。",
+      "东南亚": "CNA入口及多篇正文已读，转载与原创/AFP区分。",
+      "南亚": "Economic Times定向检索命中较早报道，未采用。",
+      "中东": "Al Jazeera与地区关键词检索未形成合格当日正文。",
+      "非洲": "TechCabal入口403，Rest of World目录可读但候选较旧。",
+      "拉美": "Rest of World地区定向检索主要为旧报道，未作为今日案例。",
+      "欧洲": "英国研发、通信及欧盟版权案件；德国人物访谈因实际日期未明确入近七天而排除。",
+      "北美": "AI、芯片、金融科技与教育新报道，实际引用较集中；不声称已经均衡覆盖全球。"
+    }
+  }
+}
