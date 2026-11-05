@@ -1,0 +1,597 @@
+{
+  "date": "2026-11-05",
+  "updatedAt": "2026-11-05T08:28:29.620+08:00",
+  "news": [
+    {
+      "id": "20261105-ciie",
+      "title": "上海进博会进入首个展日：技术装备展可沿芯片产业链看",
+      "body": "第九届进博会展期为11月5日至10日。记者在展前探馆看到，技术装备展涉及芯片材料、制造设备、设计和成品，也有数据中心供电、冷却方案。",
+      "detail": "今天的节点是展期开始。若要判断展品离商业应用有多远，可向展商分别索取可供货型号、测试条件和已有客户验收材料。本稿截点在上午开幕活动前，不写未发生的签约或订单。",
+      "url": "https://m.cls.cn/detail/2525355",
+      "org": "科创板日报｜记者探馆",
+      "date": "展期：11月5—10日；探馆报道：11月4日19:52",
+      "archiveDate": "2026-11-05",
+      "kind": "科技展会",
+      "sources": []
+    },
+    {
+      "id": "20261105-arm",
+      "title": "Arm从授权设计走向卖芯片：公司给出两财年销售预期",
+      "body": "Arm预计其AGI CPU在2027及2028两个财年合计可销售约20亿美元。公司称正与代工和其他供应商协调材料供应。",
+      "detail": "对传统授权业务，客户出货可带来版税；卖成品CPU则还要解决材料、交付与库存。这个变化解释了为什么财报里除了设计授权，还需要看产品实际交付。20亿美元是两年合计预期，不是已确认收入。",
+      "url": "https://www.reuters.com/business/arm-beats-second-quarter-revenue-estimates-ai-data-center-demand-2026-11-04/",
+      "org": "Reuters｜Arm业绩与专访",
+      "date": "报道：11月5日05:07北京时间；业绩披露：美国11月4日",
+      "archiveDate": "2026-11-05",
+      "kind": "芯片商业模式",
+      "sources": []
+    },
+    {
+      "id": "20261105-meli",
+      "title": "拉美电商Mercado Libre：巴西拉动增长，配送成本压低利润率",
+      "body": "第三季度净营收与金融收入合计107.5亿美元，同比增长45%；净利润4.48亿美元。公司为旺季扩充物流能力，巴西和阿根廷扩大包邮范围。",
+      "detail": "对卖家更直接的变化是运费：公司财务负责人表示，燃油成本上升促使平台提高商家运费。平台营收增长不能推出每单利润上升，更不能当成每个当地商家的成本涨幅。",
+      "url": "https://www.reuters.com/business/mercadolibre-profit-misses-logistics-spending-revenue-tops-estimates-2026-11-04/",
+      "org": "Reuters｜圣保罗报道",
+      "date": "报道：11月5日05:11北京时间；财报：美国11月4日",
+      "archiveDate": "2026-11-05",
+      "kind": "拉美电商",
+      "sources": []
+    },
+    {
+      "id": "20261105-qual",
+      "title": "高通汽车芯片季度收入首次达到20亿美元",
+      "body": "高通披露，第四财季汽车芯片收入同比增长89%，而公司按美国会计准则计算的季度总收入同比下降8%，至103.22亿美元。",
+      "detail": "车规业务增长没有完全抵消其他业务变化。公司重申2027财年数据中心收入目标50亿美元；这个目标应与已经实现的汽车收入分开看。",
+      "url": "https://investor.qualcomm.com/files/content_files/FY2026-4th-Quarter-Earnings-Release.pdf",
+      "org": "高通财报原文",
+      "date": "美国11月4日盘后业绩；北京时间11月5日晨；季度截至9月27日",
+      "archiveDate": "2026-11-05",
+      "kind": "汽车与计算",
+      "sources": []
+    },
+    {
+      "id": "20261105-vote",
+      "title": "美国多地投票限制数据中心，项目需逐地核查",
+      "body": "《华盛顿邮报》统计，至少38个地方辖区通过了禁止或限制数据中心的提案。各地限制程度不一。",
+      "detail": "对具体项目，先查所在地通过的文本：全面禁止、限制某块用地、要求再次表决，会产生不同后果。这个地方投票统计不能外推成全美统一禁令。",
+      "url": "https://www.washingtonpost.com/technology/2026/11/04/voters-pass-over-20-ballot-measures-ban-or-restrict-data-centers/",
+      "org": "华盛顿邮报｜地方投票统计",
+      "date": "报道：11月5日02:09北京时间；投票：美国11月3日",
+      "archiveDate": "2026-11-05",
+      "kind": "算力与规划",
+      "sources": []
+    },
+    {
+      "id": "20261105-eu",
+      "title": "欧盟芯片设计支持计划：5.25亿欧元分给两类用途",
+      "body": "欧盟委员会与成员国拟提供4.4亿欧元补助，帮助初创企业承担商用芯片开发成本；另有8500万欧元用于欧洲芯片设计平台。",
+      "detail": "平台拟连接设计工具、可复用设计模块和制造资源。资助规模是公布的安排，不能写成初创企业已经拿到全部资金，或已经量产。",
+      "url": "https://www.reuters.com/world/china/europe-invest-525-million-chip-startups-catch-up-with-us-china-2026-11-04/",
+      "org": "Reuters｜欧洲芯片设计平台",
+      "date": "报道：11月5日01:43北京时间；平台发布：欧洲11月4日",
+      "archiveDate": "2026-11-05",
+      "kind": "欧洲产业政策",
+      "sources": []
+    },
+    {
+      "id": "20261105-snap",
+      "title": "Snap付费用户超过3000万，口径涵盖多个产品",
+      "body": "Snap公布第三季度营收17.22亿美元，同比增长14%。公司对付费规模的说明包含Snapchat+、存储和Lens+，不能把3000万全部算作一款订阅的用户。",
+      "detail": "观察消费互联网的收入来源时，可分看广告、存储与创作工具的付费理由。合计人数没有给出各产品单独的转化率，也不等于AR功能有3000万付费用户。",
+      "url": "https://www.businesswire.com/news/home/20261104908953/en/Snap-Inc.-Announces-Third-Quarter-2026-Financial-Results",
+      "org": "Snap公告（Business Wire）",
+      "date": "报道：11月5日05:49北京时间；公司财报：美国11月4日",
+      "archiveDate": "2026-11-05",
+      "kind": "社交平台",
+      "sources": [
+        {
+          "name": "TechCrunch报道",
+          "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/"
+        }
+      ]
+    },
+    {
+      "id": "20261105-swift",
+      "title": "NASA确认Swift天文台已再入大气层",
+      "body": "据CBS引述NASA，运行约22年的Swift天文台于美国东部时间11月4日07:39在印度尼西亚北苏门答腊上空再入。",
+      "detail": "这次更新确认的是再入已经发生。再入位置不能当作碎片精确落点；本期不据轨迹图推测地面损害。",
+      "url": "https://www.cbsnews.com/news/swift-observatory-plunges-back-to-earth/",
+      "org": "CBS News｜引述NASA",
+      "date": "报道：11月5日05:55北京时间；再入：11月4日20:39北京时间",
+      "archiveDate": "2026-11-05",
+      "kind": "空间科学",
+      "sources": []
+    },
+    {
+      "id": "20261105-sil",
+      "title": "德国硅片厂Siltronic年内第二次上调销售预期",
+      "body": "Siltronic上调全年销售预期。公司负责人认为，芯片制造商优先满足数据中心需求，使部分其他终端可获得的供给承压。",
+      "detail": "预期上调是公司动作，供给为何转向则是供应商的解释。不能由此推断所有手机、PC需求走弱都是同一原因，也不能将高端硅片行情外推至所有规格。",
+      "url": "https://www.reuters.com/business/ai-boom-draws-chip-supply-other-end-markets-siltronic-ceo-says-2026-11-04/",
+      "org": "Reuters｜Siltronic负责人专访",
+      "date": "报道：11月5日00:12北京时间；业绩展望与访谈：欧洲11月4日",
+      "archiveDate": "2026-11-05",
+      "kind": "半导体材料",
+      "sources": []
+    },
+    {
+      "id": "20261105-app",
+      "title": "AppLovin第三季度收入增55%，利润增速更快",
+      "body": "这家广告技术平台披露，第三季度收入约21.85亿美元，净利润约14.39亿美元，同比增长72%。董事会另批准增加32亿美元回购授权。",
+      "detail": "授权只是可用额度，不代表已回购。广告主更关心用同样的预算能否带来更多新增客户；平台净利润不能直接回答单一广告主的投放回报。",
+      "url": "https://investors.applovin.com/files/content_files/3Q26-Earnings-Press-Release.pdf",
+      "org": "AppLovin三季度财报",
+      "date": "公告：美国11月4日；业绩会：北京时间11月5日06:00；季度截至9月30日",
+      "archiveDate": "2026-11-05",
+      "kind": "广告技术",
+      "sources": []
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261105-site",
+      "title": "数据中心选址：谁愿意为提前识别用地限制付费？",
+      "body": "美国多地表决显示，企业有算力需求，并不代表某块土地就能获批。可向开发商或设计顾问验证一个具体需求：方案初期是否需要一张当地审批条件清单。",
+      "detail": "试做一份：选一个公开项目，标注地块、供电接入、冷却方式、听证节点和各自来源。让两位有选址经验的人指出哪些栏会影响淘汰地块。门槛是读懂地方文本与识别尚未生效的条款；法律结论交当地专业人员。若不能比现有尽调更早发现限制，就没有额外付费理由。",
+      "url": "https://www.washingtonpost.com/technology/2026/11/04/voters-pass-over-20-ballot-measures-ban-or-restrict-data-centers/",
+      "org": "华盛顿邮报｜地方投票统计",
+      "date": "需求线索：11月5日报道；编辑假设：11月5日",
+      "archiveDate": "2026-11-05",
+      "kind": "机会假设",
+      "sources": []
+    },
+    {
+      "id": "20261105-ship",
+      "title": "包邮之后，商家每单还剩多少？",
+      "body": "拉美平台披露调高部分商家运费，为跨境卖家提出了一个可验证的问题：同一商品换一个包装尺寸或配送选项，会不会从盈利变成亏损？",
+      "detail": "候选买方是有真实订单的当地或跨境卖家。用店主授权的20笔去标识订单，对照实付运费、退货与平台扣款，只标出负毛利订单及原因。门槛是分清国家、重量档和补贴的适用条件。若卖家现有后台已经解释清楚误差，这项服务就不成立。",
+      "url": "https://www.reuters.com/business/mercadolibre-profit-misses-logistics-spending-revenue-tops-estimates-2026-11-04/",
+      "org": "Reuters｜圣保罗报道",
+      "date": "需求线索与编辑假设：11月5日",
+      "archiveDate": "2026-11-05",
+      "kind": "机会假设",
+      "sources": []
+    },
+    {
+      "id": "20261105-exhibit",
+      "title": "给技术展商做一页能回答采购问题的展示说明",
+      "body": "进博会技术展区把复杂系统放在同一展台：一张产品效果图很难说明哪些部件能在现场安装、哪些参数只在测试条件下成立。",
+      "detail": "候选买方是有本地渠道但缺少双语技术展示的小型设备商。先把一家厂商获准使用的样本改成一页：列安装接口、维护净距、交付边界及带条件的性能值。用真实买方的三个问题比较改版前后找到答案的时间。门槛是原厂核对和准确翻译；展会规模本身不能证明订单。",
+      "url": "https://m.cls.cn/detail/2525355",
+      "org": "科创板日报｜记者探馆",
+      "date": "展期首日：11月5日；依据11月4日探馆",
+      "archiveDate": "2026-11-05",
+      "kind": "机会假设",
+      "sources": []
+    },
+    {
+      "id": "20261105-ads",
+      "title": "把广告带来的新增订单与自然成交分开",
+      "body": "AppLovin的季度增长说明平台业务扩张，却没有替商家证明广告效果。可测试小商户是否需要一次独立的投放归因核对。",
+      "detail": "在取得授权后，选一个已有足够订单量的产品，用小规模留出组比较扣除退货、折扣后的增量毛利。门槛是样本量、季节性与平台归因窗口。若样本不足，交付物应写明无法判断，不把点击或曝光当作新增订单。付费意愿尚未验证。",
+      "url": "https://investors.applovin.com/files/content_files/3Q26-Earnings-Press-Release.pdf",
+      "org": "AppLovin三季度财报",
+      "date": "业绩会与编辑假设：11月5日",
+      "archiveDate": "2026-11-05",
+      "kind": "机会假设",
+      "sources": []
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261105-wafer",
+      "title": "德国硅片供应商：芯片需求变化怎样传到上游材料？",
+      "body": "Siltronic卖给芯片制造商的是硅片，而非服务器。下游晶圆厂决定用产线制造哪类芯片，上游感受到的是不同规格硅片的订单变化。其当日发布的销售展望构成本期线索。",
+      "detail": "商业门槛在于材料稳定性和客户生产验证。中国对照：沪硅产业10月31日披露的三季报显示，其第三季度300毫米半导体硅片收入同比增逾45%。这证明国内已存在同类销售；不能只凭直径相同，就认定两家产品等级、客户认证或盈利能力相同。",
+      "url": "https://www.reuters.com/business/ai-boom-draws-chip-supply-other-end-markets-siltronic-ceo-says-2026-11-04/",
+      "org": "Reuters｜Siltronic负责人专访",
+      "date": "新报道：11月5日00:12；中国对照财报：10月31日",
+      "archiveDate": "2026-11-05",
+      "kind": "德国·晶圆材料",
+      "sources": [
+        {
+          "name": "沪硅产业2026年三季报",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-10-31/1225648934.PDF"
+        }
+      ]
+    },
+    {
+      "id": "20261105-design",
+      "title": "欧洲芯片设计平台：初创公司可以共享什么？",
+      "body": "小团队从电路图走到样片，要取得设计工具、可用IP模块和代工资源。欧洲新平台试图把这些服务放在一个入口，面向需要将设计商业化的企业。",
+      "detail": "读这类项目要分开看：公共资金承担哪些开发费用；流片、验证与量产失败又由谁承担。平台服务不是成品芯片收入。中国对照：上海科学院介绍的集成电路中心也提供EDA/IP和多项目晶圆流片服务。可比较的是服务环节；公开资料不足以比较补贴力度或成功率。",
+      "url": "https://www.reuters.com/world/china/europe-invest-525-million-chip-startups-catch-up-with-us-china-2026-11-04/",
+      "org": "Reuters｜欧洲芯片设计平台",
+      "date": "新报道：11月5日01:43；上海科学院机构介绍页未标发布日期",
+      "archiveDate": "2026-11-05",
+      "kind": "欧洲·芯片设计服务",
+      "sources": [
+        {
+          "name": "上海科学院｜成员单位与服务",
+          "url": "https://www.sast.org.cn/qygk/zzjg/xtdw/"
+        }
+      ]
+    },
+    {
+      "id": "20261105-prefab",
+      "title": "法国设备商在上海展示：预制机房买的是接口配合",
+      "body": "进博会探馆报道记录了施耐德电气展示的预制数据中心模块、不间断电源、液冷单元和管理平台。下游机房运营方要解决的是供电、散热、现场安装与维护能否配套。",
+      "detail": "商业环节可分为部件、工厂预制、现场接驳和运维。买方验收要问：现场仍需完成哪些工作，厂商的节能数据在哪些负载下成立。中国对照：同篇报道记载其在中国设有工厂和研发能力，这是一条跨国供应链，不能称为海外独有。未核实展品的具体产地或订单，不将展台演示当作项目交付。",
+      "url": "https://m.cls.cn/detail/2525355",
+      "org": "科创板日报｜记者探馆",
+      "date": "上海展期首日：11月5日；展前报道：11月4日19:52",
+      "archiveDate": "2026-11-05",
+      "kind": "法国与中国·机房设备",
+      "sources": []
+    }
+  ],
+  "views": [
+    {
+      "id": "20261105-huang",
+      "title": "黄仁勋：专用模型有自己的位置，下一步看机器人怎样接入硬件",
+      "body": "11月3日旧金山Forge现场，黄仁勋表示，闭源前沿模型有价值，但企业的专门知识也需要专用模型。他把机器人系统中让真实硬件参与测试与运行，看作接下来值得注意的方向。以上是中文转述。",
+      "detail": "编辑解读：判断一个机器人项目时，可分别问模型是否掌握任务知识、设备反馈是否进入测试。这是芯片供应商负责人的技术判断，有行业利益背景，不是对明年出货量的承诺。现场媒体记录了本人回答，主办方议程另核对时间与对谈身份。",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/03/nvidia-is-happy-to-take-your-money-whether-youre-using-open-or-closed-models-says-jensen-huang/5307368",
+      "org": "The Register｜Forge现场发言",
+      "date": "发言：美国11月3日；现场报道：11月3日21:00 UTC；近七日补充",
+      "archiveDate": "2026-11-05",
+      "kind": "人物·算力与机器人",
+      "sources": [
+        {
+          "name": "主办方Fireworks议程",
+          "url": "https://fireworks.ai/forge/agenda"
+        }
+      ]
+    }
+  ],
+  "audit": {
+    "counts": {
+      "news": 10,
+      "trends": 4,
+      "industry": 3,
+      "views": 1
+    },
+    "sectionNotes": {
+      "news": "10条。美股盘后按北京时间换日；上海进博会按展期首日收录，列出11月4日探馆报道的真实日期。",
+      "trends": "4条，距目标少6条。只收能说清买方、测试交付与验证成本的假设；尚无付费订单证据。",
+      "industry": "3条，距目标少7条。分别核对硅片、设计平台与预制机房的上下游及中国对照；未以没有当天进展的历史案例补数。",
+      "views": "1条，距目标少9条。黄仁勋11月3日的现场直接发言在七天内。其他候选或早已刊发、原文受限，或无法核实发言日期；不等于其余七人没有发言。"
+    },
+    "sources": [
+      {
+        "name": "Reuters｜Arm业绩与专访",
+        "url": "https://www.reuters.com/business/arm-beats-second-quarter-revenue-estimates-ai-data-center-demand-2026-11-04/",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "高通财报原文",
+        "url": "https://investor.qualcomm.com/files/content_files/FY2026-4th-Quarter-Earnings-Release.pdf",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "Snap公告（Business Wire）",
+        "url": "https://www.businesswire.com/news/home/20261104908953/en/Snap-Inc.-Announces-Third-Quarter-2026-Financial-Results",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "TechCrunch报道",
+        "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "Reuters｜欧洲芯片设计平台",
+        "url": "https://www.reuters.com/world/china/europe-invest-525-million-chip-startups-catch-up-with-us-china-2026-11-04/",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "华盛顿邮报｜地方投票统计",
+        "url": "https://www.washingtonpost.com/technology/2026/11/04/voters-pass-over-20-ballot-measures-ban-or-restrict-data-centers/",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "CBS News｜引述NASA",
+        "url": "https://www.cbsnews.com/news/swift-observatory-plunges-back-to-earth/",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "Reuters｜圣保罗报道",
+        "url": "https://www.reuters.com/business/mercadolibre-profit-misses-logistics-spending-revenue-tops-estimates-2026-11-04/",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "AppLovin三季度财报",
+        "url": "https://investors.applovin.com/files/content_files/3Q26-Earnings-Press-Release.pdf",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "科创板日报｜记者探馆",
+        "url": "https://m.cls.cn/detail/2525355",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "Reuters｜Siltronic负责人专访",
+        "url": "https://www.reuters.com/business/ai-boom-draws-chip-supply-other-end-markets-siltronic-ceo-says-2026-11-04/",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "沪硅产业2026年三季报",
+        "url": "https://static.cninfo.com.cn/finalpage/2026-10-31/1225648934.PDF",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "上海科学院｜成员单位与服务",
+        "url": "https://www.sast.org.cn/qygk/zzjg/xtdw/",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "The Register｜Forge现场发言",
+        "url": "https://www.theregister.com/ai-and-ml/2026/11/03/nvidia-is-happy-to-take-your-money-whether-youre-using-open-or-closed-models-says-jensen-huang/5307368",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "主办方Fireworks议程",
+        "url": "https://fireworks.ai/forge/agenda",
+        "status": "本期已读取并引用",
+        "note": "具体用途及原始日期见卡片；同一通讯社的转载不算独立来源。"
+      },
+      {
+        "name": "www.deeplearning.ai",
+        "url": "https://www.deeplearning.ai/the-batch/how-to-face-your-ai-fears-this-year/",
+        "status": "读取失败",
+        "note": "本次403，未用镜像替代。"
+      },
+      {
+        "name": "www.hoyoverse.com",
+        "url": "https://www.hoyoverse.com/en-us/news",
+        "status": "无可读正文",
+        "note": "原始页面未返回文章。"
+      },
+      {
+        "name": "www.anuttacon.com",
+        "url": "https://www.anuttacon.com/",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "www.thepaper.cn",
+        "url": "https://www.thepaper.cn/channel_119908",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "www.ft.com",
+        "url": "https://www.ft.com/technology",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "www.yicai.com",
+        "url": "https://www.yicai.com/",
+        "status": "读取失败",
+        "note": "本次无法读取或超时。"
+      },
+      {
+        "name": "www.bloomberg.com",
+        "url": "https://www.bloomberg.com/technology",
+        "status": "旧缓存目录",
+        "note": "返回数月前缓存，不能验证本期文章。"
+      },
+      {
+        "name": "simonwillison.net",
+        "url": "https://simonwillison.net/",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "www.channelnewsasia.com",
+        "url": "https://www.channelnewsasia.com/business",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "www.stats.gov.cn",
+        "url": "https://www.stats.gov.cn/sj/zxfb/",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "www.mof.gov.cn",
+        "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "www.gov.cn",
+        "url": "https://www.gov.cn/zhengce/",
+        "status": "读取失败",
+        "note": "本次403，未用镜像替代。"
+      },
+      {
+        "name": "www.worldlabs.ai",
+        "url": "https://www.worldlabs.ai/blog",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "karpathy.ai",
+        "url": "https://karpathy.ai/",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "darioamodei.com",
+        "url": "https://darioamodei.com/",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "www.instagram.com",
+        "url": "https://www.instagram.com/openai/",
+        "status": "读取失败",
+        "note": "本次429，未采信第三方转载发言。"
+      },
+      {
+        "name": "www.theguardian.com",
+        "url": "https://www.theguardian.com/technology",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "apnews.com",
+        "url": "https://apnews.com/technology",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "www.wsj.com",
+        "url": "https://www.wsj.com/tech",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "www.caixin.com",
+        "url": "https://www.caixin.com/tech/",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "techcabal.com",
+        "url": "https://techcabal.com/",
+        "status": "读取失败",
+        "note": "本次403，未用镜像替代。"
+      },
+      {
+        "name": "restofworld.org",
+        "url": "https://restofworld.org/region/global/",
+        "status": "已打开入口；未引用",
+        "note": "仅核对入口或机构介绍，不代表取得每篇全文。"
+      },
+      {
+        "name": "纽约时报",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "定向检索受限",
+        "note": "robots限制，未引用。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/innovation",
+        "status": "定向检索受限",
+        "note": "robots限制，未引用。"
+      },
+      {
+        "name": "经济学人",
+        "url": "https://www.economist.com/science-and-technology",
+        "status": "定向检索受限",
+        "note": "robots限制，未引用。"
+      },
+      {
+        "name": "界面",
+        "url": "https://m.jiemian.com/lists/459_15.html",
+        "status": "检索命中旧目录",
+        "note": "只有月日不足以判定年份，未采用。"
+      },
+      {
+        "name": "36氪｜米哈游",
+        "url": "https://www.36kr.com/p/4051901890680457",
+        "status": "定向检索",
+        "note": "11月2日旧综述，不推断蔡浩宇、刘伟、罗宇皓个人投资或任职变动。"
+      },
+      {
+        "name": "The Verge｜Altman",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+        "status": "报道可读；原帖403",
+        "note": "不以媒体转述代替已核实本人社交原文。"
+      },
+      {
+        "name": "Elon Musk原帖",
+        "url": "https://x.com/elonmusk/status/2117862462976594112",
+        "status": "403",
+        "note": "无法核实本人原帖；一句评论不足以作为工程方案。"
+      },
+      {
+        "name": "ADIPEC｜Altman",
+        "url": "https://www.adipec.com/press-media/insights/2026/11/he-dr-sultan-al-jaber-and-sam-altman-highlight-energy-ai-and-investment-priorities-at-adipec-2026-opening/",
+        "status": "已读；重复",
+        "note": "能源主题已在11月3日收录。"
+      },
+      {
+        "name": "证券日报",
+        "url": "https://finance.eastmoney.com/a/202611053922362315.html",
+        "status": "市场栏引用",
+        "note": "11月5日01:25报道，沪深北三市口径。"
+      },
+      {
+        "name": "新华财经",
+        "url": "https://www.cnfin.com/zs-lb/detail/20261104/4491027_1.html",
+        "status": "市场栏引用",
+        "note": "核对央行公告生效日与计划操作日期。"
+      },
+      {
+        "name": "Choice",
+        "url": "https://fund.eastmoney.com/a/202611043921903739.html",
+        "status": "市场栏引用",
+        "note": "资金为数据商行业估算。"
+      },
+      {
+        "name": "同花顺",
+        "url": "https://news.10jqka.com.cn/20261104/c681452355.shtml",
+        "status": "市场栏引用",
+        "note": "采用正文行情表，未用自动摘要作独立证据。"
+      },
+      {
+        "name": "智通（新浪转载）",
+        "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-04/doc-inixqaaz8129172.shtml",
+        "status": "市场栏引用",
+        "note": "广度数字注明报道口径。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "DoorDash、Robinhood部分财报线索",
+        "reason": "首次披露日期在不同入口出现冲突，未完成一致性核实。"
+      },
+      {
+        "item": "米哈游与三位创始人",
+        "reason": "未核实到当天可溯源的新事项；旧综述不作为新公告。"
+      },
+      {
+        "item": "Hassabis与Amodei拼接问答、马斯克与奥特曼社交摘句",
+        "reason": "未核实完整原始语境；官方活动已报道内容不重复。"
+      },
+      {
+        "item": "进博会成交金额、展品商业部署",
+        "reason": "盘前仅确认展期和展品，不能把参展当成采购。"
+      }
+    ],
+    "researchPlan": [
+      "常规清单：国际综合媒体、中文财经及科技媒体、地区媒体、行业机构、创始人原文与博客。",
+      "实际检索及引用分列于下表；已读目录、受限、引用正文分别标示。Reuters报道和同稿转载不重复计算。",
+      "日常备查但本次未逐站核验：晚点、游戏葡萄、WIRED、MIT Technology Review、IEEE Spectrum、Stratechery、Benedict Evans、One Useful Thing及Import AI；不计入本期有效来源。"
+    ],
+    "regionalCoverage": {
+      "中国及东亚": "上海进博会；沪硅产业财报和上海科学院材料用于中国对照。日本游戏公司搜索中有日期歧义，未收。",
+      "东南亚": "CNA目录检查；Swift再入地点为印度尼西亚，不把地点当作当地产业报道。",
+      "南亚": "未完成当地原文核实。",
+      "中东": "核查ADIPEC主办方资料，排除已刊观点。",
+      "非洲": "TechCabal入口403，检索命中旧报道。",
+      "拉美": "采用路透圣保罗记者有关Mercado Libre及巴西、阿根廷履约成本的报道。",
+      "欧洲": "德国硅片、欧盟芯片设计及法国设备企业案例。",
+      "北美": "公司定期财报、科学、地方投票与Forge现场报道。"
+    }
+  }
+}
