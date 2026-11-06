@@ -1,0 +1,474 @@
+{
+  "date": "2026-11-06",
+  "updatedAt": "2026-11-06T08:42:17.104+08:00",
+  "news": [
+    {
+      "id": "20261106-global",
+      "title": "科技股风险重估扩散：美股收跌，韩国开盘触发熔断",
+      "body": "美国11月5日收盘，纳指跌5.52%，标普500跌4.36%。第一财经11月6日08:05快讯称，韩国KOSPI跌超8%，触发暂停交易20分钟的熔断。",
+      "detail": "这是两个市场的不同时点：美国为收盘，韩国为盘中，不能将韩国瞬时跌幅写成全天结果。对科技产业观察，更值得继续核实的是客户是否调整订单、融资条件是否变化；股价下跌本身不证明产品需求消失。",
+      "url": "https://www.reuters.com/business/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-chip-weakness-2026-11-05/",
+      "org": "Reuters｜美国收盘",
+      "date": "美国交易日11月5日；韩国快讯11月6日08:05北京时间",
+      "archiveDate": "2026-11-06",
+      "kind": "科技与资本市场",
+      "sources": [
+        {
+          "name": "第一财经｜韩国盘中",
+          "url": "https://www.yicai.com/brief/103428490.html"
+        }
+      ]
+    },
+    {
+      "id": "20261106-ionq",
+      "title": "IonQ收入增长包含收购业务，不能全算量子计算增长",
+      "body": "第三季度总收入1.738亿美元，同比增长336%；其中平台收入9030万美元、SkyWater代工服务8350万美元。公司把全年收入预期提高至5.05亿—5.15亿美元。",
+      "detail": "公司披露净利润5.64亿美元，包含认股权证非现金公允价值变化；调整后EBITDA仍亏损1.336亿美元。读这份财报要分开并购并表、平台业务增长与会计估值影响，不据总收入增速推断量子计算已普遍实现商业优势。",
+      "url": "https://www.ionq.com/news/ionq-announces-record-3q26-revenues-and-raises-fy2026-guidance-to-505---515-million-as-backlog-grows-to-1-2-billion",
+      "org": "IonQ财报原文",
+      "date": "美国11月5日盘后披露；业绩会北京时间11月6日05:30；季度截至9月30日",
+      "archiveDate": "2026-11-06",
+      "kind": "量子技术与财报",
+      "sources": []
+    },
+    {
+      "id": "20261106-muse",
+      "title": "Meta开始推出Muse语音对话及动态形象",
+      "body": "Meta公布Muse语音和带表情的形象功能；The Verge记者已在iOS应用实测。报道指出先在美国推出，AI眼镜及后续设备的支持仍是未来安排。",
+      "detail": "实时说话比输入更自然，不代表任务执行一定可靠。记者测试中，查找资料时仍会停顿；对实际工作可分别观察对话响应、信息核实和任务完成，而非只看头像动画。",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "org": "The Verge｜记者实测",
+      "date": "报道：11月6日03:03北京时间；公司公告：美国11月5日",
+      "archiveDate": "2026-11-06",
+      "kind": "消费AI",
+      "sources": [
+        {
+          "name": "Meta公告",
+          "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/"
+        }
+      ]
+    },
+    {
+      "id": "20261106-cloudflare",
+      "title": "Cloudflare上调全年收入展望，季度收入增长39%",
+      "body": "Benzinga报道公司第三季度收入约7.825亿美元，同比增长39%。《华尔街日报》可读段落显示，公司将全年收入展望提高至约29.6亿美元。",
+      "detail": "前者是已报告季度业绩，后者是全年预测。收入扩大不能直接当成会计利润增长；本期未采用未能打开的公司财报全文，也不从公开摘要补写利润明细。",
+      "url": "https://www.wsj.com/business/earnings/cloudflare-stock-surges-on-lifted-full-year-outlook-third-quarter-revenue-growth-984186bf",
+      "org": "WSJ｜公开可读段落",
+      "date": "美国11月5日盘后财报；北京时间11月6日晨",
+      "archiveDate": "2026-11-06",
+      "kind": "云服务",
+      "sources": [
+        {
+          "name": "Benzinga｜季度数字与盘后时间",
+          "url": "https://www.benzinga.com/markets/earnings/26/11/62957362/cloudflare-stock-rises-after-q3-results-ceo-says-best-quarter-ever"
+        }
+      ]
+    },
+    {
+      "id": "20261106-google",
+      "title": "谷歌公布怀俄明州170亿美元数据中心投资安排",
+      "body": "Reuters报道谷歌公布在怀俄明州建设首个数据中心的170亿美元投资计划，合作方涉及能源供应商和开发商。",
+      "detail": "这是投资安排，不能写成170亿美元已支出或园区已投运。当地项目早已有公开讨论；本期收录的是美国11月5日的新公告报道，而不是宣称项目首次出现。交付仍取决于供电、建设与许可进度。",
+      "url": "https://www.reuters.com/world/us/google-plans-17-billion-wyoming-data-center-amid-rising-threats-curbs-2026-11-05/",
+      "org": "Reuters｜公司投资公告",
+      "date": "报道：11月6日04:46北京时间；公司公告：美国11月5日",
+      "archiveDate": "2026-11-06",
+      "kind": "算力基础设施",
+      "sources": []
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261106-voice-test",
+      "title": "语音智能体的机会：替企业测清哪些任务会出错",
+      "body": "Muse上线语音，是语音交互进入更多日常场景的新线索。机会假设：已有语音客服或助手试点的企业，可能需要一份可复现的任务验收报告。",
+      "detail": "候选买方是产品或客服运营团队。先用20个获授权的非敏感测试场景，记录噪声、打断、更正指令、错误确认和转人工表现，与文字操作对照；只收试验成本，不预设收入。门槛在于代表性样本、隐私处理和判定标准。若报告不能发现现有测试遗漏的问题，服务就缺少付费理由。",
+      "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+      "org": "Meta公告｜需求线索",
+      "date": "产品新报道：北京时间11月6日；机会为编辑假设",
+      "archiveDate": "2026-11-06",
+      "kind": "机会假设",
+      "sources": []
+    },
+    {
+      "id": "20261106-quantum-check",
+      "title": "量子采购：先把演示、合同和可验收结果分开",
+      "body": "IonQ新财报列出设备、服务与代工业务，说明“量子收入”并非单一产品。机会假设：考虑小规模试点的研发采购方，可能需要独立核对供应商承诺。",
+      "detail": "低成本验证：找一个公开问题，用经典方法建立耗时、精度和总成本基线，再让供应商说明硬件访问、重复运行、误差范围与交付物。目标买方是已有预算的研发团队，门槛是领域知识与实验可复现性，不能只会整理新闻。没有优于经典基线的结果也应保留；财报增长不是采购效益证明。",
+      "url": "https://www.ionq.com/news/ionq-announces-record-3q26-revenues-and-raises-fy2026-guidance-to-505---515-million-as-backlog-grows-to-1-2-billion",
+      "org": "IonQ财报原文｜需求线索",
+      "date": "新财报：北京时间11月6日；机会为编辑假设",
+      "archiveDate": "2026-11-06",
+      "kind": "机会假设",
+      "sources": []
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261106-fuelcells",
+      "title": "美国算力供电链：燃料电池设备与长期售电是两门生意",
+      "body": "谷歌新投资报道使怀俄明州供电配套值得跟踪。背景：Utility Dive 10月15日报道，AEP计划为702兆瓦Bloom燃料电池项目投入约40亿美元，并与谷歌签订20年购电协议；当时预计2028年投运。",
+      "detail": "链条是燃料供应→电堆与系统制造→项目建设及运维→数据中心购电。设备商卖系统，项目方依购电协议供电，两者收入与风险不同。门槛在寿命、燃料成本、长期可用率及许可；本期未核实开工或投运新节点。中国对照：潍柴现行产品页列出75千瓦SOFC模块及数据中心应用，证明有同类产品供给，不能据此认定具备相同规模项目。",
+      "url": "https://www.utilitydive.com/news/aep-mainspring-linear-generators-bloom-fuel-cell-google-wyoming/833104/",
+      "org": "Utility Dive｜项目背景与商业模式",
+      "date": "当前线索：11月6日Reuters；项目背景：10月15日；潍柴产品页未标日期",
+      "archiveDate": "2026-11-06",
+      "kind": "美国·供电产业链（含注明日期背景）",
+      "sources": [
+        {
+          "name": "Reuters｜当日谷歌公告报道",
+          "url": "https://www.reuters.com/world/us/google-plans-17-billion-wyoming-data-center-amid-rising-threats-curbs-2026-11-05/"
+        },
+        {
+          "name": "潍柴官方产品页｜中国对照",
+          "url": "https://www.weichaipower.com/group/weichai/cn/product/energy-power/index.html"
+        }
+      ]
+    }
+  ],
+  "views": [],
+  "audit": {
+    "counts": {
+      "news": 5,
+      "trends": 2,
+      "industry": 1,
+      "views": 0
+    },
+    "sectionNotes": {
+      "news": "5条，距目标少5条。按北京时间换日，韩国为盘中快讯，美国为前一交易日收盘；排除匿名并购传闻及未读取全文的推测。",
+      "trends": "2条，距目标少8条。均为基于当日产品或财报线索的待验证需求，不代表已有订单或盈利。",
+      "industry": "1条，距目标少9条。以谷歌当日公告报道为线索，附10月15日项目背景及中国产品对照；尚未核实新的建设进度，不把旧合同当今日签约。",
+      "views": "0条。未核实到近七日内、符合八人主题且未重复的完整新发言。吴恩达议程不是演讲实录；奥特曼播客摘要未取得原始全文；不等于这些人物没有活动。"
+    },
+    "sources": [
+      {
+        "name": "Reuters｜美国收盘",
+        "url": "https://www.reuters.com/business/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-chip-weakness-2026-11-05/",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "第一财经｜韩国盘中",
+        "url": "https://www.yicai.com/brief/103428490.html",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "IonQ财报原文",
+        "url": "https://www.ionq.com/news/ionq-announces-record-3q26-revenues-and-raises-fy2026-guidance-to-505---515-million-as-backlog-grows-to-1-2-billion",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "The Verge｜记者实测",
+        "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "Meta公告",
+        "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "WSJ｜公开可读段落",
+        "url": "https://www.wsj.com/business/earnings/cloudflare-stock-surges-on-lifted-full-year-outlook-third-quarter-revenue-growth-984186bf",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "Benzinga｜季度数字与盘后时间",
+        "url": "https://www.benzinga.com/markets/earnings/26/11/62957362/cloudflare-stock-rises-after-q3-results-ceo-says-best-quarter-ever",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "Reuters｜公司投资公告",
+        "url": "https://www.reuters.com/world/us/google-plans-17-billion-wyoming-data-center-amid-rising-threats-curbs-2026-11-05/",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "Utility Dive｜项目背景与商业模式",
+        "url": "https://www.utilitydive.com/news/aep-mainspring-linear-generators-bloom-fuel-cell-google-wyoming/833104/",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "潍柴官方产品页｜中国对照",
+        "url": "https://www.weichaipower.com/group/weichai/cn/product/energy-power/index.html",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "金融界收评",
+        "url": "https://stock.jrj.com.cn/2026/11/05150459027142.shtml",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "同花顺行业行情表",
+        "url": "https://news.10jqka.com.cn/20261105/c681500940.shtml",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "第一财经｜央行操作",
+        "url": "https://www.yicai.com/brief/103426591.html",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "财政部发行计划",
+        "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202611/t20261105_4004137.htm",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "能源局公示",
+        "url": "https://www.nea.gov.cn/20261105/585304b2c1a64107ac83af585da214d2/c.html",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "第一财经｜金融工作报告",
+        "url": "https://www.yicai.com/news/103428091.html",
+        "status": "本期已读取并引用",
+        "note": "引用范围与原始日期见对应卡片；公司预期及编辑假设单独标示。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/technology",
+        "status": "入口已读取；未引用",
+        "note": "本次检查入口，不代表获得全部文章或当日人物发言。"
+      },
+      {
+        "name": "FT",
+        "url": "https://www.ft.com/technology",
+        "status": "入口已读取；未引用",
+        "note": "本次检查入口，不代表获得全部文章或当日人物发言。"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology",
+        "status": "入口已读取；未引用",
+        "note": "本次检查入口，不代表获得全部文章或当日人物发言。"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/technology/",
+        "status": "入口已读取；未引用",
+        "note": "本次检查入口，不代表获得全部文章或当日人物发言。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/tech/",
+        "status": "入口已读取；未引用",
+        "note": "本次检查入口，不代表获得全部文章或当日人物发言。"
+      },
+      {
+        "name": "澎湃科技",
+        "url": "https://www.thepaper.cn/channel_119908",
+        "status": "入口已读取；未引用",
+        "note": "本次检查入口，不代表获得全部文章或当日人物发言。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/business",
+        "status": "入口已读取；未引用",
+        "note": "本次检查入口，不代表获得全部文章或当日人物发言。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "status": "入口已读取；未引用",
+        "note": "本次检查入口，不代表获得全部文章或当日人物发言。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/",
+        "status": "入口已读取；未引用",
+        "note": "本次检查入口，不代表获得全部文章或当日人物发言。"
+      },
+      {
+        "name": "World Labs",
+        "url": "https://www.worldlabs.ai/blog",
+        "status": "入口已读取；未引用",
+        "note": "本次检查入口，不代表获得全部文章或当日人物发言。"
+      },
+      {
+        "name": "Karpathy",
+        "url": "https://karpathy.ai/",
+        "status": "入口已读取；未引用",
+        "note": "本次检查入口，不代表获得全部文章或当日人物发言。"
+      },
+      {
+        "name": "Dario Amodei",
+        "url": "https://darioamodei.com/",
+        "status": "入口已读取；未引用",
+        "note": "本次检查入口，不代表获得全部文章或当日人物发言。"
+      },
+      {
+        "name": "Anuttacon",
+        "url": "https://www.anuttacon.com/",
+        "status": "入口已读取；未引用",
+        "note": "本次检查入口，不代表获得全部文章或当日人物发言。"
+      },
+      {
+        "name": "NYT",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "本轮读取失败或正文不足",
+        "note": "定向检索及打开失败。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/innovation",
+        "status": "本轮读取失败或正文不足",
+        "note": "受限URL。"
+      },
+      {
+        "name": "Economist",
+        "url": "https://www.economist.com/science-and-technology",
+        "status": "本轮读取失败或正文不足",
+        "note": "工具不可访问。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/technology",
+        "status": "本轮读取失败或正文不足",
+        "note": "本次受限URL。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "本轮读取失败或正文不足",
+        "note": "403。"
+      },
+      {
+        "name": "X / Twitter",
+        "url": "https://x.com/elonmusk/status/2117862462976594112",
+        "status": "本轮读取失败或正文不足",
+        "note": "403，不用镜像替代。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/openai/",
+        "status": "本轮读取失败或正文不足",
+        "note": "429，不用镜像替代。"
+      },
+      {
+        "name": "HoYoverse",
+        "url": "https://www.hoyoverse.com/en-us/news",
+        "status": "本轮读取失败或正文不足",
+        "note": "无可读正文。"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/setting-a-new-standard-for-responsible-ai-infrastructure/",
+        "status": "本轮读取失败或正文不足",
+        "note": "读取失败；Reuters正文日期为昨日，未收。"
+      },
+      {
+        "name": "AEP",
+        "url": "https://pr.aep.com/news/releases/read/12314/AEP-Advances-Innovative-Energy-Solution-for-Google-with-702MW-of-Bloom-Fuel-Cells",
+        "status": "本轮读取失败或正文不足",
+        "note": "502，未据搜索摘要引用，背景采用Utility Dive。"
+      },
+      {
+        "name": "Cloudflare官方财报",
+        "url": "https://www.cloudflare.net/news/news-details/2026/Cloudflare-Announces-Third-Quarter-2026-Financial-Results/default.aspx",
+        "status": "本轮读取失败或正文不足",
+        "note": "官网与投资者页读取失败。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/business/earnings/cloudflare-stock-surges-on-lifted-full-year-outlook-third-quarter-revenue-growth-984186bf",
+        "status": "公开段落可读；引用有限",
+        "note": "只采用公开展望段落，未读取订阅全文。"
+      },
+      {
+        "name": "Neo4j / Andrew Ng",
+        "url": "https://neo4j.com/nodes/",
+        "status": "议程已读；排除人物观点",
+        "note": "11月12日主题对谈尚未发生；11月5日为工作坊，不能推断Ng发言。"
+      },
+      {
+        "name": "澎湃｜Altman播客摘要",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34410742",
+        "status": "摘要已读；未引用",
+        "note": "11月3日播客内容为管理话题，未取得完整原文。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com/",
+        "status": "已定向检索；未读到合适原文",
+        "note": "不以品牌列名当作取得内容。"
+      },
+      {
+        "name": "发改委",
+        "url": "https://www.ndrc.gov.cn/",
+        "status": "定向检索",
+        "note": "返回主要为11月4日公告，无已核实隔夜新结论。"
+      },
+      {
+        "name": "国务院、统计局、上交所",
+        "url": "https://www.gov.cn/",
+        "status": "日期定向检索",
+        "note": "未核实到可纳入本期的隔夜新政策或数据；不等于没有发布。"
+      },
+      {
+        "name": "证监会",
+        "url": "https://www.csrc.gov.cn/csrc/c100028/c7668092/content.shtml",
+        "status": "检索命中旧政策",
+        "note": "11月2日答记者问，不当成11月6日新规。"
+      },
+      {
+        "name": "新华财经",
+        "url": "https://www.cnfin.com/hb-lb/detail/20261105/4491685_1.html",
+        "status": "正文已读；日期冲突",
+        "note": "标题与电头不一致，相关净额未采用。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "Unity收购、Anthropic IPO估值及芯片库存传闻",
+        "reason": "聚合入口显示依赖匿名消息；不采用为结论。"
+      },
+      {
+        "item": "OpenAI社区承诺",
+        "reason": "Reuters原文为11月5日18:04北京时间，非当日；官方页读取失败，不用新抓取时间冒充新消息。"
+      },
+      {
+        "item": "米哈游及三位创始人",
+        "reason": "已定向检索；游戏预约与测试线索来自昨日，原始新闻页无正文，部分第三方说法不同；未核实今日企业或个人投资新进展。"
+      },
+      {
+        "item": "人物候选",
+        "reason": "黄仁勋Forge已在昨日收录；Ng的NODES主会议为11月12日，11月5日是工作坊；Hassabis旧专访超期，Musk原帖403，澎湃Altman摘要无完整播客原文。"
+      },
+      {
+        "item": "新华财经货币市场日报",
+        "reason": "11月5日标题和行情与11月4日电头冲突；未采用其全口径净回笼结论。"
+      },
+      {
+        "item": "Cloudflare财报全文",
+        "reason": "公司官网与投资者页面读取失败，仅使用WSJ公开段落及已读Benzinga数字，未声称读取付费全文。"
+      }
+    ],
+    "researchPlan": [
+      "常规清单：全球综合媒体、中文财经与科技媒体、行业机构、博客、八位重点人物原文；优先当日事实，人物最多回溯七天并去重。",
+      "本轮实际检索和读取见下表；引用原文另标。NYT、BBC、Economist、Bloomberg及部分公司站点读取受限，未以搜索摘要替代原文。",
+      "下一轮跟进：韩国熔断后的交易所确认和收盘、A股承接、Google项目审批与供电；取得完整播客或活动实录后再考虑人物栏。",
+      "常规备查但本轮未逐站验证：晚点、游戏葡萄、WIRED、MIT Technology Review、IEEE Spectrum、Stratechery、Benedict Evans、One Useful Thing、Import AI；不计入实际引用。"
+    ],
+    "regionalCoverage": {
+      "中国与东亚": "市场政策、韩国盘中、米哈游线索及中国SOFC产品对照。",
+      "东南亚": "读取CNA入口；未取得符合时效的独立产业原文。",
+      "欧洲": "FT与Guardian入口检索；未核实可收录的当日独立产业案例。",
+      "南亚、中东、非洲、拉美": "进行了地区与通讯社组合检索；TechCabal403，其余未取得足够时效与原文证据。覆盖不足，未以英美来源代表当地全貌。",
+      "北美": "当日财报、产品与投资公告是本期主体。"
+    }
+  }
+}
