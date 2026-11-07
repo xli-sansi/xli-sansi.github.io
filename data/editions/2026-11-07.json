@@ -1,0 +1,414 @@
+{
+  "date": "2026-11-07",
+  "updatedAt": "2026-11-07T09:06:37.748+08:00",
+  "news": [
+    {
+      "id": "20261107-rocket",
+      "title": "谷神星二号遥三完成飞行试验，四星入轨",
+      "body": "第一财经记者报道：11月7日07:37，星河动力在酒泉实施谷神星二号遥三飞行试验，四颗卫星进入535公里太阳同步轨道。",
+      "detail": "这为商业发射能力提供了一次新的任务记录；单次任务成功还不能代表长期可靠性、发射成本或可复用能力已得到验证。后续观察任务频率与交付记录。",
+      "url": "https://www.yicai.com/brief/103430504.html",
+      "org": "第一财经｜宋婕",
+      "date": "事件11月7日07:37；发布08:18（北京时间）",
+      "archiveDate": "2026-11-07",
+      "kind": "事实·商业航天",
+      "sources": []
+    },
+    {
+      "id": "20261107-openai",
+      "title": "OpenAI财务负责人称继续推进数据中心扩张",
+      "body": "Reuters报道，Sarah Friar在11月6日接受CNBC采访时表示，公司仍将推进美国数据中心扩张，并强调需求及与社区沟通。",
+      "detail": "这是公司管理层的计划表态，不是全部项目获批或资金已落实的证明。对产业链的实际意义要看许可、电力接入与建设进度；本条作为公司新闻，不冒充Sam Altman个人观点。",
+      "url": "https://www.reuters.com/business/retail-consumer/openai-press-ahead-with-data-center-expansion-despite-midterm-sweep-cfo-tells-2026-11-06/",
+      "org": "Reuters",
+      "date": "采访美国11月6日；发布11月6日18:04 UTC＝北京时间11月7日02:04",
+      "archiveDate": "2026-11-07",
+      "kind": "事实·公司表态",
+      "sources": []
+    },
+    {
+      "id": "20261107-apple",
+      "title": "苹果称折叠屏iPhone已有逾十万款适配应用",
+      "body": "The Verge报道，苹果表示已有超过10万款应用为iPhone Duo适配；记者同时指出，适配标签并不保证所有界面都没有问题。",
+      "detail": "观察重点从应用数量转向真实可用性：折叠切换、布局和输入体验。数量来自苹果，未取得独立审计；不要把“已适配”理解为质量认证。",
+      "url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
+      "org": "The Verge｜Jay Peters",
+      "date": "发布11月6日17:24 UTC＝北京时间11月7日01:24；声明美国11月6日",
+      "archiveDate": "2026-11-07",
+      "kind": "事实·厂商统计",
+      "sources": []
+    },
+    {
+      "id": "20261107-google",
+      "title": "Google接手Crusoe怀俄明场址，新增交易进展",
+      "body": "CNA刊载Reuters报道：Crusoe表示Google已收购其怀俄明州东南部数据中心场址，交易金额未披露。Crusoe称其选址、审批及电力策略等前期工作已完成。",
+      "detail": "这补充了昨日170亿美元投资计划的项目交接信息，并非再新增一笔同等投资。场址转移与机房投运是不同阶段，后续仍需看建设和供电履约。",
+      "url": "https://www.channelnewsasia.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-6532241",
+      "org": "Reuters（CNA刊载）",
+      "date": "企业表态美国11月6日；CNA首次发布北京时间11月7日04:03",
+      "archiveDate": "2026-11-07",
+      "kind": "事实·项目交接",
+      "sources": []
+    },
+    {
+      "id": "20261107-nubank",
+      "title": "巴西两家金融科技平台暂停部分加密资产转账",
+      "body": "据Reuters经CNA刊载，Nubank和Mercado Pago分别表示，外部服务提供商故障影响了部分加密资产充提或外部钱包转账。两家公司称客户资金安全。",
+      "detail": "“资金安全”是企业声明，尚非独立技术审计结果；当前报道没有证明资金损失或确定攻击原因。此事提示：平台体验也依赖外部服务商，故障隔离和恢复透明度值得跟踪。",
+      "url": "https://www.channelnewsasia.com/business/nubank-mercado-pago-halt-crypto-transfers-after-external-provider-disruption-6532036",
+      "org": "Reuters（CNA刊载）",
+      "date": "公司声明巴西11月6日；CNA首次发布北京时间11月7日01:11",
+      "archiveDate": "2026-11-07",
+      "kind": "事实·拉美金融科技",
+      "sources": []
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261107-foldable-test",
+      "title": "折叠屏适配：可以验证的需求是质量验收",
+      "body": "当日苹果适配消息及已出现的界面问题，提供了测试需求线索。潜在买方是已有移动应用、准备支持折叠设备的小团队，而不是所有开发者。",
+      "detail": "编辑假设：提供展开/折叠、键盘、分屏和无障碍回归测试。门槛在真机、系统差异和稳定复现。低成本验证：先做一份自有应用测试样例，访谈3家团队，询问是否愿为明确缺陷报告付费；没有付费意向就不扩张。",
+      "url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
+      "org": "当日报道＋编辑机会假设",
+      "date": "依据发布北京时间11月7日01:24；分析11月7日",
+      "archiveDate": "2026-11-07",
+      "kind": "假设·需求与验证",
+      "sources": []
+    },
+    {
+      "id": "20261107-music-mod",
+      "title": "音乐硬件开放改装：先做可恢复的小工具",
+      "body": "The Verge当日采访显示，inMusic计划提供开源代码及SDK，支持旗下音乐设备改装，并强调官方软件稳定性。这是开放计划，不代表所有设备接口已经可用。",
+      "detail": "潜在买方是有明确工作流痛点的音乐人。编辑假设：先做离线预设整理或素材转换，再考虑设备插件；门槛是接口授权、固件兼容、实时性与售后。验证一步：取得实际SDK后制作可回滚原型，请3位用户测试；不把尚未开放的接口算作商机已落地。",
+      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "org": "The Verge采访＋编辑机会假设",
+      "date": "采访发布11月6日16:34 UTC＝北京时间11月7日00:34",
+      "archiveDate": "2026-11-07",
+      "kind": "假设·音乐工具",
+      "sources": []
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261107-6k-background",
+      "title": "背景补充｜美国6K正极材料：融资承诺仍有条件",
+      "body": "11月5日6K公告，获得最高2.5亿美元有条件贷款承诺，用于田纳西州正极材料设施；尚需审批、尽调及其他条件，不等于贷款已经拨付。本期未核实到足够完整的当日海外产业链案例，因此仅在栏末保留这一近期背景。",
+      "detail": "链条：金属等原料→微波等离子合成正极材料→电池厂及终端，商业模式是材料供货。技术、客户认证、量产成本与融资落实构成门槛；潜在需求不等于已签订单。中国对照：IEA《全球电动车展望2026》显示，2025年中国约占全球电动车电池正极活性材料产量85%。这是一种海外本土化工艺与供应安排，不是“中国没有”的产业。",
+      "url": "https://www.prnewswire.com/news-releases/6k-receives-conditional-commitment-for-250-million-loan-from-the-us-department-of-war-to-support-domestic-cathode-active-material-expansion-302931000.html",
+      "org": "6K公司公告；IEA",
+      "date": "背景原始公告2026-11-05；IEA 2026年报告使用2025年产量；非当日新事件",
+      "archiveDate": "2026-11-07",
+      "kind": "背景·产业链及条件融资",
+      "sources": [
+        {
+          "name": "IEA｜制造与贸易（2026年报告）",
+          "url": "https://www.iea.org/reports/global-ev-outlook-2026/manufacturing-and-trade"
+        }
+      ]
+    }
+  ],
+  "views": [],
+  "audit": {
+    "counts": {
+      "news": 5,
+      "trends": 2,
+      "industry": 1,
+      "views": 0
+    },
+    "sectionNotes": {
+      "news": "5/10：保留北京时间11月7日首次报道或当日事件；剔除匿名融资传闻、无法读取的付费正文及昨日重复消息。",
+      "trends": "2/10：围绕当天材料重新研究，列需求线索、买方、门槛及验证；尚无收入保证，不拆分同一事件凑数。",
+      "industry": "1/10：未核实到足够完整的当日产业链案例，仅栏末收录11月5日6K公告背景；IEA旧统计明确标年，不冒充今日新闻。",
+      "views": "0/10：八人检索未取得满足近七天、直接来源可核实且不重复的新观点。X原帖403、部分访谈付费；公司更新不充当个人发言。这不代表本人没有发言。"
+    },
+    "sources": [
+      {
+        "name": "第一财经｜宋婕",
+        "url": "https://www.yicai.com/brief/103430504.html",
+        "status": "已读正文·本期引用",
+        "note": "事件11月7日07:37；发布08:18（北京时间）"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/retail-consumer/openai-press-ahead-with-data-center-expansion-despite-midterm-sweep-cfo-tells-2026-11-06/",
+        "status": "已读正文·本期引用",
+        "note": "采访美国11月6日；发布11月6日18:04 UTC＝北京时间11月7日02:04"
+      },
+      {
+        "name": "The Verge｜Jay Peters",
+        "url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
+        "status": "已读正文·本期引用",
+        "note": "发布11月6日17:24 UTC＝北京时间11月7日01:24；声明美国11月6日"
+      },
+      {
+        "name": "Reuters（CNA刊载）",
+        "url": "https://www.channelnewsasia.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-6532241",
+        "status": "已读正文·本期引用",
+        "note": "企业表态美国11月6日；CNA首次发布北京时间11月7日04:03"
+      },
+      {
+        "name": "Reuters（CNA刊载）",
+        "url": "https://www.channelnewsasia.com/business/nubank-mercado-pago-halt-crypto-transfers-after-external-provider-disruption-6532036",
+        "status": "已读正文·本期引用",
+        "note": "公司声明巴西11月6日；CNA首次发布北京时间11月7日01:11"
+      },
+      {
+        "name": "The Verge｜音乐硬件",
+        "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+        "status": "已读正文·本期引用",
+        "note": "计划与实际可用接口区分；用于趋势分析。"
+      },
+      {
+        "name": "6K公告",
+        "url": "https://www.prnewswire.com/news-releases/6k-receives-conditional-commitment-for-250-million-loan-from-the-us-department-of-war-to-support-domestic-cathode-active-material-expansion-302931000.html",
+        "status": "已读正文·背景引用",
+        "note": "11月5日原始公告；有条件融资，非当日新闻。"
+      },
+      {
+        "name": "IEA",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/manufacturing-and-trade",
+        "status": "已读正文·背景引用",
+        "note": "2026年报告、2025年产量，用于中国对照。"
+      },
+      {
+        "name": "NYT",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "读取失败",
+        "note": "本轮打开科技频道失败，未引用付费全文。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/innovation",
+        "status": "读取受限",
+        "note": "本轮未取得可用正文。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/",
+        "status": "读取失败",
+        "note": "未以摘要代替全文。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/technology",
+        "status": "读取受限",
+        "note": "仅发现线索；未引用匿名融资消息。"
+      },
+      {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98",
+        "status": "目录可读·正文付费",
+        "note": "Cybertruck文章仅显示订阅页，排除。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/tech",
+        "status": "目录可读·未引用",
+        "note": "本轮未取得符合日期要求且完整的采用正文。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/technology",
+        "status": "目录可读·未引用",
+        "note": "仅发现线索，未作为本期事实依据。"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology",
+        "status": "目录可读·未引用",
+        "note": "不以标题作正文或把评论作事实。"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/business/technology/",
+        "status": "目录可读·未引用",
+        "note": "本轮未采用其文章。"
+      },
+      {
+        "name": "澎湃（新浪转载）",
+        "url": "https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixuqhy8862038.shtml",
+        "status": "已读正文·市场引用",
+        "note": "Wind沪深北广度与沪深成交，口径分别注明。"
+      },
+      {
+        "name": "每日经济新闻",
+        "url": "https://www.nbd.com.cn/articles/2026-11-06/4640654.html",
+        "status": "已读正文·市场交叉核对",
+        "note": "成交约数与澎湃精确值差1亿元，采用后者原始口径。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/tech/index.html",
+        "status": "目录可读·未引用",
+        "note": "目录最新条目11月6日，不假称已读取付费文章。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com/lists/459.html",
+        "status": "目录可读·未引用",
+        "note": "相对时间及缓存不作为当天首发确认。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "已读目录及正文·引用",
+        "note": "当日火箭任务正文采用；中美视频通话用于市场补充。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/",
+        "status": "已读首页·未引用",
+        "note": "当天内容主要转引观点；未替代八人重点名单。"
+      },
+      {
+        "name": "World Labs",
+        "url": "https://www.worldlabs.ai/blog",
+        "status": "目录可读·未引用",
+        "note": "11月5日团队更新不冒充李飞飞个人观点。"
+      },
+      {
+        "name": "吴恩达/The Batch",
+        "url": "https://www.deeplearning.ai/the-batch/",
+        "status": "读取失败403",
+        "note": "未取得本轮可核实新观点。"
+      },
+      {
+        "name": "X/Twitter｜Karpathy",
+        "url": "https://x.com/karpathy",
+        "status": "读取失败403",
+        "note": "不用第三方镜像替代原帖。"
+      },
+      {
+        "name": "X｜Sam Altman原帖",
+        "url": "https://x.com/sama/status/2117846298472886419",
+        "status": "读取失败403",
+        "note": "TNW报道可读但未采用为直接来源人物卡。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/openai/",
+        "status": "读取失败429",
+        "note": "本次限流，不推断永久不可用。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/business",
+        "status": "目录和正文可读·引用",
+        "note": "两篇首次发布时间通过页面datePublished核实；Reuters转载非独立证据。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "status": "目录可读·未引用",
+        "note": "未完成当天候选正文日期核实。"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/",
+        "status": "目录可读·未引用",
+        "note": "目录多为旧日期，未用于当日卡片。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "读取失败403",
+        "note": "非洲地区本轮覆盖不足。"
+      },
+      {
+        "name": "PSI",
+        "url": "https://psi.inc/research/aaronson-ambainis/",
+        "status": "已读正文·未引用",
+        "note": "公开仓库同时检查，但首发时区未明确、未独立运行验证。"
+      },
+      {
+        "name": "国务院政策入口",
+        "url": "https://www.gov.cn/zhengce/",
+        "status": "读取失败403",
+        "note": "不能声称完成全部政策检索。"
+      },
+      {
+        "name": "央行",
+        "url": "https://www.pbc.gov.cn/",
+        "status": "目录与候选正文可读",
+        "note": "回购再贷款调整实际11月4日，未包装为当日新政。"
+      },
+      {
+        "name": "统计局",
+        "url": "https://www.stats.gov.cn/",
+        "status": "目录可读·未引用",
+        "note": "本轮未核实新增当日宏观数据。"
+      },
+      {
+        "name": "国家发展改革委；财政部",
+        "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202611/t20261106_1408663.html",
+        "status": "已读正文·市场引用",
+        "note": "按政策状态和实际日期呈现。"
+      },
+      {
+        "name": "财政部储蓄国债发行通知",
+        "url": "https://zwgls.mof.gov.cn/ywgg/202611/t20261106_4004221.htm",
+        "status": "已读正文·市场引用",
+        "note": "按政策状态和实际日期呈现。"
+      },
+      {
+        "name": "证监会｜氢氧化锂期货和期权注册",
+        "url": "https://www.csrc.gov.cn/csrc/c100028/c7669233/content.shtml",
+        "status": "已读正文·市场引用",
+        "note": "按政策状态和实际日期呈现。"
+      },
+      {
+        "name": "商务部｜航运保险指导意见",
+        "url": "https://www.mofcom.gov.cn/xwfb/rcxwfb/art/2026/art_bd628a97469b48f888b0cf6c561b475c.html",
+        "status": "已读正文·市场引用",
+        "note": "按政策状态和实际日期呈现。"
+      },
+      {
+        "name": "其他常规博客及科技媒体",
+        "url": "https://github.com/xli-sansi/xli-sansi.github.io/blob/main/UPDATE_INSTRUCTIONS.md",
+        "status": "常规清单·本轮未逐一检查",
+        "note": "Stratechery、Benedict Evans、One Useful Thing、Ars、WIRED、IEEE、游戏葡萄未逐篇核实；不沿用旧访问状态。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "OpenAI融资、Anthropic上市及微软Oracle容量传闻",
+        "reason": "检索线索依赖匿名来源；不据此发布结论。"
+      },
+      {
+        "item": "PSI的Aaronson–Ambainis证明",
+        "reason": "已读官方及公开代码说明，但官网仅标11月6日、未核实首发时区；未独立复算，暂不作今日已证实突破。"
+      },
+      {
+        "item": "Tesla Cybertruck停产线索",
+        "reason": "FT正文付费未读，不能用标题和聚合摘要替代。"
+      },
+      {
+        "item": "Sam Altman内存观点",
+        "reason": "TNW可读，但原始X帖403；不以社交镜像补证。"
+      },
+      {
+        "item": "World Labs Frameboy、米哈游及三位创始人",
+        "reason": "World Labs为11月5日团队公告，非李飞飞新发言；米哈游检索多为旧闻与二手分析，未核实今天重要新进展。"
+      }
+    ],
+    "researchPlan": [
+      "常规清单：国际综合媒体、中文主流媒体、科技媒体与博客、行业机构及八位重点人物原始渠道；清单不是已读取证明。",
+      "本轮实际检索：Reuters、AP、FT、WSJ、Bloomberg、NYT、WaPo、BBC、Guardian、Economist；中文澎湃、财新、第一财经、界面及米哈游相关查询。逐篇日期核对后决定是否采用。",
+      "本轮实际读取：The Verge两篇、Reuters及CNA转载、Simon Willison、World Labs、PSI和公开仓库、6K原始公告、IEA；X与Instagram访问失败。来源卡逐项标明正文、目录或失败。",
+      "区域补充：读取CNA、Rest of World、Al Jazeera，检索日本及德国媒体；TechCabal失败。拉美采用巴西平台事件，未完成所有地区深度采访或交叉验证。",
+      "本期引用：每张卡片主链接及sources为真正采用的原文；sources审计同时记录未采用入口，不能把入口访问数量当引用数量。",
+      "市场：复盘11月6日收盘，读取澎湃/NBD行情及辅助指数表，官方发改委/财政部/证监会/商务部政策；央行、统计局目录实际检查，缺失资金指标留空。"
+    ],
+    "regionalCoverage": {
+      "中国及东亚": "中国商业航天采用；日本、韩国检索没有新增合格卡片。",
+      "东南亚": "CNA实际读取，主要为Reuters转载，不当作独立确认。",
+      "欧洲": "欧洲媒体及IEA资料检查，无新增当日产业案例。",
+      "北美": "公司、消费科技与音乐工具有采用。",
+      "拉美": "巴西Nubank/Mercado Pago事件采用。",
+      "南亚": "未完成可引用的当地新事件核实。",
+      "中东": "Al Jazeera目录读取，未找到可采用的当日产业正文。",
+      "非洲": "TechCabal返回403，本期覆盖不足。"
+    }
+  }
+}
