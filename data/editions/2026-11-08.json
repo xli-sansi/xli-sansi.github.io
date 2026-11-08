@@ -1,0 +1,347 @@
+{
+  "date": "2026-11-08",
+  "updatedAt": "2026-11-08T08:41:53.436+08:00",
+  "news": [
+    {
+      "id": "20261108-tesla",
+      "title": "Tesla拟加班清理Cybertruck订单，再为Cybercab腾出产线",
+      "body": "Reuters报道，马斯克11月7日表示将增加一个生产班次，争取在2027年6—7月拆改产线前完成Cybertruck积压订单，之后扩大Cybercab生产。",
+      "detail": "这是管理层计划，不是改线已经完成或自动驾驶获批。值得观察的是现有产品交付与新业务产能之间的取舍，后续需要订单、交付和监管证据。",
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-expand-cybertruck-production-bid-fill-orders-before-dismantling-line-next-2026-11-07/",
+      "org": "Reuters",
+      "date": "发言美国11月7日；报道11月7日18:38 UTC＝北京时间11月8日02:38",
+      "archiveDate": "2026-11-08",
+      "kind": "事实·公司生产计划",
+      "sources": []
+    },
+    {
+      "id": "20261108-binance",
+      "title": "Binance更换财务负责人，称交接已筹备半年",
+      "body": "Reuters经CNA报道，Binance宣布Kaiser Ng离任，Justin Yek接任CFO；公司称离任是为开展新事业，交接计划已实施半年。",
+      "detail": "人事公告发生在平台安全事件之后，但时间相邻不能证明二者存在因果。当前重点是治理与披露连续性；不把更换负责人当作客户赔付已经完成的证据。",
+      "url": "https://www.channelnewsasia.com/business/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief-6533351",
+      "org": "Reuters（CNA刊载）",
+      "date": "公司声明11月7日；CNA首次发布时间11月8日01:32（UTC+8）",
+      "archiveDate": "2026-11-08",
+      "kind": "事实·平台治理",
+      "sources": []
+    },
+    {
+      "id": "20261108-supply-calendar",
+      "title": "下周AI供应链说明会：看订单与产能兑现",
+      "body": "经济日报11月8日报道，奇鋐、英业达安排11月10日举行法说会，鸿海、华硕为11月12日。报道关注美国布局、客户订单及服务器业务展望。",
+      "detail": "这是待发生的会议日程，不是已经公布的新业绩。编辑观察：将管理层展望与实际收入、现金流、资本开支及交付进度并读；不能把市场对乐观展望的期待当成确定增长。",
+      "url": "https://udn.com/news/story/7240/9864232",
+      "org": "经济日报（联合新闻网）",
+      "date": "报道11月8日01:31；会议计划11月10日及12日",
+      "archiveDate": "2026-11-08",
+      "kind": "事实·前瞻日程",
+      "sources": []
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261108-performance",
+      "title": "小型网站性能排查：用真实请求验证成本浪费",
+      "body": "Simon Willison新报告指出，Datasette的分页响应头会触发Firefox预取下一页，即使用户没有点击。对应问题于北京时间11月8日07:56建立、07:57关闭，原始记录可核查。",
+      "detail": "编辑假设：为数据门户或小型SaaS提供请求审计，买方是承担查询与带宽成本的团队。门槛是区分有益预加载和无效访问，不能简单关闭所有缓存。低成本验证：在授权站点抽取10个页面，比较修改前后请求量、服务端耗时及翻页体验；先证明节省，再测试付费意愿。这一案例尚不能证明市场规模。",
+      "url": "https://github.com/simonw/datasette/issues/3046",
+      "org": "Datasette维护者原始记录；编辑分析",
+      "date": "创建11月7日23:56 UTC＝北京时间11月8日07:56；关闭07:57",
+      "archiveDate": "2026-11-08",
+      "kind": "假设·效率服务验证",
+      "sources": [
+        {
+          "name": "维护者博客",
+          "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/"
+        }
+      ]
+    }
+  ],
+  "industry": [],
+  "views": [],
+  "audit": {
+    "counts": {
+      "news": 3,
+      "trends": 1,
+      "industry": 0,
+      "views": 0
+    },
+    "sectionNotes": {
+      "news": "3/10：只采用北京时间11月8日发布或实质更新的可读材料；含一条下周会议前瞻，未把计划当作已发生。其余候选多为旧报道、重复、匿名消息或受限正文。",
+      "trends": "1/10：当日原始问题记录提供具体需求线索；商业需求仍须验证。未将昨日折叠屏和音乐硬件案例重复填充。",
+      "industry": "0/10：重新检查东南亚数据中心、全球区域报道及企业融资线索，未取得满足当天新信息、完整链条及中国对照要求的案例；不重复昨日6K背景。",
+      "views": "0/10：八位重点人物检索未找到可新增且直接原文可核实的观点。马斯克生产计划依据Reuters列入新闻，X本人页面403；Dario/Hassabis候选存在旧访谈重新上传问题，未采用。"
+    },
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/autos-transportation/tesla-expand-cybertruck-production-bid-fill-orders-before-dismantling-line-next-2026-11-07/",
+        "status": "已读正文·本期引用",
+        "note": "发言美国11月7日；报道11月7日18:38 UTC＝北京时间11月8日02:38"
+      },
+      {
+        "name": "Reuters（CNA刊载）",
+        "url": "https://www.channelnewsasia.com/business/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief-6533351",
+        "status": "已读正文·本期引用",
+        "note": "公司声明11月7日；CNA首次发布时间11月8日01:32（UTC+8）"
+      },
+      {
+        "name": "经济日报（联合新闻网）",
+        "url": "https://udn.com/news/story/7240/9864232",
+        "status": "已读正文·本期引用",
+        "note": "报道11月8日01:31；会议计划11月10日及12日"
+      },
+      {
+        "name": "Datasette原始问题",
+        "url": "https://github.com/simonw/datasette/issues/3046",
+        "status": "已读正文及API·本期引用",
+        "note": "创建23:56:12Z、关闭23:57:40Z；北京时间11月8日。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+        "status": "已读正文·本期引用",
+        "note": "维护者新发现与历史浏览器行为区分。"
+      },
+      {
+        "name": "外汇局",
+        "url": "https://www.safe.gov.cn/safe/2026/1106/28067.html",
+        "status": "已读正文·市场引用",
+        "note": "页面发布日期11月7日；统计期10月末，不以URL日期代替发布日期。"
+      },
+      {
+        "name": "澎湃（新浪转载）",
+        "url": "https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixuqhy8862038.shtml",
+        "status": "已读正文·市场引用",
+        "note": "周五行情复核，非周日交易数据。"
+      },
+      {
+        "name": "金投行情表",
+        "url": "https://stock.cngold.org/c/2026-11-06/c10864098.html",
+        "status": "已读正文·市场辅助",
+        "note": "科创50、沪深300核对；广度与Wind不同，不混用。"
+      },
+      {
+        "name": "财联社",
+        "url": "https://m.cls.cn/detail/2528161",
+        "status": "已读正文·市场引用",
+        "note": "11月8日展望，预测与已发生行情区分。"
+      },
+      {
+        "name": "NYT",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "读取失败",
+        "note": "频道与数学候选正文未取得，不使用付费摘要替代。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/innovation",
+        "status": "读取受限",
+        "note": "未取得可引用正文。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/",
+        "status": "读取失败402",
+        "note": "没有购买订阅。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/technology",
+        "status": "读取受限",
+        "note": "未引用匿名信息。"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/business/technology/",
+        "status": "目录可读·未引用",
+        "note": "看到候选标题；未完成正文核实。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/technology",
+        "status": "目录可读·未引用",
+        "note": "未按目录标题写卡片。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/tech",
+        "status": "目录可读·未引用",
+        "note": "未取得本期采用全文。"
+      },
+      {
+        "name": "FT",
+        "url": "https://www.ft.com/technology",
+        "status": "目录可读·未引用",
+        "note": "目录并非付费正文。"
+      },
+      {
+        "name": "Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
+        "status": "正文可读·未采用",
+        "note": "发布在北京时间11月7日；不当成今天新事件。"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/",
+        "status": "目录可读·未引用",
+        "note": "本轮显示多项旧报道与评论，未采用为当日新闻。"
+      },
+      {
+        "name": "SiliconANGLE",
+        "url": "https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics/",
+        "status": "已打开·未采用",
+        "note": "日期疑点，聚合日期不能替代原文。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "本轮打开超时",
+        "note": "定向搜索未取得本期采用正文；不沿用昨日成功状态。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/tech/index.html",
+        "status": "目录可读·未引用",
+        "note": "不代表付费文章全文已读。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com/lists/459.html",
+        "status": "目录可读·未引用",
+        "note": "未确认可新增当日正文。"
+      },
+      {
+        "name": "澎湃科技",
+        "url": "https://www.thepaper.cn/channel_119908",
+        "status": "目录可读·未引用",
+        "note": "所见候选主要11月6—7日；市场正文另列。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/business",
+        "status": "目录及正文可读·引用",
+        "note": "Binance文章是Reuters转载，不算独立第二证据。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "status": "目录可读·未引用",
+        "note": "未形成当日完整产业链案例。"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/",
+        "status": "目录可读·未引用",
+        "note": "所见条目多为旧日期。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "读取失败403",
+        "note": "非洲覆盖不足。"
+      },
+      {
+        "name": "World Labs",
+        "url": "https://www.worldlabs.ai/blog",
+        "status": "目录可读·未引用",
+        "note": "团队更新不冒充李飞飞本人发言。"
+      },
+      {
+        "name": "吴恩达/The Batch",
+        "url": "https://www.deeplearning.ai/the-batch/",
+        "status": "读取失败403",
+        "note": "未取得本轮新观点。"
+      },
+      {
+        "name": "X｜Elon Musk",
+        "url": "https://x.com/elonmusk",
+        "status": "读取失败403",
+        "note": "新闻使用Reuters明确归属的报道；不以镜像作为本人原文。"
+      },
+      {
+        "name": "X｜Karpathy",
+        "url": "https://x.com/karpathy",
+        "status": "读取失败403",
+        "note": "未采用镜像或旧访谈。"
+      },
+      {
+        "name": "央行",
+        "url": "https://www.pbc.gov.cn/",
+        "status": "目录已检查",
+        "note": "未据目录推断不存在新政策；本期采用外汇局已读数据。"
+      },
+      {
+        "name": "证监会",
+        "url": "https://www.csrc.gov.cn/",
+        "status": "目录已检查",
+        "note": "未据目录推断不存在新政策；本期采用外汇局已读数据。"
+      },
+      {
+        "name": "财政部",
+        "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/",
+        "status": "目录已检查",
+        "note": "未据目录推断不存在新政策；本期采用外汇局已读数据。"
+      },
+      {
+        "name": "发改委",
+        "url": "https://www.ndrc.gov.cn/xwdt/xwfb/",
+        "status": "目录已检查",
+        "note": "未据目录推断不存在新政策；本期采用外汇局已读数据。"
+      },
+      {
+        "name": "统计局",
+        "url": "https://www.stats.gov.cn/",
+        "status": "目录已检查",
+        "note": "未据目录推断不存在新政策；本期采用外汇局已读数据。"
+      },
+      {
+        "name": "常规清单其余来源",
+        "url": "https://github.com/xli-sansi/xli-sansi.github.io/blob/main/UPDATE_INSTRUCTIONS.md",
+        "status": "本轮未逐一检查",
+        "note": "Instagram、Stratechery、Benedict Evans、One Useful Thing、Ars、IEEE、游戏葡萄等没有完成本轮逐篇读取；不沿用过去状态。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "Ocient融资报道",
+        "reason": "聚合入口标11月7日，但实际文章路径为11月5日；未确认当日实质更新，排除。"
+      },
+      {
+        "item": "东南亚数据中心报道",
+        "reason": "Guardian原文发布11月7日11:00 CET，即北京时间11月7日18:00；非今天，未将聚合收录时间当首发。"
+      },
+      {
+        "item": "Dario Amodei与Demis Hassabis访谈",
+        "reason": "检索出现11月7日转载标记，但内容对应旧访谈；未核实近七天原始发言，排除。"
+      },
+      {
+        "item": "米哈游、HoYoverse、蔡浩宇、刘伟、罗宇皓及Anuttacon",
+        "reason": "检索候选多为热榜、游戏资料更新或11月4日版本公告；未取得可采用的当天重大公司新进展，不推断不存在新动态。"
+      },
+      {
+        "item": "NYT数学突破、黄仁勋相关传闻及AI融资线索",
+        "reason": "原文不可读或依赖匿名指控；未作为已证实事实。"
+      }
+    ],
+    "researchPlan": [
+      "常规清单：全球主流综合媒体、中文财经媒体、技术博客、原始公告与八位重点人物；常规名单不等于本轮全部读取。",
+      "实际检索与打开：Reuters、NYT、WaPo、BBC、Guardian、Economist、FT、WSJ、Bloomberg、AP；中文第一财经、澎湃、财新、界面及经济日报。来源条目区分正文、目录和失败。",
+      "市场先行：重新打开周五行情来源，核实外汇局11月7日数据；检查央行、证监会、财政部、发改委、统计局入口，检索国务院及交易所周末事项。缺失资金与风格指数不推算。",
+      "趋势重新研究：阅读Simon Willison当日博客和Datasette原始问题，通过GitHub API确认UTC创建及关闭时间；把机会分析标成待验证假设。",
+      "海外产业重新研究：CNA、Rest of World、Al Jazeera、TechCabal及Nikkei线索；未得到完整合格案例，保留空栏和地区缺口。",
+      "本期真正引用：卡片url及sources；审计中的可访问目录仅说明实际检索，不冒充引用或全文阅读。"
+    ],
+    "regionalCoverage": {
+      "中国及东亚": "A股及外储、台湾供应链日程有采用；日本及韩国无新增合格卡片。",
+      "东南亚": "读取CNA；Guardian产业线索为昨日，未采用。",
+      "北美": "Tesla及Datasette新进展采用。",
+      "欧洲": "查阅主流媒体，未得到合格当日产链案例。",
+      "南亚": "发现Nikkei印度就业线索，未取得符合要求正文。",
+      "中东": "Al Jazeera目录已读，缺乏当日合格材料。",
+      "非洲": "TechCabal 403，覆盖不足。",
+      "拉美": "区域综合入口可读，未核实当日新案例。"
+    }
+  }
+}
