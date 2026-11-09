@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-09",
+  "updatedAt": "2026-11-09T08:45:37+08:00",
+  "news": [
+    {
+      "id": "20261109-rba",
+      "title": "澳洲央行：AI宏观生产率与就业影响，尚缺充分证据",
+      "body": "路透社报道，澳洲央行助理行长Sarah Hunter于11月9日表示，目前证明AI显著提升生产率、造成广泛失业的证据有限；部分更易受AI影响的职业已出现招聘调整迹象。",
+      "detail": "这是央行官员的观察与判断，不是对AI无效的定论。她指出，基建投资可能先增加需求与价格压力，后续生产率改善则有望缓解压力。对科技产业的启示是分别观察投入、实际使用及可衡量回报，不能用资本开支直接证明效率红利已兑现。",
+      "url": "https://www.channelnewsasia.com/business/rbas-hunter-says-ai-has-yet-deliver-productivity-boost-trigger-job-losses-6534796",
+      "org": "Reuters（CNA转载，非两份独立证据）",
+      "date": "发言及报道2026-11-09",
+      "archiveDate": "2026-11-09",
+      "kind": "报道·宏观科技",
+      "sources": []
+    },
+    {
+      "id": "20261109-nasa",
+      "title": "NASA启动新一轮宇航员招募，遴选时间表延伸至2027年",
+      "body": "《卫报》北京时间11月9日报道NASA新一轮宇航员招募。NASA官方时间表确认，申请期为11月7日至12月3日，候选人名单拟于2027年秋季公布，随后进入训练。",
+      "detail": "招募已开放，但遴选和后续训练仍是计划；不能把人员扩充等同于载人登月任务已经完成。官方页面保留2023年建页日期，正文已更新为2026年申请窗口，阅读时应以当前明确列出的日程为准。",
+      "url": "https://www.nasa.gov/humans-in-space/astronaut-selection-timeline/",
+      "org": "NASA；The Guardian",
+      "date": "事件2026-11-07；卫报首发2026-11-09 00:50（北京时间）",
+      "archiveDate": "2026-11-09",
+      "kind": "事实·航天人员计划",
+      "sources": [
+        {
+          "name": "卫报本日报道",
+          "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open"
+        }
+      ]
+    },
+    {
+      "id": "20261109-robot",
+      "title": "启元机器人披露累计下线一万台，交付与使用仍需分别观察",
+      "body": "界面11月9日早报披露，启元机器人于11月8日达到累计第一万台个人机器人下线；报道同时提到Q1、T1进行了首次OTA升级。",
+      "detail": "下线量是生产口径，不等同于终端销量、客户验收或持续使用量。后续更有价值的验证指标是实际交付、故障与售后负担，以及升级后能稳定完成的任务。本期仅归纳媒体披露，不据此推导盈利或提供个股交易建议。",
+      "url": "https://www.jiemian.com/article/15308356.html",
+      "org": "界面新闻",
+      "date": "事件2026-11-08；本篇发布2026-11-09 08:05",
+      "archiveDate": "2026-11-09",
+      "kind": "报道·机器人量产",
+      "sources": []
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261109-sqlite",
+      "title": "AI辅助的小型数据工具：先证明正确，再证明有人付费",
+      "body": "Simon Willison今日发布SQLite数字解析扩展实验，公开比较C与Rust实现，并链接AI生成的代码与测试报告。这个实例说明具体、可测试的数据清洗任务适合做小规模工具验证；不能据单个基准宣称某语言或模型全面领先。",
+      "detail": "编辑假设：潜在客户为频繁处理杂乱导出表的小团队。需求证据目前只有公开开发实验，没有付费客户证据。门槛在数据语义与异常处理，例如样例将12.5%解析为12.5而非0.125，不能直接用于财务计算。低成本验证：用脱敏样本列出验收规则，对比现有表格流程的错误率和耗时，再访谈三位真实使用者；未节省时间就不产品化。本文没有独立运行该基准，报告自称测试通过不等于我们的复现结论。",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "org": "Simon Willison；公开实验仓库",
+      "date": "Atom记录2026-11-08 22:26 UTC，即11月9日06:26北京时间",
+      "archiveDate": "2026-11-09",
+      "kind": "实验事实·机会假设",
+      "sources": [
+        {
+          "name": "原始实验报告（明确标注AI生成）",
+          "url": "https://github.com/simonw/research/tree/main/sqlite-parse-number-c-vs-rust"
+        },
+        {
+          "name": "发布时间记录",
+          "url": "https://simonwillison.net/atom/everything/"
+        }
+      ]
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261109-gas-background",
+      "title": "背景｜重型燃机的生意：设备、本土总装与长期服务",
+      "body": "11月8日界面报道，GE Vernova与山东电建三公司签署马来西亚玻璃市项目合同，拟配备9HA.02机组，目标2029年投运。报道还介绍了秦皇岛合资制造基地及中国已有项目，说明这不是“中国没有”的产业。",
+      "detail": "产业结构：上游制造及配套，经整机企业和EPC交付给电力项目；后续备件、维修、技术支持形成服务环节。报道提供中国既有项目25年服务协议作为商业模式例子，不能当作此次马来西亚项目的合同条款。编辑判断：门槛在工程可靠性、交付与服务能力，合同不等于完工；个人可先研究项目文档与采购链，不宜把重资产制造视为低门槛副业。因本日未核实到足够新的完整产业案例，仅在末尾保留这一条昨日背景。",
+      "url": "https://www.jiemian.com/article/15307200.html",
+      "org": "界面新闻；企业信息有归属",
+      "date": "原报道2026-11-08 16:00；背景补充，非11月9日新签约",
+      "archiveDate": "2026-11-09",
+      "kind": "背景·海外产业链",
+      "sources": []
+    }
+  ],
+  "views": [],
+  "audit": {
+    "counts": {
+      "news": 3,
+      "trends": 1,
+      "industry": 1,
+      "views": 0
+    },
+    "sectionNotes": {
+      "news": "收录3条。按北京时间核对报道与事件日期；不将旧论文、匿名交易消息或网页更新时间当作当日实质新进展。",
+      "trends": "收录1条今日公开实验及编辑假设。需求尚未经付费验证；不把个人实验包装成行业普遍收益。",
+      "industry": "当日合格新案例0条；仅末尾收录1条11月8日燃机产业背景，日期明确。不重复拆分同一事件凑条数。",
+      "views": "本期0条。八位重点人物已定向检索；吴恩达11月6日文章只有官方目录可读、正文403；马斯克Baron会议官方页面称录音尚待公开，未用第三方逐字稿替代；其他候选过期、重复或原帖不可读。未收录不代表本人没有发言。"
+    },
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/",
+        "status": "部分可读",
+        "note": "实际检索；直接候选部分读取失败；经CNA读取并引用澳洲央行报道，转载不算独立第二来源。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/business",
+        "status": "已读取并引用",
+        "note": "读取栏目及两篇正文；环保稿原发11月7日，更新日期不能当首发。"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open",
+        "status": "已读取并引用",
+        "note": "NASA报道以官方时间表交叉核对，仅简短归纳。"
+      },
+      {
+        "name": "NASA",
+        "url": "https://www.nasa.gov/humans-in-space/astronaut-selection-timeline/",
+        "status": "已读取并引用",
+        "note": "当前正文明确2026年招募窗口；页首旧建页日期与正文分开。"
+      },
+      {
+        "name": "界面新闻",
+        "url": "https://www.jiemian.com/article/15308356.html",
+        "status": "已读取并引用",
+        "note": "首页、今日科技早报与11月8日燃机文章正文均读取；按子事件日期筛选。"
+      },
+      {
+        "name": "澎湃新闻",
+        "url": "https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixuqhy8862038.shtml",
+        "status": "部分可读并引用",
+        "note": "新浪转载收盘正文可读，今日疫苗原页读取失败；市场引用前者。"
+      },
+      {
+        "name": "金融界",
+        "url": "https://m.jrj.com.cn/madapter/stock/2026/11/06150659041807.shtml",
+        "status": "已读取并引用",
+        "note": "搜索工具读取失败，公开HTTP取得正文；交叉核对五指数。"
+      },
+      {
+        "name": "统计局",
+        "url": "https://www.stats.gov.cn/xw/tjxw/tzgg/202512/t20251224_1962137.html",
+        "status": "已读取并引用",
+        "note": "市场引用正式日程，未公布的数据不补写。"
+      },
+      {
+        "name": "证监会",
+        "url": "https://www.csrc.gov.cn/csrc/c100028/c7668092/content.shtml",
+        "status": "已读取并引用",
+        "note": "11月2日原文用于政策状态背景，不冒充今天新规。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+        "status": "已读取并引用",
+        "note": "正文、Atom时间戳、GitHub原报告均读；基准未自行复现。"
+      },
+      {
+        "name": "纽约时报",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "失败",
+        "note": "实际定向检索及栏目打开，受robots/读取限制，未引用。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/innovation",
+        "status": "失败",
+        "note": "实际检索及打开受限，未引用。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/science-and-technology",
+        "status": "失败",
+        "note": "实际检索及打开受限，未引用。"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/technology/innovations/",
+        "status": "仅目录及检索",
+        "note": "栏目可读；未取得合格完整候选，不引用付费正文。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/hub/technology",
+        "status": "失败",
+        "note": "实际定向检索并打开科技页失败，未引用。"
+      },
+      {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/technology",
+        "status": "仅目录",
+        "note": "栏目读取成功，未读取候选全文，不以标题核实交易。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/tech",
+        "status": "仅目录",
+        "note": "栏目可读，未引用未读全文。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/technology",
+        "status": "失败",
+        "note": "实际检索并打开受限。"
+      },
+      {
+        "name": "财新",
+        "url": "https://finance.caixin.com/2026-11-09/102502504.html",
+        "status": "失败",
+        "note": "今日早报检索命中，正文读取失败，不声称全文已读。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "失败",
+        "note": "定向检索与首页尝试，打开超时。"
+      },
+      {
+        "name": "The Verge / Ars Technica / TechCrunch",
+        "url": "https://techcrunch.com/",
+        "status": "仅检索",
+        "note": "实际按11月8日至9日搜索，候选存在日期/原始证据不足；未引用正文。"
+      },
+      {
+        "name": "吴恩达官方",
+        "url": "https://www.andrewng.org/writing",
+        "status": "部分可读",
+        "note": "官方目录可读，11月6日信件原文在两个官方入口403，不从标题推导观点。"
+      },
+      {
+        "name": "Baron Capital",
+        "url": "https://www.baroncapitalgroup.com/conference-2026",
+        "status": "已读未引用",
+        "note": "官方页面显示会议录音将于未来数周提供；排除未核验逐字稿。"
+      },
+      {
+        "name": "X",
+        "url": "https://x.com/karpathy",
+        "status": "失败",
+        "note": "原页403，镜像排除。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/sama/",
+        "status": "失败",
+        "note": "原页读取失败，不推断有无新发言。"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/",
+        "status": "检索受限",
+        "note": "实际地域定向检索提示robots限制。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/latest/",
+        "status": "仅检索",
+        "note": "候选多为11月5日及更早，未据检索摘要编写正文。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "失败",
+        "note": "实际定向检索及首页打开403。"
+      },
+      {
+        "name": "Al Jazeera / SCMP",
+        "url": "https://www.scmp.com/tech",
+        "status": "仅检索",
+        "note": "实际地域定向检索，尚未取得适合本期的当日完整核验材料。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "Reuters转述Anthropic发电机交易",
+        "reason": "报道说明尚未独立核实；未采用未读FT全文或匿名交易线索。"
+      },
+      {
+        "item": "黄仁勋私人关系及疑似间谍报道",
+        "reason": "未取得可支持相关指控的独立原始证据，不以传闻或私人议题填充指定技术观点。"
+      },
+      {
+        "item": "剑桥禽流感疫苗",
+        "reason": "11月9日中文转载；学院原文确认研究11月5日发布，本期不包装为今日突破。"
+      },
+      {
+        "item": "环保组织AI应用",
+        "reason": "CNA原发11月7日，11月9日更新仅纠正调查年份为2017；不算今日产业新进展。"
+      },
+      {
+        "item": "苹果HALO、台积电存储、小米人事",
+        "reason": "早报内原始日期为11月4日或6日；台积电项另有未核实消息来源，排除。"
+      },
+      {
+        "item": "米哈游及创始人相关企业",
+        "reason": "检索命中旧榜单、旧投资报道和游戏月历；未核实当天重大企业进展，不以旧闻充数。"
+      },
+      {
+        "item": "人物社交镜像与剪辑",
+        "reason": "X原页403，Instagram读取失败；不采用第三方镜像。"
+      },
+      {
+        "item": "特朗普AI护栏表态",
+        "reason": "Reuters检索命中但原文读取失败；未以摘要代替全文审核。"
+      }
+    ],
+    "researchPlan": [
+      "常规清单不等于本轮读取：保留仓库指定媒体与博客；本轮操作及引用状态见sources，未列为已读的来源不宣称已读。",
+      "实际检索：Reuters/AP/FT/WSJ/Bloomberg及NYT/WaPo/BBC/Guardian/Economist；中文澎湃、财新、第一财经、界面；科技The Verge、Ars Technica、TechCrunch和Simon Willison。",
+      "人物按近七天检索八位重点对象，并查Andrew Ng官方写作目录、Baron官方会议页、Altman及DeepMind原始入口；不将公司公告当个人观点。",
+      "市场先复核11月6日五项指数、量能与广度，检索11月8日至9日官方政策；统计日程核实9日9:30待发布，未提前填入数值。",
+      "全球检索尝试CNA、Nikkei、Rest of World、TechCabal、Al Jazeera和SCMP；本轮地区覆盖不完整，不以无命中推断当地没有重要事件。",
+      "引用原文仅限各卡片url/sources及市场卡片；候选可读但未引用、读取失败与未检查状态分开记录。"
+    ],
+    "regionalCoverage": {
+      "北美": "NASA与公开软件实验；主流媒体部分正文受限。",
+      "中国及东亚": "市场数据与界面机器人报道；米哈游未取得合格新进展，Nikkei受限。",
+      "东南亚": "马来西亚燃机项目仅昨日背景；CNA为检索入口。",
+      "大洋洲": "澳洲央行今日AI影响判断。",
+      "欧洲": "剑桥原文和卫报线索检查，旧研究排除。",
+      "非洲": "TechCabal403；环保案例为11月7日旧报道，未收录。",
+      "中东": "Al Jazeera定向检索多为旧内容，未完成当日独立报道核验。",
+      "南亚及拉美": "本轮未完成充分一手核实，缺额保留。"
+    }
+  }
+}
