@@ -1,0 +1,313 @@
+{
+  "date": "2026-11-10",
+  "updatedAt": "2026-11-10T08:25:00+08:00",
+  "news": [
+    {
+      "id": "20261110-claude",
+      "title": "Anthropic发布Fable 5.2与Mythos 5.2，降低技术任务使用成本",
+      "body": "Anthropic发布两款5.2模型，标准API价格为每百万输入/输出词元8/40美元。公司称编码、推理与视觉有所改善；Fable面向广泛使用，Mythos仍需通过特定验证项目获得访问。",
+      "detail": "性能和科学成果是厂商披露，本期未独立复现实验。是否值得切换，应以同一真实任务的准确性、总成本和人工复核时间衡量；单价下降不等于完成任务总费用必然下降。新闻按北京时间11月10日的发布报道收录，不把公司公告当作Dario Amodei本人观点。",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "org": "Anthropic原始公告；TechCrunch发布报道",
+      "date": "官方日期2026-11-09；TechCrunch 11月9日11:24 PST＝北京时间11月10日03:24",
+      "archiveDate": "2026-11-10",
+      "kind": "事实·产品发布与厂商声明",
+      "sources": [
+        {
+          "name": "发布报道与时间",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+        }
+      ]
+    },
+    {
+      "id": "20261110-usclose",
+      "title": "美国科技股反弹，但英伟达与行业走势分化",
+      "body": "北京时间11月10日凌晨完成的美股交易中，纳斯达克上涨2.74%，标普500上涨2.35%；费城半导体指数上涨6.9%，英伟达下跌4.2%。路透社与美联社报道显示，大盘与单一科技龙头表现分化。",
+      "detail": "编辑判断：观察科技周期时，应分别看行业广度、公司风险和实际订单。单日反弹不能证明AI投资已经恢复，也不能直接推导A股开盘后的方向。本卡仅呈现行情，不扩散未经核实的个人或间谍指控。",
+      "url": "https://www.reuters.com/business/wall-st-futures-rise-after-rough-week-nvidia-unsettles-investors-2026-11-09/",
+      "org": "Reuters；AP",
+      "date": "美国交易日2026-11-09；收盘北京时间2026-11-10；AP发布21:22 UTC",
+      "archiveDate": "2026-11-10",
+      "kind": "事实·全球科技市场",
+      "sources": [
+        {
+          "name": "AP收盘交叉核对",
+          "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-f7ec9680fc858e3c2505913e7b3a54e2"
+        }
+      ]
+    },
+    {
+      "id": "20261110-spacex",
+      "title": "SpaceX拟将燃气发电与超级计算设施放在Starbase",
+      "body": "第一财经11月10日援引Starbase市政府听证通知报道，SpaceX计划建设并运营燃气电厂及超级计算设施，初期预计投资240亿美元；税收减免与开发协议拟于12月9日审议。",
+      "detail": "这是媒体依据听证通知披露的计划，不是获批、开工或投运事实。本期读取了第一财经正文，未取得市政府通知原件，审批条件和最终投资额仍待核实。值得跟踪的是项目许可、电源与计算设施进度，而不是把拟投资额直接当作已落地需求；亦不将此当作马斯克个人发言。",
+      "url": "https://www.yicai.com/news/103433242.html",
+      "org": "第一财经（援引市政府听证通知）",
+      "date": "报道2026-11-10 05:59；计划审议2026-12-09",
+      "archiveDate": "2026-11-10",
+      "kind": "报道·待审议项目",
+      "sources": []
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261110-beep",
+      "title": "AI辅助现场小工具：从定位异响开始验证需求",
+      "body": "Simon Willison新发布一项个人实验：用多台手机、平板和电脑采集声音，以AI辅助编写的软件定位间歇蜂鸣，作者报告最终找到低电量报警器。案例展示了围绕实际问题快速做工具的路径，不代表商业产品已经成熟。",
+      "detail": "编辑假设：物业运维、设备维护或现场排查团队可能需要低成本声音定位。当前需求证据只有个人案例，尚无付费客户证据。主要门槛是回声、设备校准、噪声误判与录音隐私；不可替代报警器、消防检测或专业安全系统。低成本验证：在获授权的非敏感场所，用已知位置声源测试，记录误差、漏检率及与人工排查的耗时差，再访谈三位运维人员。不能仅凭演示出售精度承诺。",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "org": "Simon Willison原始实验",
+      "date": "发布2026-11-09 23:57 UTC＝北京时间11月10日07:57；实验发生于此前",
+      "archiveDate": "2026-11-10",
+      "kind": "实验事实·机会假设",
+      "sources": [
+        {
+          "name": "原站Atom发布时间",
+          "url": "https://simonwillison.net/atom/everything/"
+        }
+      ]
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261110-boeing",
+      "title": "美国民机产业链：减产节奏向用工与供应商传导",
+      "body": "路透社读取波音内部备忘录后报道，商用飞机部门计划削减5%人员，包含自然减员和裁员，最早12月发出通知；公司将生产稳定性作为调整理由。",
+      "detail": "产业解读：飞机交付依赖零部件、总装和下游客户节奏协调，产能目标不能等同实际交付。值得观察供应商订单、验收及回款是否同步调整。具体供应合同和损失未核实。本期未取得中国可比数据，不作“中国没有”或竞争替代结论；这也不是低门槛个人副业。",
+      "url": "https://www.reuters.com/business/aerospace-defense/boeing-cut-5-planemaking-divisions-workforce-seattle-times-reports-2026-11-09/",
+      "org": "Reuters（已读取备忘录的具名报道）",
+      "date": "2026-11-09 17:42 UTC＝北京时间11月10日01:42",
+      "archiveDate": "2026-11-10",
+      "kind": "报道·海外制造产业链",
+      "sources": []
+    }
+  ],
+  "views": [],
+  "audit": {
+    "counts": {
+      "news": 3,
+      "trends": 1,
+      "industry": 1,
+      "views": 0
+    },
+    "sectionNotes": {
+      "news": "收录3条北京时间当日发布或收盘进展；未达到10条。多篇候选为昨日资料、往年同日栏目、匿名交易报道或正文不可读，未用于凑数。",
+      "trends": "收录1条今日公开的现场工具实验，明确个人案例与付费需求之间的证据缺口。未用昨日PR写作文章包装为今日趋势。",
+      "industry": "收录1条今日民机生产调整案例；产业链分析与报道事实分开，中国对照数据不足。昨日挪威和意大利案例未作今日新消息。",
+      "views": "本期0条。八人已定向检索：吴恩达11月6日原文403；Hassabis节目11月6日发布但录制于10月，不冒充近七天新发言；马斯克会议官方录像仍待公开；Karpathy原帖不可读；李飞飞命中团队公告和旧文章；Altman、Amodei候选多为旧访谈；黄仁勋近期报道未提供符合指定主题的新观点。未收录不代表本人没有发言。"
+    },
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/",
+        "status": "已读取并引用",
+        "note": "读取市场、航空、融资、挪威及意大利正文；引用美股收盘与波音，其余按日期/匿名来源排除。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-f7ec9680fc858e3c2505913e7b3a54e2",
+        "status": "已读取并引用",
+        "note": "收盘正文交叉核对。"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "status": "已读取并引用",
+        "note": "产品公告；能力声明不当作独立评测。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/news/103433242.html",
+        "status": "已读取并引用",
+        "note": "SpaceX计划正文可读；未取得政府听证原件，明确二手来源范围。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+        "status": "已读取并引用",
+        "note": "两篇原文可读；只引用今日蜂鸣定位实验。Atom由HTTP读取确认UTC发布时间。"
+      },
+      {
+        "name": "金十/同花顺/每日经济新闻",
+        "url": "https://flash.jin10.com/detail/20261109150308489800",
+        "status": "已读取并引用",
+        "note": "市场五指数与盘面；广度口径差异已注明，不采用问财AI摘要代替正文。"
+      },
+      {
+        "name": "国家统计局",
+        "url": "https://www.stats.gov.cn/xxgk/jd/sjjd2020/202611/t20261109_1965796.html",
+        "status": "已读取并引用",
+        "note": "10月CPI/PPI实际公布值。"
+      },
+      {
+        "name": "财政部/税委会",
+        "url": "https://gss.mof.gov.cn/gzdt/zhengcefabu/202611/t20261109_4004260.htm",
+        "status": "已读取并引用",
+        "note": "直接打开初次失败，经财政部栏目链接成功读到正式公告。"
+      },
+      {
+        "name": "央行",
+        "url": "https://www.pbc.gov.cn/",
+        "status": "已读未引用",
+        "note": "首页与会见新闻读取；不能把目录旧政策当今日出台。"
+      },
+      {
+        "name": "证监会/发改委/沪深交易所/国务院",
+        "url": "https://www.csrc.gov.cn/",
+        "status": "已检索",
+        "note": "定向搜索本日及昨日；未取得额外足以引用的当日政策正文。"
+      },
+      {
+        "name": "纽约时报/BBC/经济学人",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "检索受限",
+        "note": "本轮定向查询返回robots限制，未引用。"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/technology/innovations/",
+        "status": "仅检索",
+        "note": "命中目录/报道线索，未取得用于本期的完整正文。"
+      },
+      {
+        "name": "FT/WSJ/Bloomberg",
+        "url": "https://www.ft.com/technology",
+        "status": "仅检索",
+        "note": "联合定向查询；未用付费或匿名交易线索填充新闻。"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology",
+        "status": "仅检索",
+        "note": "学校AI、冷链网络事件候选已检索；未据摘要撰写卡片。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/tech/",
+        "status": "仅检索",
+        "note": "命中目录；未读取候选付费全文，不引用。"
+      },
+      {
+        "name": "澎湃",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34442685",
+        "status": "失败",
+        "note": "当日高校Token报道检索命中，正文打开失败。"
+      },
+      {
+        "name": "界面",
+        "url": "https://m.jiemian.com/lists/459_39.html",
+        "status": "仅检索",
+        "note": "部分栏目混入往年同月日新闻，排除；未沿用昨日可读状态。"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+        "status": "已读取并引用",
+        "note": "产品发布报道用于时间；黄仁勋退会报道已读未收录。"
+      },
+      {
+        "name": "The Verge/Ars Technica",
+        "url": "https://arstechnica.com/",
+        "status": "仅检索",
+        "note": "定向查询未取得适合本期且已核实正文的候选。"
+      },
+      {
+        "name": "吴恩达",
+        "url": "https://www.andrewng.org/writing",
+        "status": "部分可读",
+        "note": "目录可读，11月6日文章原页403，未从标题推演观点。"
+      },
+      {
+        "name": "Masters of Scale",
+        "url": "https://mastersofscale.com/demis-hassabis-society-is-not-ready-for-the-ai-future/",
+        "status": "已读未引用",
+        "note": "官方节目与转录可读；标明10月录制，排除近期观点栏。"
+      },
+      {
+        "name": "Baron Capital",
+        "url": "https://www.baroncapitalgroup.com/conference",
+        "status": "已读未引用",
+        "note": "官方页面称录像将在未来数周提供，未采用第三方逐字稿。"
+      },
+      {
+        "name": "X/Twitter",
+        "url": "https://x.com/karpathy",
+        "status": "失败",
+        "note": "原页403；不采用镜像。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/sama/",
+        "status": "失败",
+        "note": "原页读取失败。"
+      },
+      {
+        "name": "World Labs",
+        "url": "https://www.worldlabs.ai/blog",
+        "status": "仅检索",
+        "note": "团队公告与李飞飞旧文不等同她的新观点。"
+      },
+      {
+        "name": "CNA/Rest of World/TechCabal/Al Jazeera",
+        "url": "https://restofworld.org/",
+        "status": "仅检索",
+        "note": "地域定向查询已尝试；未读取足以新增本日卡片的原文。"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/",
+        "status": "检索受限",
+        "note": "查询提示robots限制。"
+      },
+      {
+        "name": "Benedict Evans/Stratechery/One Useful Thing/Import AI",
+        "url": "https://www.ben-evans.com/",
+        "status": "未检查",
+        "note": "保留常规清单，本轮未完成逐站检查，不冒充采集成功。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "米哈游、HoYoverse与三位创始人相关企业",
+        "reason": "检索候选包含数月前停运/投资报道及时间矛盾的组织调整文章，未核实本日重大新进展，不据此变更控制权或创始人关系。"
+      },
+      {
+        "item": "界面栏目中的A800、PICO旧新闻",
+        "reason": "栏目显示月日而无可靠当年上下文，不能作为2026年11月10日新闻。"
+      },
+      {
+        "item": "AI债务、意大利钢厂投标、挪威数据中心限电",
+        "reason": "已读取Reuters正文；明确首发北京时间11月9日，缺少今天实质新进展；部分融资或投标细节依赖匿名来源，未采用。"
+      },
+      {
+        "item": "Hassabis节目",
+        "reason": "官方页明确10月录制；11月6日上线不等同近七日新讲话。"
+      },
+      {
+        "item": "黄仁勋私人关系及第三方指使推测",
+        "reason": "本期不据传闻形成指控，不将取消活动当成技术观点。"
+      },
+      {
+        "item": "澎湃高校Token及机器人报道",
+        "reason": "前者正文读取失败；后者候选含匿名解释与未明事件日期，未作为独立新事实。"
+      }
+    ],
+    "researchPlan": [
+      "常规清单：仓库指定的国际综合媒体、中文媒体、科技媒体、行业资料与博客。列名不等于已读取；本轮实际结果见来源表。",
+      "本轮实际检索：Reuters、AP、FT、WSJ、Bloomberg、NYT、Washington Post、BBC、Guardian、Economist；澎湃、财新、第一财经、界面；The Verge、Ars Technica、TechCrunch。",
+      "人物检索覆盖黄仁勋、李飞飞、Karpathy、Altman、Amodei、Hassabis、吴恩达、Musk；读取官方人物/机构入口，不采用社交镜像。米哈游及三位创始人相关企业亦已搜索，可靠新进展缺额保留。",
+      "全球补充检索CNA、Nikkei Asia、Rest of World、TechCabal、Al Jazeera；欧洲制造、电力与美国航天案例已筛选。南亚、中东、非洲、拉美本轮独立来源覆盖不足，不声称全球无遗漏。",
+      "市场先核实11月9日五指数、量能和广度，再检索11月9日至10日官方政策。正式公告、数据、媒体报道与编辑判断分开；未找到高质量历史类比。",
+      "本期引用原文：各卡片url与sources，以及市场观察卡片来源。已读未引用、只检索、读取失败、未检查分列；未读取付费全文不纳入论据。"
+    ],
+    "regionalCoverage": {
+      "北美": "模型、市场、航空制造和航天项目报道。",
+      "中国及东亚": "A股、官方数据/关税、中文科技媒体；日本来源受限。",
+      "欧洲": "挪威数据中心与意大利钢厂全文已读，但为昨日，未收录。",
+      "东南亚与南亚": "CNA等已检索；缺少合格当日完整案例。",
+      "中东与非洲": "Al Jazeera、TechCabal已检索，未完成当日独立原文核验。",
+      "拉美与大洋洲": "本轮未完成充分覆盖。"
+    },
+    "commitPrivacy": "GitHub插件提交后已读取元数据；返回邮箱为null，无法据此确认noreply。未修改隐私设置或历史提交。"
+  }
+}
