@@ -1,0 +1,303 @@
+{
+  "date": "2026-11-11",
+  "updatedAt": "2026-11-11T08:44:56.000+08:00",
+  "news": [
+    {
+      "id": "20261111-businesses",
+      "title": "ChatGPT开放商家资料认领与商家智能体",
+      "body": "OpenAI推出Businesses测试版，商家可核验身份、维护资料及商品价格库存，并查看汇总互动指标。Business Agents先向符合资格的美国电商及在线服务商开放。",
+      "detail": "这是公司公布的功能范围，尚无本期独立效果评测。商家对话与ChatGPT自身回答分开标注；平台称不向商家提供用户对话原文。值得关注的是资料准确性和实际转化，而非把入驻等同流量保证。路透社报道与官方原文已读取。",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+      "org": "OpenAI；Reuters",
+      "date": "官方2026-11-10；Reuters 13:01 EST＝北京时间11月11日02:01",
+      "archiveDate": "2026-11-11",
+      "kind": "事实·产品公告",
+      "sources": [
+        {
+          "name": "Reuters正文及发布时间",
+          "url": "https://www.marketscreener.com/news/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-e-commerce-firms-ce785edad188f725"
+        }
+      ]
+    },
+    {
+      "id": "20261111-coreweave",
+      "title": "CoreWeave季度收入增长，融资成本仍是关键约束",
+      "body": "CoreWeave披露第三季度收入36.61亿美元，上年同期13.65亿美元；GAAP净亏损7.09亿美元，净利息费用8.46亿美元。公司上调全年收入指引至130亿—133亿美元。",
+      "detail": "财报对应截至9月30日季度，11月10日美股盘后公布，属于北京时间今日新增披露。编辑判断：算力需求增长与资金压力可以同时存在，不能用调整后利润替代GAAP净收益。公司指引是预测，后续应核对交付、现金回收及融资成本，不能把未完成合同当现款。",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/coreweave3q26earningspress.htm",
+      "org": "CoreWeave提交SEC的财报附件",
+      "date": "2026-11-10美股盘后＝北京时间11月11日；财季截至9月30日",
+      "archiveDate": "2026-11-11",
+      "kind": "事实·公司财报",
+      "sources": [
+        {
+          "name": "今日财联社盘后报道",
+          "url": "https://www.cls.cn/detail/2530855"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261111-evaluation",
+      "title": "AI独立评测：先验证专业服务需求",
+      "body": "纽约州宣布由宾汉姆顿大学牵头的AI责任与研究中心组织80余名研究人员，独立测试前沿AI系统；同时开放大型前沿开发者登记入口，要求于2027年1月1日前登记。",
+      "detail": "官方表示部分安全框架、事件报告及透明度要求从明年1月开始；不要把今天开放门户写成所有规则已生效。编辑假设：面向企业的测试记录、评测数据和故障复现工具可能存在需求；潜在客户是有评测责任的开发者及研究机构，但此公告并非向个人服务商发出的订单。门槛是专业能力、可复现方法与数据权限。低成本验证：用公开模型构建一个可复现失效测试，访谈三位负责AI评测的人员，核实工作量与付费意愿；不冒充认证或法律意见。",
+      "url": "https://www.suny.edu/suny-news/press-releases/11-26/11-10-26-2/",
+      "org": "SUNY转发州长办公室正式发布；编辑分析",
+      "date": "官方2026-11-10；TechCrunch 12:52 PST＝北京时间11月11日04:52报道",
+      "archiveDate": "2026-11-11",
+      "kind": "事实·机会假设",
+      "sources": [
+        {
+          "name": "发布报道时间（内容以官方为准）",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+        }
+      ]
+    },
+    {
+      "id": "20261111-commerce-data",
+      "title": "商家资料维护：可测试的小型服务方向",
+      "body": "今日ChatGPT商家功能提供了一个需求线索：商家需要保持产品资料、价格与库存一致。但平台支持自行维护，是否需要外包仍需验证。",
+      "detail": "编辑假设：可面向符合平台资格、已有海外业务的小商家测试资料清理与商品数据校验服务。门槛包括客户授权、多系统同步和持续维护成本。低成本验证：先访谈三家店铺，在授权下用少量商品做字段一致性检查，记录错误减少和节省时间，再决定是否收费。不要承诺搜索排名、推荐结果或收益；不把该平台默认适用于中国大陆所有商家。此卡是对新闻栏同一发布的实践分析，不计作第二件新闻。",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+      "org": "OpenAI功能公告；三思而行编辑假设",
+      "date": "北京时间2026-11-11新发布报道；验证方案为编辑分析",
+      "archiveDate": "2026-11-11",
+      "kind": "机会假设·待验证",
+      "sources": []
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261111-oura",
+      "title": "芬兰起家的Oura：从可穿戴设备延伸到医生服务",
+      "body": "Oura同意以6.25亿美元现金收购Counsel Health，拟将连续健康数据与AI辅助、医生参与的服务衔接。公司预计年底前完成交易，当前是签约而非交割完成。",
+      "detail": "产业链：上游为传感与数据采集，中间为健康信息解释，下游为具备资质的医生和医疗服务。客户包括个人会员，以及Counsel服务的健康计划和医疗系统。商业逻辑是增强持续服务关系；本期未核实整合后的定价和盈利。门槛包括临床责任、隐私授权与医生供给，厂商案例不证明医疗效果。中国对照缺少同口径材料，不声称“中国没有”，也不把这种医疗业务包装成低门槛副业。",
+      "url": "https://ouraring.com/blog/fr/oura-to-acquire-counsel-health/",
+      "org": "Oura原始公告；Reuters",
+      "date": "官方2026-11-10；Reuters 12:21 EST＝北京时间11月11日01:21",
+      "archiveDate": "2026-11-11",
+      "kind": "事实·海外健康服务产业链",
+      "sources": [
+        {
+          "name": "Reuters交易报道",
+          "url": "https://www.marketscreener.com/news/smart-ring-maker-oura-to-acquire-counsel-health-for-625-million-ce785edade81f524"
+        }
+      ]
+    }
+  ],
+  "views": [],
+  "audit": {
+    "counts": {
+      "news": 2,
+      "trends": 2,
+      "industry": 1,
+      "views": 0
+    },
+    "sectionNotes": {
+      "news": "本期2条，未满10条。只采用已读原文且日期合格的独立进展；Oura交易放海外产业，不重复计算。匿名融资、旧公告的新报道及正文未读候选排除。",
+      "trends": "本期2条：独立AI评测与商家资料维护；分别说明潜在买方、证据不足、门槛及低成本验证，不承诺收入。",
+      "industry": "本期1条Oura与医生服务链整合，交易尚未完成，中国对照不足。X-energy原公告早于今日，未用后续报道包装新进展；未补旧案例凑数。",
+      "views": "本期0条，目标10条未达。八人已检索；吴恩达11月6日原文403、Karpathy原帖403；李飞飞命中旧本人文章和团队公告；Hassabis节目为10月录制；马斯克Baron官方录像尚待发布；Altman/Amodei线索多为旧访谈或二手摘要；黄仁勋活动新闻未提供指定主题的新观点。未收录不代表没有发言。"
+    },
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.marketscreener.com/news/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-e-commerce-firms-ce785edad188f725",
+        "status": "已读取并引用",
+        "note": "通过MarketScreener读取OpenAI、Oura两篇Reuters完整转载；原站CoreWeave/Oura打开失败。转载不算独立第二证据。"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+        "status": "已读取并引用",
+        "note": "商家产品公告。"
+      },
+      {
+        "name": "SEC / CoreWeave",
+        "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/coreweave3q26earningspress.htm",
+        "status": "已读取并引用",
+        "note": "公司财报附件，GAAP与调整后指标分开。"
+      },
+      {
+        "name": "Oura",
+        "url": "https://ouraring.com/blog/fr/oura-to-acquire-counsel-health/",
+        "status": "已读取并引用",
+        "note": "官方英文正文位于法文站路径；交易是协议，尚未交割。"
+      },
+      {
+        "name": "SUNY / 纽约州长办公室",
+        "url": "https://www.suny.edu/suny-news/press-releases/11-26/11-10-26-2/",
+        "status": "已读取并引用",
+        "note": "AI评测中心与登记门户；保留2027年要求时间。"
+      },
+      {
+        "name": "21世纪经济报道",
+        "url": "https://finance.eastmoney.com/a/202611103927288869.html",
+        "status": "已读取并引用",
+        "note": "浏览工具失败后HTTP读取东方财富转载正文；沪深口径。"
+      },
+      {
+        "name": "每日经济新闻",
+        "url": "https://finance.sina.com.cn/jjxw/2026-11-10/doc-iniyfuza9268636.shtml",
+        "status": "已读取并引用",
+        "note": "HTTP读取新浪转载正文；全A口径，与沪深分列。"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://cn.investing.com/indices/csi300-historical-data",
+        "status": "已读取并引用",
+        "note": "沪深300收盘核对。"
+      },
+      {
+        "name": "发改委 / 财政部",
+        "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202611/t20261110_1408749.html",
+        "status": "已读取并引用",
+        "note": "原始发布会简报、绿色主权债公告。"
+      },
+      {
+        "name": "国务院 / 央行 / 证监会 / 统计局 / 沪深交易所",
+        "url": "https://www.pbc.gov.cn/",
+        "status": "已检索",
+        "note": "已定向搜索；未取得可新增引用的昨夜至今晨重大事项正文，不等于无政策。"
+      },
+      {
+        "name": "财联社",
+        "url": "https://www.cls.cn/detail/2530855",
+        "status": "已读取并引用",
+        "note": "浏览工具失败后HTTP读取今日美股收盘及盘后汇总，用于财报发布背景；不复述个人争议。"
+      },
+      {
+        "name": "纽约时报 / BBC / 经济学人",
+        "url": "https://www.nytimes.com/section/technology",
+        "status": "检索受限",
+        "note": "本轮定向搜索受robots限制，未读取付费全文或引用摘要。"
+      },
+      {
+        "name": "Washington Post / Guardian",
+        "url": "https://www.washingtonpost.com/technology/",
+        "status": "仅检索",
+        "note": "命中栏目、评论及候选标题，未采用为本期事实依据。"
+      },
+      {
+        "name": "AP / FT / WSJ / Bloomberg",
+        "url": "https://apnews.com/technology",
+        "status": "仅检索",
+        "note": "定向查询已执行，未完成可引用新稿正文阅读；WSJ Oura标题仅线索。"
+      },
+      {
+        "name": "澎湃 / 财新 / 第一财经 / 界面",
+        "url": "https://www.thepaper.cn/",
+        "status": "仅检索",
+        "note": "本轮联合定向查询；未取得用于本期新卡片的核实正文。不能沿用昨日成功状态。"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+        "status": "部分可读",
+        "note": "纽约AI报道正文可读、用于发布时间；OpenAI/X-energy重试失败，Oura失败。核心事实采用官方原文。"
+      },
+      {
+        "name": "The Verge / Ars Technica",
+        "url": "https://www.theverge.com/",
+        "status": "仅检索",
+        "note": "检索商家功能等线索；未据摘要写卡片。"
+      },
+      {
+        "name": "X-energy",
+        "url": "https://x-energy.com/news/dow-x-energy-proposed-smr-project-receives-historic-construction-permit-for-nuclear-powered-industrial-site/",
+        "status": "已读未引用",
+        "note": "原始公告与许可限制已读，按日期排除。"
+      },
+      {
+        "name": "吴恩达",
+        "url": "https://www.andrewng.org/writing",
+        "status": "部分可读",
+        "note": "目录可读；点击11月6日原文返回403。"
+      },
+      {
+        "name": "World Labs",
+        "url": "https://worldlabs.ai/blog",
+        "status": "已读未引用",
+        "note": "11月5日为团队文章，李飞飞本人文章较早，未替代本人观点。"
+      },
+      {
+        "name": "Baron Capital",
+        "url": "https://www.baroncapitalgroup.com/conference",
+        "status": "已读未引用",
+        "note": "官方仍称录像将在未来数周提供。"
+      },
+      {
+        "name": "X/Twitter",
+        "url": "https://x.com/karpathy",
+        "status": "失败",
+        "note": "原账号403；不采用Nitter等镜像。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/",
+        "status": "未检查",
+        "note": "本轮未完成原帖读取，不沿用历史429状态。"
+      },
+      {
+        "name": "CNA / Rest of World / TechCabal / Al Jazeera",
+        "url": "https://www.channelnewsasia.com/",
+        "status": "仅检索",
+        "note": "已进行地域定向查询，未取得本期独立引用的新原文。"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/",
+        "status": "检索受限",
+        "note": "本轮搜索提示robots限制。"
+      },
+      {
+        "name": "Simon Willison / One Useful Thing",
+        "url": "https://simonwillison.net/",
+        "status": "仅检索",
+        "note": "本轮定向检索，未取得新的合格卡片原文。"
+      },
+      {
+        "name": "Benedict Evans / Stratechery / Import AI / WIRED / IEEE / MIT Technology Review / 游戏葡萄",
+        "url": "https://www.ben-evans.com/",
+        "status": "未检查",
+        "note": "常规清单保留，本轮未完成逐站核验。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "X-energy工业核电许可",
+        "reason": "原公告为美国11月9日/北京时间11月10日，后续报道不构成今日新进展；本期不收背景。建造许可也不等于运营许可。"
+      },
+      {
+        "item": "Fei-Fei Li聚合页",
+        "reason": "检索出现阿里云同名人物内容，未认作所关注的李飞飞。"
+      },
+      {
+        "item": "米哈游、蔡浩宇、刘伟、罗宇皓及Anuttacon/HoYoverse",
+        "reason": "已定向检索，未取得合格当日重大进展；旧捐赠、投资故事不重发，不据摘要变更企业关系。"
+      },
+      {
+        "item": "人物镜像与非官方逐字稿",
+        "reason": "原帖不可读取或讲话日期超窗；Baron第三方转录自述未逐字核验，未作为本人原始证据。"
+      }
+    ],
+    "researchPlan": [
+      "常规清单：遵循UPDATE_INSTRUCTIONS.md的国际综合媒体、中文媒体、科技媒体、行业与博客来源；列名不代表已采集。",
+      "本轮实际检索：Reuters/AP/FT/WSJ/Bloomberg、NYT/Washington Post/BBC/Guardian/Economist；澎湃/财新/第一财经/界面；TechCrunch/Ars/The Verge；全球补充CNA/Nikkei/Rest of World/TechCabal/Al Jazeera。逐篇阅读和失败情况见来源表。",
+      "市场先核验11月10日五指数、成交、广度及主要板块，再检索官方政策；北向/主力、部分金融风格数据缺失，不填推测值。没有足够相似历史样本。",
+      "八人及米哈游相关企业定向搜索，追到本人/官方入口；社交镜像只作排除线索。引用原文为卡片url及sources，不把搜索摘要当全文。",
+      "本轮研究不等于全球完整扫描；未查阅的常规博客和地区标明不足。"
+    ],
+    "regionalCoverage": {
+      "北美": "产品公告、企业财报、AI评测机构及医疗服务。",
+      "中国与东亚": "A股与官方政策；日本Nikkei检索受限。",
+      "欧洲": "芬兰起家的Oura跨境服务链案例。",
+      "东南亚与南亚": "CNA等检索已尝试，未形成独立当日案例。",
+      "中东与非洲": "Al Jazeera、TechCabal定向检索，未取得合格当日完整案例。",
+      "拉美与大洋洲": "独立当地媒体核验不足，未声称完整覆盖。"
+    },
+    "commitPrivacy": "本轮已读取实际提交元数据，工具返回作者邮箱为null，无法确认noreply；未修改权限、隐私设置或历史。"
+  }
+}
