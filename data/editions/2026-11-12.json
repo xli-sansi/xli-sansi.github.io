@@ -1,0 +1,440 @@
+{
+  "date": "2026-11-12",
+  "updatedAt": "2026-11-12T09:05:35.000+08:00",
+  "news": [
+    {
+      "id": "20261112-decisions",
+      "title": "Gemini Decisions API：多模态判断出现公开实测",
+      "body": "Google介绍了面向是非、多选和评分任务的Gemini Decisions API，支持文本、图像、音频、视频与PDF。北京时间今日06:03，Simon Willison公开了视频判断测试，给出了各问题的概率输出。",
+      "detail": "新进展是今日发布的实际调用记录；Google公告页面日期为11月11日。单个视频测试不构成准确率基准，也不能证明概率经过业务校准。编辑观察：文档筛选、素材质检等重复判断值得试验，但需用人工标注样本验证误报和漏报，不能直接用于高风险决策。",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "org": "Google；Simon Willison",
+      "date": "公告2026-11-11；实测2026-11-11 22:03 UTC＝北京时间11月12日06:03",
+      "archiveDate": "2026-11-12",
+      "kind": "公司公告·开发者实测",
+      "sources": [
+        {
+          "name": "Google原始公告",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        }
+      ]
+    },
+    {
+      "id": "20261112-llm-security",
+      "title": "LLM工具发布修复，防止密钥误发给其他服务商",
+      "body": "LLM 0.37.2修复了两种配置路径可能将OpenAI密钥误发至其他兼容接口的问题。修复覆盖缺少指定密钥及特定接口模式切换的情况，项目已发布安全公告。",
+      "detail": "这是第三方开源工具的配置与凭据处理问题，不能扩大表述为OpenAI平台泄露。编辑建议：使用该工具的团队核对版本与实际端点配置，评估是否需要撤销可能暴露的密钥；本轮没有证据说明已发生大规模滥用。",
+      "url": "https://github.com/simonw/llm/releases/tag/0.37.2",
+      "org": "LLM项目发布说明",
+      "date": "发布2026-11-11 17:19 UTC＝北京时间11月12日01:19",
+      "archiveDate": "2026-11-12",
+      "kind": "事实·安全修复",
+      "sources": []
+    },
+    {
+      "id": "20261112-us-close",
+      "title": "美股科技板块走强，CoreWeave财报后出现新市场反应",
+      "body": "美联社报道11月11日美股收盘：标普500上涨1.3%，纳斯达克上涨1.6%，道指上涨0.5%；CoreWeave上涨24.7%。该收盘发生在北京时间11月12日。",
+      "detail": "昨日已报道CoreWeave季度业绩，本条仅记录新发生的价格反应，不重复包装财报。编辑判断：单日涨幅体现市场重新定价，不等于盈利质量、资金链或长期回报已经得到验证，也不能机械推导A股相关板块走势。",
+      "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-297d040c83844a9563327340b370c24e",
+      "org": "美联社 AP",
+      "date": "行情2026-11-11美股收盘＝北京时间11月12日；报道同一交易日",
+      "archiveDate": "2026-11-12",
+      "kind": "事实·市场反应",
+      "sources": []
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261112-tabletop",
+      "title": "协作小工具：从生成页面走向多人共同使用",
+      "body": "Google Labs推出Tabletop实验，可生成行程、投票和费用分摊等协作空间。The Verge于北京时间11月12日00:00报道；官方目前只向美国18岁以上用户通过候补名单开放。",
+      "detail": "机会假设：活动组织者、小型社群和服务团队可能需要定制协作工具，但产品发布不是付费需求证据。潜在买方是有重复协调成本的组织。门槛在权限、隐私、多人数据一致性及维护。低成本验证：先访谈3个组织者，用不含敏感信息的原型完成一次实际活动，记录省下的时间、出错率和付费意愿；不要把候补资格当成普遍可用。",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "org": "The Verge；Google Labs",
+      "date": "媒体2026-11-11 16:00 UTC＝北京时间11月12日00:00；公告11月11日",
+      "archiveDate": "2026-11-12",
+      "kind": "事实·机会假设",
+      "sources": [
+        {
+          "name": "Google Labs公告",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+        }
+      ]
+    },
+    {
+      "id": "20261112-aws-testing",
+      "title": "AI编程的配套机会：可验证的测试环境",
+      "body": "AWS发布本地模拟器，官方工程文章说明它以真实AWS行为验证测试，再让模拟器通过相同测试，并公开尚不一致的行为。Simon Willison于北京时间今日05:18记录这一发布。",
+      "detail": "需求证据是厂商投入构建本地测试基础设施，尚不能证明独立服务商收入。潜在买方：使用AWS的开发团队；可试验的服务是迁移测试、回归用例与兼容性检查。门槛：理解真实云服务语义、维护差异和安全边界。低成本验证：选一个队列工作流，比较模拟与真实测试结果及成本，先证明能发现实际缺陷。模拟器并非生产环境，真实环境仍需验证。",
+      "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+      "org": "AWS工程负责人客座文章；Simon Willison",
+      "date": "官方文章2026-11-11；博客记录11月11日21:18 UTC＝北京时间11月12日05:18",
+      "archiveDate": "2026-11-12",
+      "kind": "公司一手材料·机会假设",
+      "sources": [
+        {
+          "name": "当日公开记录",
+          "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
+        }
+      ]
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261112-quantum",
+      "title": "近期背景｜量子计算服务链：硬件、误差控制与行业应用",
+      "body": "IBM在11月11日公告中介绍Nighthawk进展，并计划2027年扩展至超过1000量子比特；这是路线图，不是已经交付的规模。公司列出E.ON、Algorithmiq与Q-CTRL参与现有系统工作负载。",
+      "detail": "因本轮未核实更多当天产业案例，末尾仅保留这一近期背景，公告精确时区未核实，不标成今日发布。链条包括量子处理器和控制系统、算法及误差抑制、云接入与行业计算；潜在买方是能源与科研等机构，商业模式可为算力访问与应用服务。门槛是可靠性、成本及能否优于经典计算。合作伙伴使用不等于普遍商业优势。中国对照缺少同口径性能、客户付费与成本资料，本期无法判断差距，更不能称中国没有。",
+      "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+      "org": "IBM官方公告",
+      "date": "原始日期2026-11-11；近期背景，精确发布时间未核实",
+      "archiveDate": "2026-11-12",
+      "kind": "近期背景·公司声明·产业链分析",
+      "sources": []
+    }
+  ],
+  "views": [],
+  "audit": {
+    "counts": {
+      "news": 3,
+      "trends": 2,
+      "industry": 1,
+      "views": 0
+    },
+    "sectionNotes": {
+      "news": "3/10：仅收录已读正文且能核实北京时间今日新发布或新进展的内容；旧财报、匿名传闻与日期矛盾候选未补位。",
+      "trends": "2/10：两项今日可核实的产品/开发工具进展；需求、买方、门槛和验证步骤分别说明，商业机会均为假设。",
+      "industry": "1/10：未核实足够当天产业案例；末尾仅保留11月11日IBM近期背景，标明日期与路线图性质，不冒充今日交付。",
+      "views": "0/10：检索指定八人，未取得足够新且可核实的本人原始发言。吴恩达文章正文403；Baron会议官网尚未提供可核实完整录影。媒体转述与公司公告未替代本人观点；不代表八人没有发言。"
+    },
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-297d040c83844a9563327340b370c24e",
+        "status": "本期引用·已读取",
+        "note": "本轮取得正文；部分后续重复打开失败，不据此否定先前已读内容。"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+        "status": "本期引用·已读取",
+        "note": "本轮取得正文；部分后续重复打开失败，不据此否定先前已读内容。"
+      },
+      {
+        "name": "Google",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+        "status": "本期引用·已读取",
+        "note": "本轮取得正文；部分后续重复打开失败，不据此否定先前已读内容。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+        "status": "本期引用·已读取",
+        "note": "本轮取得正文；部分后续重复打开失败，不据此否定先前已读内容。"
+      },
+      {
+        "name": "AWS工程文章",
+        "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+        "status": "本期引用·已读取",
+        "note": "本轮取得正文；部分后续重复打开失败，不据此否定先前已读内容。"
+      },
+      {
+        "name": "IBM",
+        "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+        "status": "本期引用·已读取",
+        "note": "公告原文；仅作明确日期近期背景。"
+      },
+      {
+        "name": "LLM项目",
+        "url": "https://github.com/simonw/llm/releases/tag/0.37.2",
+        "status": "本期引用·已读取",
+        "note": "本轮取得正文；部分后续重复打开失败，不据此否定先前已读内容。"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "FT",
+        "url": "https://www.ft.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "纽约时报",
+        "url": "https://www.nytimes.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "华盛顿邮报",
+        "url": "https://www.washingtonpost.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "卫报",
+        "url": "https://www.theguardian.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "经济学人",
+        "url": "https://www.economist.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "澎湃",
+        "url": "https://www.thepaper.cn/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/",
+        "status": "已检索·未引用",
+        "note": "本轮定向搜索；未取得满足日期与核实条件的可引用正文，搜索结果不等于阅读全文。"
+      },
+      {
+        "name": "Barron's",
+        "url": "https://www.barrons.com/articles/ibm-quantum-computing-chip-a1e52cfe",
+        "status": "部分可读·未引用",
+        "note": "仅标题及开头可读，未取得付费全文；不据此补写细节。"
+      },
+      {
+        "name": "Andrew Ng",
+        "url": "https://www.deeplearning.ai/the-batch/tag/letters/",
+        "status": "原文失败·未引用",
+        "note": "写作目录可读；11月6日文章原始链接返回403。"
+      },
+      {
+        "name": "Baron Capital",
+        "url": "https://www.baroncapitalgroup.com/conference",
+        "status": "已读取·未引用",
+        "note": "会议官网未提供本轮可核实完整录影。"
+      },
+      {
+        "name": "Benedict Evans",
+        "url": "https://www.ben-evans.com/",
+        "status": "常规清单·未检查",
+        "note": "本轮未直接检查该站原文；不沿用往期成功或失败结论。"
+      },
+      {
+        "name": "Stratechery",
+        "url": "https://stratechery.com/",
+        "status": "常规清单·未检查",
+        "note": "本轮未直接检查该站原文；不沿用往期成功或失败结论。"
+      },
+      {
+        "name": "One Useful Thing",
+        "url": "https://www.oneusefulthing.org/",
+        "status": "常规清单·未检查",
+        "note": "本轮未直接检查该站原文；不沿用往期成功或失败结论。"
+      },
+      {
+        "name": "Import AI",
+        "url": "https://importai.substack.com/",
+        "status": "常规清单·未检查",
+        "note": "本轮未直接检查该站原文；不沿用往期成功或失败结论。"
+      },
+      {
+        "name": "WIRED",
+        "url": "https://www.wired.com/",
+        "status": "常规清单·未检查",
+        "note": "本轮未直接检查该站原文；不沿用往期成功或失败结论。"
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/",
+        "status": "常规清单·未检查",
+        "note": "本轮未直接检查该站原文；不沿用往期成功或失败结论。"
+      },
+      {
+        "name": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/",
+        "status": "常规清单·未检查",
+        "note": "本轮未直接检查该站原文；不沿用往期成功或失败结论。"
+      },
+      {
+        "name": "游戏葡萄",
+        "url": "https://youxiputao.com/",
+        "status": "常规清单·未检查",
+        "note": "本轮未直接检查该站原文；不沿用往期成功或失败结论。"
+      },
+      {
+        "name": "晚点",
+        "url": "https://www.latepost.com/",
+        "status": "常规清单·未检查",
+        "note": "本轮未直接检查该站原文；不沿用往期成功或失败结论。"
+      },
+      {
+        "name": "X/Twitter",
+        "url": "https://x.com/",
+        "status": "常规清单·未检查",
+        "note": "本轮未直接检查该站原文；不沿用往期成功或失败结论。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/",
+        "status": "常规清单·未检查",
+        "note": "本轮未直接检查该站原文；不沿用往期成功或失败结论。"
+      },
+      {
+        "name": "36氪",
+        "url": "https://www.36kr.com/",
+        "status": "已检索·未引用",
+        "note": "米哈游定向检索出现旧分析；未据此采用企业控制关系。"
+      },
+      {
+        "name": "中国人民银行",
+        "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026111116292271519/index.html",
+        "status": "市场引用·已读取",
+        "note": "政策或行情正文已核实，统计范围差异见市场卡片。"
+      },
+      {
+        "name": "新华财经",
+        "url": "https://www.cnfin.com/hg-lb/detail/20261111/4494191_1.html",
+        "status": "市场引用·已读取",
+        "note": "政策或行情正文已核实，统计范围差异见市场卡片。"
+      },
+      {
+        "name": "21世纪经济报道",
+        "url": "https://finance.eastmoney.com/a/202611113928366387.html",
+        "status": "市场引用·已读取",
+        "note": "政策或行情正文已核实，统计范围差异见市场卡片。"
+      },
+      {
+        "name": "金融界",
+        "url": "https://m.jrj.com.cn/madapter/finance/2026/11/11151659103604.shtml",
+        "status": "市场引用·已读取",
+        "note": "政策或行情正文已核实，统计范围差异见市场卡片。"
+      },
+      {
+        "name": "粤开证券",
+        "url": "https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/lastest/rptid/847727240701/index.phtml",
+        "status": "市场引用·已读取",
+        "note": "政策或行情正文已核实，统计范围差异见市场卡片。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "吴恩达11月6日文章",
+        "reason": "原始目录可读，正文访问403；不从标题推导观点。"
+      },
+      {
+        "item": "马斯克机器人租赁与Cybertruck调整",
+        "reason": "发现媒体转述，但本轮未读取本人原帖/会议原始录影，不纳入人物观点。"
+      },
+      {
+        "item": "米哈游与三位创始人",
+        "reason": "检索命中旧捐赠与二手分析，未取得今日已核实企业新进展；不推断股权或控制关系。"
+      },
+      {
+        "item": "Toyota Scion KEI、DeepMind Signal、鲑鱼激光除虱",
+        "reason": "事件日期较早或缺少当日实质更新证据，不以新检索日期替代事件日期。"
+      },
+      {
+        "item": "部分A股晨报汇总",
+        "reason": "页面早晨时间与当天收盘内容不一致，未采用。"
+      },
+      {
+        "item": "匿名OpenAI收入及人事传闻",
+        "reason": "缺乏可核实原始证据，未采用。"
+      }
+    ],
+    "researchPlan": [
+      "本轮实际执行：国际综合媒体、中文财经媒体、科技媒体和地区媒体定向检索；只有读到相关正文的页面才能作为引用。未发现可用结果不等于媒体没有报道。",
+      "检索范围与引用分开：来源列表的“已检索未引用”不代表已读全文；“常规清单·未检查”不代表本轮访问过。",
+      "下一轮优先补足非AI科技、游戏及亚洲、非洲、拉美产业原始资料；逐项核实发布时间与实质进展，不跨栏目拆分同一事件凑数。",
+      "人物继续查找八位重点对象的原始文章、完整访谈或认证账号原帖；不以社交镜像和公司公关文替代本人观点。",
+      "市场继续验证成交、上涨家数、成长相对强度与券商银行保险共振，补齐资金指标和风格数据，保留统计口径。"
+    ],
+    "regionalCoverage": {
+      "北美": "引用Google、AWS、LLM修复和AP；IBM作为明确日期背景。",
+      "欧洲": "IBM合作链涉及欧洲企业；未取得独立当天欧洲产业案例。",
+      "东亚": "完成中国政策及市场资料核验；米哈游与Nikkei定向检索未取得适用新正文。",
+      "东南亚": "尝试CNA定向检索，未取得独立可用当日产业案例。",
+      "南亚": "地区覆盖未完成，未收入案例。",
+      "中东": "尝试Al Jazeera定向检索，无适用已核实正文。",
+      "非洲": "尝试TechCabal定向检索，无适用已核实正文。",
+      "拉美": "未完成当地独立来源检索，留缺。"
+    },
+    "commitPrivacy": "已检查本轮市场提交元数据，作者邮箱与git_author_email均返回null，无法确认noreply；未修改权限或历史。"
+  }
+}
