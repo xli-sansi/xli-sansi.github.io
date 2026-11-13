@@ -1,0 +1,401 @@
+{
+  "date": "2026-11-13",
+  "updatedAt": "2026-11-13T08:23:22.000+08:00",
+  "news": [
+    {
+      "id": "20261113-nvidia",
+      "title": "英伟达领导层交接，最新收盘下跌4.3%",
+      "body": "英伟达11月12日公告：黄仁勋辞去总裁、首席执行官及董事职务，即时生效；Colette Kress担任临时CEO并继续任CFO，Harvey C. Jones出任董事长。11月12日美股收盘下跌4.3%（北京时间13日）。",
+      "detail": "公告称将从内外部寻找正式CEO，现有运营及产品路线图继续推进，11月17日业绩安排不变。这些是公司声明，仍需后续经营结果验证。今天新增的是完整美股收盘反应；人事公告发生于昨日，日期不混用。观察重点是交接、客户与供应链执行，不依据未证实动机推断业务受损。",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx",
+      "org": "英伟达公告；The Guardian（仅收盘表现）",
+      "date": "公告2026-11-12；收盘北京时间2026-11-13；卫报更新北京时间06:05",
+      "archiveDate": "2026-11-13",
+      "kind": "公司公告·当日市场进展",
+      "sources": [
+        {
+          "name": "The Guardian：最新收盘表现",
+          "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns"
+        }
+      ]
+    },
+    {
+      "id": "20261113-microsoft",
+      "title": "微软协作服务出现故障，企业AI连接也受波及",
+      "body": "路透社报道，美国用户的Outlook、Microsoft 365及Teams出现访问故障。微软暂停部署、转移流量并重启服务器；报道称OpenAI和Anthropic的微软连接功能也受影响。",
+      "detail": "对依赖邮箱、文档和会议系统的AI工作流，底层服务可用性同样重要。企业可检查任务重试和人工接管是否有效。本文仅确认报道时的故障及处理措施，截至本轮未核实最终恢复时间，不表示服务当前仍然全面不可用。",
+      "url": "https://www.investing.com/news/stock-market-news/microsoft-365-outlook-down-for-thousands-of-us-users-downdetector-shows-5023037",
+      "org": "Reuters／Investing.com转载",
+      "date": "发布2026-11-12 14:26 ET，更新14:30 ET；北京时间11月13日03:30",
+      "archiveDate": "2026-11-13",
+      "kind": "媒体报道·服务可靠性",
+      "sources": []
+    },
+    {
+      "id": "20261113-google",
+      "title": "Google将Hydrogen模型用于搜索AI模式",
+      "body": "Google宣布以Gemini 4 Hydrogen升级搜索AI Mode，并用于更复杂的AI概览问题。公司强调多步骤查询、关联信息检索和更丰富的结果展示。",
+      "detail": "The Verge于北京时间11月13日05:55报道这项更新。改进效果主要来自Google说明，尚不能视为独立测试结论。用户可用相同复杂问题比较答案、来源链接及遗漏，再判断是否提高检索效率；具体地区和账户可用性以产品实际显示为准。",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "org": "Google；The Verge",
+      "date": "官方页面2026-11-12；媒体发布2026-11-12 21:55 UTC＝北京时间11月13日05:55",
+      "archiveDate": "2026-11-13",
+      "kind": "产品公告·能力待独立验证",
+      "sources": [
+        {
+          "name": "The Verge报道",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261113-brand-risk",
+      "title": "机会假设：品牌需要核查AI购物答案中的网站链接",
+      "body": "The Verge今日报道Podqi的AI购物检索研究：测试覆盖151个品牌、6795个回答，发现部分链接存在失效、冒充或假货风险。测试发生于2026年9月，不能当作当前各模型的实时风险排名。",
+      "detail": "需求证据来自该测试，研究方也经营品牌保护业务，需考虑商业立场。潜在买方是品牌方和跨境零售商；服务假设为维护官网清单、复核AI推荐链接并整理风险证据，而非保证销量增长。低成本验证：选一个获授权品牌，以10种购物问法测试三个模型，记录日期、原始链接、人工核验结果，再询问品牌是否愿意持续付费。门槛是误报、域名归属及持续复核成本；删除或投诉须由有权限方处理。",
+      "url": "https://podqi.com/research/ai-search-brand-risk",
+      "org": "Podqi原始研究；The Verge",
+      "date": "报道北京时间2026-11-13 01:00；测试数据2026年9月",
+      "archiveDate": "2026-11-13",
+      "kind": "研究事实·商业机会假设",
+      "sources": [
+        {
+          "name": "The Verge研究报道",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+        }
+      ]
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261113-cerebras",
+      "title": "挪威与芬兰算力链：Cerebras新增数据中心合同",
+      "body": "Cerebras季度披露称新增挪威、芬兰数据中心合同；累计签约容量700 gross MW，计划至2027年底交付。签约容量并不等于已经投运。同期GAAP收入2.108亿美元，同比增长55%。",
+      "detail": "产业链为专用计算系统与制造→电力、机房及云接入→模型推理客户，收入来源包括系统和云服务。公司提及Flex、Sanmina制造合作及未来OCI集成。壁垒是芯片与系统协同、机房交付和客户利用率；需追踪电力成本、实际投运与毛利，而非只看签约规模。中国对照：本轮未取得同口径单位算力成本或交付数据，不能据此宣称国内没有相似产业或北欧方案成本更低。",
+      "url": "https://investors.cerebras.ai/static-files/75dd17e1-c20c-4d0a-97f4-194f55f69f5a",
+      "org": "Cerebras季度业绩披露",
+      "date": "2026-11-12美股盘后发布；北京时间2026-11-13",
+      "archiveDate": "2026-11-13",
+      "kind": "企业披露·海外产业链分析",
+      "sources": [
+        {
+          "name": "官方业绩发布日期及盘后安排",
+          "url": "https://www.cerebras.ai/press-release/cerebras-systems-announces-date-of-third-quarter-2026-financial-results-3384934"
+        }
+      ]
+    }
+  ],
+  "views": [],
+  "audit": {
+    "counts": {
+      "news": 3,
+      "trends": 1,
+      "industry": 1,
+      "views": 0
+    },
+    "sectionNotes": {
+      "news": "3/10：仅采用已读取正文、可核实日期的当日报道或实质新进展；未用搜索摘要或昨日产品稿补数。",
+      "trends": "1/10：收录一项今日报道带来的可验证需求线索；原始测试为9月，已明确时间与商业立场。",
+      "industry": "1/10：收录今日披露的北欧算力合同，区分签约与投运；其他地区未取得足够可靠当日材料。",
+      "views": "0/10：八位重点人物未取得满足近七天、主题与原始发言要求的新内容。公司公告不作本人观点；检索不足不代表本人没有发言。"
+    },
+    "sources": [
+      {
+        "name": "英伟达",
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx",
+        "status": "已读取并引用",
+        "note": "本期卡片载明日期、事实与局限。"
+      },
+      {
+        "name": "Reuters／Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/microsoft-365-outlook-down-for-thousands-of-us-users-downdetector-shows-5023037",
+        "status": "已读取并引用",
+        "note": "本期卡片载明日期、事实与局限。"
+      },
+      {
+        "name": "Google",
+        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+        "status": "已读取并引用",
+        "note": "本期卡片载明日期、事实与局限。"
+      },
+      {
+        "name": "Podqi",
+        "url": "https://podqi.com/research/ai-search-brand-risk",
+        "status": "已读取并引用",
+        "note": "本期卡片载明日期、事实与局限。"
+      },
+      {
+        "name": "Cerebras",
+        "url": "https://investors.cerebras.ai/static-files/75dd17e1-c20c-4d0a-97f4-194f55f69f5a",
+        "status": "已读取并引用",
+        "note": "本期卡片载明日期、事实与局限。"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+        "status": "已读取并引用",
+        "note": "只引用最新收盘跌幅；其余人事事实依据公司公告。"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+        "status": "已读取并引用",
+        "note": "引用搜索更新及购物链接研究；GDC调查因原始数据冲突排除。"
+      },
+      {
+        "name": "NYT",
+        "url": "https://www.nytimes.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "FT",
+        "url": "https://www.ft.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/",
+        "status": "已实际检索，未引用",
+        "note": "本轮未获得满足时间与正文核实要求的可用条目；不宣称已读取付费全文或该来源不可用。"
+      },
+      {
+        "name": "澎湃",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34459119",
+        "status": "检索后读取失败",
+        "note": "本轮页面返回DisabledError，未引用正文。"
+      },
+      {
+        "name": "WIRED",
+        "url": "https://www.wired.com/",
+        "status": "已读取，未引用",
+        "note": "抽查内容日期未满足今日新信息要求。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/",
+        "status": "已读取，未引用",
+        "note": "本轮首页最新所见仍为11月11日，未重复。"
+      },
+      {
+        "name": "World Labs",
+        "url": "https://worldlabs.ai/blog",
+        "status": "已读取，未引用",
+        "note": "目录及产品页不足以确认北京时间今日发布及增量。"
+      },
+      {
+        "name": "Andrew Ng",
+        "url": "https://www.andrewng.org/writing/",
+        "status": "目录可读，文章读取失败",
+        "note": "最新所见目录11月6日；点击文章403，未编写观点。"
+      },
+      {
+        "name": "GDC",
+        "url": "https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/",
+        "status": "已读取，冲突排除",
+        "note": "与媒体所报比例不同，未拼接两个版本。"
+      },
+      {
+        "name": "X／Twitter",
+        "url": "https://x.com/",
+        "status": "检索线索未核实",
+        "note": "未获得可验证原帖，不采用第三方镜像；不声称本轮直接读取成功。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/",
+        "status": "常规清单·本轮未检查",
+        "note": "未将常规来源名录当作本轮采集或引用。"
+      },
+      {
+        "name": "Benedict Evans",
+        "url": "https://www.ben-evans.com/",
+        "status": "常规清单·本轮未检查",
+        "note": "未将常规来源名录当作本轮采集或引用。"
+      },
+      {
+        "name": "Stratechery",
+        "url": "https://stratechery.com/",
+        "status": "常规清单·本轮未检查",
+        "note": "未将常规来源名录当作本轮采集或引用。"
+      },
+      {
+        "name": "One Useful Thing",
+        "url": "https://www.oneusefulthing.org/",
+        "status": "常规清单·本轮未检查",
+        "note": "未将常规来源名录当作本轮采集或引用。"
+      },
+      {
+        "name": "Import AI",
+        "url": "https://importai.substack.com/",
+        "status": "常规清单·本轮未检查",
+        "note": "未将常规来源名录当作本轮采集或引用。"
+      },
+      {
+        "name": "游戏葡萄",
+        "url": "https://youxiputao.com/",
+        "status": "常规清单·本轮未检查",
+        "note": "未将常规来源名录当作本轮采集或引用。"
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/",
+        "status": "常规清单·本轮未检查",
+        "note": "未将常规来源名录当作本轮采集或引用。"
+      },
+      {
+        "name": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/",
+        "status": "常规清单·本轮未检查",
+        "note": "未将常规来源名录当作本轮采集或引用。"
+      },
+      {
+        "name": "21世纪经济报道；新华财经；金融界",
+        "url": "https://finance.eastmoney.com/a/202611123929452622.html",
+        "status": "已读取并引用于市场观察",
+        "note": "前一交易日事实及官方会议讲话；缺失数据见市场卡。"
+      },
+      {
+        "name": "上交所刊载证监会讲话",
+        "url": "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20261112_10837510.shtml",
+        "status": "已读取并引用于市场观察",
+        "note": "前一交易日事实及官方会议讲话；缺失数据见市场卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "GDC游戏行业调查",
+        "reason": "The Verge所报AI使用及裁员比例与链接的GDC原始页面不一致，未能消除版本差异，排除。"
+      },
+      {
+        "item": "World Labs Atlas",
+        "reason": "已读取产品页和博客目录，但未核实北京时间今日发布的具体时间及版本增量，不作今日新闻，也不冒充李飞飞本人观点。"
+      },
+      {
+        "item": "吴恩达近期文章",
+        "reason": "已读取写作目录，文章正文此次返回403，未据目录摘要编写观点。"
+      },
+      {
+        "item": "Hassabis访谈",
+        "reason": "检索发现的发布日期为11月5日前后，未确认符合11月7—13日窗口，未采用。"
+      },
+      {
+        "item": "米哈游、HoYoverse、Anuttacon及蔡浩宇/刘伟/罗宇皓相关企业",
+        "reason": "已定向检索，未获得符合今日时间窗口且可核实的新事件；不重复11月10日版本预告。"
+      },
+      {
+        "item": "X第三方镜像及未读取付费报道",
+        "reason": "不作原始发言或全文证据。"
+      }
+    ],
+    "researchPlan": [
+      "本期引用原文：新闻、趋势、产业卡列出已读取的原文或明确署名转载；转载不算独立验证。",
+      "本轮实际检索：国际综合、中文、科技媒体及八位重点人物、米哈游相关企业；来源条目分别说明正文、搜索线索或失败，不把未引用等同不可用。",
+      "常规清单：未检查的博客和社交平台另行标明；不沿用前期可用状态。",
+      "后续补核：World Labs发布时刻与版本增量、GDC调查版本差异、八位人物可读原始发言；不把待核内容填入卡片。",
+      "市场补核：银行/券商/保险/红利同口径行情，北向与主力资金，以及今日官方政策与公开市场操作；未取得前保留缺额。"
+    ],
+    "regionalCoverage": {
+      "北美": "主要引用公司公告和主流科技报道。",
+      "欧洲": "北欧数据中心合同由公司披露确认，未取得独立投运验证。",
+      "中国": "核实前一交易日行情和证监会讲话；米哈游相关未取得当日重大增量。",
+      "东亚与东南亚": "实际检索Nikkei、CNA，未取得符合当日筛选的可引用全文。",
+      "南亚、中东、非洲": "检索Rest of World、Al Jazeera、TechCabal，未取得足够当日可引用材料。",
+      "拉美": "仅获得有限检索线索，未完成当地原文核实，不宣称完整覆盖。"
+    },
+    "commitPrivacy": "已复核本期市场提交元数据：工具返回author/committer邮箱及git_author_email为空，无法确认实际使用noreply；未修改权限或历史。"
+  }
+}
