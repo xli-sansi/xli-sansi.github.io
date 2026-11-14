@@ -1,0 +1,373 @@
+{
+  "date": "2026-11-14",
+  "updatedAt": "2026-11-14T08:57:25.000+08:00",
+  "news": [
+    {
+      "id": "20261114-faa",
+      "title": "美国空管通信故障触发全国起飞暂停",
+      "body": "路透社报道，美国FAA因空管通信故障于当地11月13日下午暂停全国出发航班，空中航班仍可降落。国土安全部称当时未见恶意攻击迹象，原因仍在调查。",
+      "detail": "北京时间11月14日发生的重要基础设施事件。尚未核实全面恢复时间，也没有充分证据认定由AI或微软故障造成。另据路透社后续更正性报道，美国国家气象局表示雷达正常，网上流传的是部分旧页面内容，不应把它拼接成全国雷达故障。",
+      "url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/",
+      "org": "Reuters",
+      "date": "事件2026-11-13美国下午；报道21:38 UTC＝北京时间11月14日05:38",
+      "archiveDate": "2026-11-14",
+      "kind": "事实·原因待调查",
+      "sources": [
+        {
+          "name": "气象局澄清报道",
+          "url": "https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/"
+        }
+      ]
+    },
+    {
+      "id": "20261114-mythos",
+      "title": "Anthropic因Mythos名称遭商标诉讼",
+      "body": "路透社报道，软件公司Mythos于11月13日在弗吉尼亚联邦法院起诉Anthropic，指其模型名称侵犯商标。Anthropic否认指控并表示应诉。",
+      "detail": "这是已提出的诉讼，不是法院认定侵权；本轮未取得法院判决。观察点是名称使用争议是否影响产品命名和上线安排，不据诉状推断模型能力或公司违法。",
+      "url": "https://www.reuters.com/legal/legalindustry/anthropic-sued-trademark-infringement-over-mythos-model-2026-11-13/",
+      "org": "Reuters",
+      "date": "诉讼2026-11-13；报道17:33 UTC＝北京时间11月14日01:33",
+      "archiveDate": "2026-11-14",
+      "kind": "诉讼事实·指控未裁定",
+      "sources": []
+    },
+    {
+      "id": "20261114-social-warning",
+      "title": "社交平台警示标签规定遭行业组织挑战",
+      "body": "NetChoice在纽约提起诉讼，寻求阻止要求部分社交平台显示风险警示的州法，主张其侵犯言论自由。州总检察长办公室未立即评论，路透社于北京时间今天报道。",
+      "detail": "案件涉及平台界面、算法信息流及用户提示。诉讼请求不等于法律已被暂停，行业组织的立场也不是法院结论。本轮未取得裁定，后续应追踪法院是否发布禁令。",
+      "url": "https://www.reuters.com/business/media-telecom/new-york-sued-over-law-requiring-social-media-warning-label-2026-11-14/",
+      "org": "Reuters",
+      "date": "诉讼2026-11-13美国当地；报道2026-11-14 00:09 UTC＝北京时间08:09",
+      "archiveDate": "2026-11-14",
+      "kind": "监管争议·诉讼未裁定",
+      "sources": []
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261114-maps",
+      "title": "机会假设：让项目位置数据变成可维护的交互地图",
+      "body": "Simon Willison发布datasette-cluster-map 0.19及datasette-leaflet 0.3更新，修复地图瓦片请求的来源头问题并改善兼容性。发布说明已读取，说明此类地图工具的持续维护需求是真实的。",
+      "detail": "商业假设：多项目设计团队、物业运营方可能需要地点筛选、项目资料与维护记录的地图入口；发布本身不证明这些客户愿付费。可用公开地址制作20条记录的小样，测试查找时间并访谈三位潜在使用者。门槛是地址质量、权限、更新责任与地图服务条件；不能把免费软件理解为所有地图服务无限免费。只使用获授权数据，验证通过后再考虑收费。",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.19",
+      "org": "Simon Willison；项目发布说明",
+      "date": "GitHub发布页2026-11-13 23:02；配套版本同日22:30（UTC，对应北京时间11月14日）",
+      "archiveDate": "2026-11-14",
+      "kind": "产品更新事实·需求待验证",
+      "sources": [
+        {
+          "name": "配套地图依赖修复",
+          "url": "https://github.com/simonw/datasette-leaflet/releases/tag/0.3"
+        },
+        {
+          "name": "作者发布说明",
+          "url": "https://simonwillison.net/"
+        }
+      ]
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261114-debugging",
+      "title": "近期背景｜德国嵌入式调试工具产业链",
+      "body": "西门子11月10日宣布签约收购Lauterbach，计划把芯片硬件验证与嵌入式软件调试、跟踪工具结合。交易预计2027年上半年完成，仍须满足审批等条件，不能写成已经完成。",
+      "detail": "产品面向芯片与嵌入式系统开发团队：上游连接芯片架构与验证环境，下游服务汽车、通信等设备开发；以专用调试设备和软件工具提供价值。编辑分析：壁垒在兼容性、可靠性及工程工作流积累，整合能否缩短调试周期仍待验证。中国对照：官方材料明确列有中国分支，不能称中国没有这类服务；本轮未取得国产同类工具的同口径比较。今天缺少合格海外新案例，故仅保留这一项11月10日背景，原始日期不改写。",
+      "url": "https://press.siemens.com/global/en/pressrelease/siemens-expand-portfolio-semiconductor-design-and-verification-planned-acquisition",
+      "org": "Siemens官方公告",
+      "date": "原始发布2026-11-10；近期背景，非11月14日新闻",
+      "archiveDate": "2026-11-14",
+      "kind": "明确旧背景·产业链分析",
+      "sources": []
+    }
+  ],
+  "views": [],
+  "audit": {
+    "counts": {
+      "news": 3,
+      "trends": 1,
+      "industry": 1,
+      "views": 0
+    },
+    "sectionNotes": {
+      "news": "3/10：采用北京时间今日可核实报道；未用匿名爆料、未读全文及昨日产品发布凑数。",
+      "trends": "1/10：新发布工具提供维护需求线索，潜在买家与收费是待验证假设。",
+      "industry": "1/10：未取得合格当日海外新案例；仅在末尾保留11月10日德国调试工具背景，明确日期及未交割状态。",
+      "views": "0/10：八位重点人物定向检索未取得合格近七日原始发言。吴恩达11月13日新文章目录可读但正文403；不能据标题编写观点。"
+    },
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/",
+        "status": "已读取并引用",
+        "note": "日期和局限见对应卡片；背景单独注明。"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/legal/legalindustry/anthropic-sued-trademark-infringement-over-mythos-model-2026-11-13/",
+        "status": "已读取并引用",
+        "note": "日期和局限见对应卡片；背景单独注明。"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/media-telecom/new-york-sued-over-law-requiring-social-media-warning-label-2026-11-14/",
+        "status": "已读取并引用",
+        "note": "日期和局限见对应卡片；背景单独注明。"
+      },
+      {
+        "name": "Simon Willison；项目发布说明",
+        "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.19",
+        "status": "已读取并引用",
+        "note": "日期和局限见对应卡片；背景单独注明。"
+      },
+      {
+        "name": "Siemens官方公告",
+        "url": "https://press.siemens.com/global/en/pressrelease/siemens-expand-portfolio-semiconductor-design-and-verification-planned-acquisition",
+        "status": "已读取并引用",
+        "note": "日期和局限见对应卡片；背景单独注明。"
+      },
+      {
+        "name": "智通财经；每日经济新闻；Investing.com",
+        "url": "https://cn.investing.com/news/stock-market-news/article-3666464",
+        "status": "已读取并引用",
+        "note": "日期和局限见对应卡片；背景单独注明。"
+      },
+      {
+        "name": "新华财经转载央行报告；国家发改委、国家能源局",
+        "url": "https://www.cnfin.com/jrjfb-lb/detail/20261113/4495483_1.html",
+        "status": "已读取并引用",
+        "note": "日期和局限见对应卡片；背景单独注明。"
+      },
+      {
+        "name": "NYT",
+        "url": "https://www.nytimes.com/",
+        "status": "已检索·访问限制",
+        "note": "本轮搜索工具报告robots.txt限制，未使用未读全文。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/",
+        "status": "已检索·访问限制",
+        "note": "本轮搜索工具报告robots.txt限制，未使用未读全文。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/",
+        "status": "已检索·访问限制",
+        "note": "本轮搜索工具报告robots.txt限制，未使用未读全文。"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/",
+        "status": "已检索·访问限制",
+        "note": "本轮搜索工具报告robots.txt限制，未使用未读全文。"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "FT",
+        "url": "https://www.ft.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/tech/index.html",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "CNA",
+        "url": "https://www.channelnewsasia.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "TechCabal",
+        "url": "https://techcabal.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/",
+        "status": "已实际检索·未引用",
+        "note": "未取得满足当日筛选及全文核实条件的入选条目；不代表该媒体永久不可用。"
+      },
+      {
+        "name": "澎湃新闻转载",
+        "url": "https://finance.eastmoney.com/a/202611133930671985.html",
+        "status": "读取失败",
+        "note": "DisabledError；未以摘要中的涨跌家数覆盖可读来源口径。"
+      },
+      {
+        "name": "Semiconductor Engineering",
+        "url": "https://semiengineering.com/chip-industry-week-in-review-164/",
+        "status": "读取失败",
+        "note": "403；产业案例转向官方核实，未引用周报正文。"
+      },
+      {
+        "name": "Andrew Ng",
+        "url": "https://www.andrewng.org/writing/",
+        "status": "目录可读·正文失败",
+        "note": "已发现11月13日新文章，正文403，未冒充已读。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/",
+        "status": "已读取并引用",
+        "note": "并打开两个GitHub正式发布页核实改动。"
+      },
+      {
+        "name": "Reuters：气象局澄清",
+        "url": "https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/",
+        "status": "已读取并引用",
+        "note": "核实雷达正常与旧页面流传，避免关联错误。"
+      },
+      {
+        "name": "X/Twitter",
+        "url": "https://x.com/",
+        "status": "常规清单·本轮未直接检查",
+        "note": "未将来源名录计作本轮读取；不采用社交镜像。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/",
+        "status": "常规清单·本轮未直接检查",
+        "note": "未将来源名录计作本轮读取；不采用社交镜像。"
+      },
+      {
+        "name": "Benedict Evans",
+        "url": "https://www.ben-evans.com/",
+        "status": "常规清单·本轮未直接检查",
+        "note": "未将来源名录计作本轮读取；不采用社交镜像。"
+      },
+      {
+        "name": "Stratechery",
+        "url": "https://stratechery.com/",
+        "status": "常规清单·本轮未直接检查",
+        "note": "未将来源名录计作本轮读取；不采用社交镜像。"
+      },
+      {
+        "name": "One Useful Thing",
+        "url": "https://www.oneusefulthing.org/",
+        "status": "常规清单·本轮未直接检查",
+        "note": "未将来源名录计作本轮读取；不采用社交镜像。"
+      },
+      {
+        "name": "Import AI",
+        "url": "https://importai.substack.com/",
+        "status": "常规清单·本轮未直接检查",
+        "note": "未将来源名录计作本轮读取；不采用社交镜像。"
+      },
+      {
+        "name": "游戏葡萄",
+        "url": "https://youxiputao.com/",
+        "status": "常规清单·本轮未直接检查",
+        "note": "未将来源名录计作本轮读取；不采用社交镜像。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "吴恩达11月13日文章",
+        "reason": "本人写作目录可读；正文charonhub返回403，官网替代路径亦不可读。"
+      },
+      {
+        "item": "黄仁勋相关匿名消息、Samsung／Modine谈判",
+        "reason": "涉及匿名消息或未确认交易，不按已证实事实收录；前一期人事公告不重复。"
+      },
+      {
+        "item": "ChatGPT Wallet及Uber数据泄露报道",
+        "reason": "已发现相关报道；Wallet正文已读但发布时间为北京时间11月13日23:43，未获今日实质增量；Uber报道仅检索线索且早于今日。不填今日新闻。"
+      },
+      {
+        "item": "米哈游、HoYoverse、Anuttacon及三位创始人",
+        "reason": "已定向检索，返回多为旧资料；部分转载企业变更日期互相矛盾，未核实不采用。"
+      },
+      {
+        "item": "半导体行业周报",
+        "reason": "Semiconductor Engineering正文403；不能据摘要采写全部产业案例。"
+      }
+    ],
+    "researchPlan": [
+      "实际检索国际综合媒体、中文媒体、科技媒体、八位重点人物和米哈游相关企业；逐项记录结果，未把名录当采集。",
+      "本期引用原文与市场来源均提供卡片链接；转载署名保留，不作为独立多源。",
+      "常规清单但本轮未检查的平台、博客单独标明；失败不沿用昨日成功状态。",
+      "后续补核吴恩达全文、人物原始公开发言及非欧美当地产业资料；保留缺额，不以旧闻替换当日新闻。",
+      "周末市场延续前一交易日复盘；关注未来1—5个交易日广度、成长、金融与成交是否共同改善。"
+    ],
+    "regionalCoverage": {
+      "中国": "市场行情及官方储能文件、央行数据；游戏企业未取得当日可靠增量。",
+      "北美": "今日主要事件来自路透社；明确诉讼与待查原因。",
+      "欧洲": "德国工具产业一项明确日期背景。",
+      "东亚东南亚": "检索Nikkei及CNA，Nikkei受robots限制；无合格当日原文入选。",
+      "非洲南亚中东": "检索TechCabal、Rest of World、Al Jazeera，未取得合格当日产业全文；不把聚合页当本地核实。",
+      "拉美": "本轮未完成当地原文覆盖。"
+    },
+    "commitPrivacy": "已复核本期市场提交：工具返回author邮箱及git_author_email为空，不能确认noreply；未修改权限或重写历史。"
+  }
+}
