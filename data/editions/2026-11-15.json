@@ -1,0 +1,274 @@
+{
+  "date": "2026-11-15",
+  "updatedAt": "2026-11-15T08:55:29.000+08:00",
+  "news": [
+    {
+      "id": "20261115-starship",
+      "title": "星舰上面级首次完成轨道返回塔架捕获",
+      "body": "北京时间11月15日清晨，星舰上面级完成约22小时、14圈轨道飞行后返回得州，被发射塔机械臂捕获。路透社报道确认这一新进展。",
+      "detail": "同次任务的Super Heavy助推器未成功回收，所以不能称整套系统已实现双级回收或常态化快速复飞。工程演示与已验证的低成本商业运营仍有距离。",
+      "url": "https://www.investing.com/news/world-news/spacexs-starship-aces-first-return-to-texas-5027522",
+      "org": "Reuters；The Verge",
+      "date": "事件美国11月14日／北京11月15日；Reuters 11月14日21:40 UTC（北京15日05:40）",
+      "archiveDate": "2026-11-15",
+      "kind": "事实·航天试验",
+      "sources": [
+        {
+          "name": "The Verge现场视频报道",
+          "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
+        }
+      ]
+    },
+    {
+      "id": "20261115-faa",
+      "title": "美国航空故障调查指向升级中的路由器，原因未定",
+      "body": "美国官员在周六记者会上称，通信升级期间安装的路由器可能触发故障，仍在区分设备缺陷与安装、操作错误。相较昨日，仅报告停飞的阶段已有调查进展。",
+      "detail": "这是官员初步说明，不是最终事故结论。FAA称系统恢复稳定，航班恢复仍需时间；NPR报道其负责人表示尚无恶意攻击或AI相关证据。不能据此认定承包商法律责任，亦不能把恢复预期写成已经完成。",
+      "url": "https://www.irishtimes.com/world/us/2026/11/14/us-air-travel-slowly-recovers-after-longest-nationwide-shutdown-since-2001/",
+      "org": "Reuters／The Irish Times；NPR／GPB",
+      "date": "报道2026-11-14 18:58爱尔兰时间＝北京时间11月15日02:58；故障始于美国11月13日",
+      "archiveDate": "2026-11-15",
+      "kind": "事实·调查进展",
+      "sources": [
+        {
+          "name": "NPR报道记者会",
+          "url": "https://www.gpb.org/news/2026/11/14/faa-blames-fridays-ground-stop-on-equipment-issue-during-telecoms-network-upgrade-0"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261115-resilience",
+      "title": "机会观察：旧系统迁移的验证服务",
+      "body": "当日航空故障调查把注意力重新引向旧系统升级过程。对普通团队更可验证的方向，是为中小企业提供迁移前依赖梳理、回退演练和告警检查，而非直接进入航空关键系统。",
+      "detail": "编辑假设：潜在客户为缺专职运维的企业与IT服务商，需求是降低切换停机风险；这不是已经证实的付费市场。门槛包括系统授权、责任界定、业务理解和恢复演练能力。低成本验证：访谈5家近期迁移客户，制作一份脱敏检查表，在隔离测试环境演示回退，记录客户愿付金额；若客户已有成熟工具且不愿付费，应放弃该假设。",
+      "url": "https://www.irishtimes.com/world/us/2026/11/14/us-air-travel-slowly-recovers-after-longest-nationwide-shutdown-since-2001/",
+      "org": "三思而行编辑分析；事件依据Reuters",
+      "date": "触发报道北京时间2026-11-15；假设同日",
+      "archiveDate": "2026-11-15",
+      "kind": "事实触发·待验证机会",
+      "sources": []
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261115-cybercab-background",
+      "title": "背景补充：Cybercab把车辆与持续服务绑定",
+      "body": "Tesla当前公开的Cybercab订阅协议要求车辆保持有效订阅，并限制在其支持的运行区域内使用；个人用途版本未经另行授权不得接入网约车、配送或租赁平台。",
+      "detail": "原始文件版本2026-11-12，并非今日发布；因当日海外产业案例不足，作为末尾背景保留。链条为整车及自动驾驶系统、连接与远程支持、授权维护、个人用户。订阅覆盖部分维护，充电、保险等仍由车主承担。商业模式是卖车加持续服务，门槛是监管批准、区域覆盖、网络和售后能力；不能据预订推断规模交付。中国对照：本轮未取得可比的个人购买无人驾驶车辆合同与同口径成本资料，不称“中国没有”，也不建议据此购车经营副业。",
+      "url": "https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale",
+      "org": "Tesla官方订阅协议（六页原文已读取）",
+      "date": "背景：协议版本2026-11-12；2026-11-15检查现行公开文件",
+      "archiveDate": "2026-11-15",
+      "kind": "背景·商业模式与边界",
+      "sources": []
+    }
+  ],
+  "views": [],
+  "audit": {
+    "counts": {
+      "news": 2,
+      "trends": 1,
+      "industry": 1,
+      "views": 0
+    },
+    "sectionNotes": {
+      "news": "2/10：只收北京时间今日已核实的星舰回收与航空调查进展；排除昨日消息与无法读取正文的线索。",
+      "trends": "1/10：基于当日新进展提出一个可检验需求假设；未把旧融资或工具发布改写成今日机会。",
+      "industry": "1/10：未取得足够当日产业链材料；唯一一条为明确标注11月12日版本的Tesla合同背景，置于末尾。",
+      "views": "0/10：八人检索未获得足够可读取、可核实且不重复的近七天原始发言。吴恩达11月13日文章入口可读，但正文403；马斯克订阅观点只有媒体转述，未取得本人原帖。不代表这些人没有发言。"
+    },
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.investing.com/news/world-news/spacexs-starship-aces-first-return-to-texas-5027522",
+        "status": "本期引用原文",
+        "note": "星舰稿经Investing.com阅读全文；航空稿经The Irish Times读取。均属转载，不作两家独立证据。Reuters直链读取失败。"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+        "status": "本期引用原文",
+        "note": "搜索读取失败后直接公开HTTP读取成功；21:44 UTC发布。"
+      },
+      {
+        "name": "NPR／GPB",
+        "url": "https://www.gpb.org/news/2026/11/14/faa-blames-fridays-ground-stop-on-equipment-issue-during-telecoms-network-upgrade-0",
+        "status": "本期引用原文",
+        "note": "记者会报道可读，用于初步原因与证据边界。"
+      },
+      {
+        "name": "Tesla",
+        "url": "https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale",
+        "status": "本期引用原文",
+        "note": "直接取得六页官方PDF并提取正文；版本11月12日，作为背景。"
+      },
+      {
+        "name": "证监会",
+        "url": "https://www.csrc.gov.cn/csrc/c106311/c7670983/content.shtml",
+        "status": "本期引用原文",
+        "note": "搜索打开失败后直接公开HTTP读取讲话全文；用于市场观察。"
+      },
+      {
+        "name": "财新",
+        "url": "https://finance.caixin.com/2026-11-14/102504948.html",
+        "status": "本期引用原文",
+        "note": "只使用可见公开段落；不宣称读取付费全文。"
+      },
+      {
+        "name": "NYT",
+        "url": "https://www.nytimes.com",
+        "status": "本轮实际检索",
+        "note": "已实际检索；robots限制，无可读候选正文。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com",
+        "status": "本轮实际检索",
+        "note": "已实际检索；robots限制。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com",
+        "status": "本轮实际检索",
+        "note": "已实际检索；robots限制。"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/business/technology/",
+        "status": "本轮实际检索",
+        "note": "检索取得目录线索，未用目录替代正文。"
+      },
+      {
+        "name": "Guardian",
+        "url": "https://www.theguardian.com/technology",
+        "status": "本轮实际检索",
+        "note": "实际检索；恢复报道日期早于今日窗口，未引用。"
+      },
+      {
+        "name": "FT",
+        "url": "https://www.ft.com",
+        "status": "本轮实际检索",
+        "note": "实际检索航空稿，结果提示订阅，未引用。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com",
+        "status": "本轮实际检索",
+        "note": "实际检索；未取得适合引用的完整新稿。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com",
+        "status": "本轮实际检索",
+        "note": "实际检索；旧报道和摘要不作为当日事实依据。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/df394c1b5a0f85e11194f9ff7db9ee6b",
+        "status": "本轮实际检索",
+        "note": "检索星舰稿，搜索打开失败；直接HTTP返回页面，本期主要采用Reuters与The Verge可读正文。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/news/103440721.html",
+        "status": "本轮实际检索",
+        "note": "检索命中吴清讲话，直接打开失败，改读官方原文。"
+      },
+      {
+        "name": "澎湃",
+        "url": "https://www.thepaper.cn",
+        "status": "本轮实际检索",
+        "note": "实际检索科技及游戏，主要结果较早。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com",
+        "status": "本轮实际检索",
+        "note": "实际检索，未获得达到日期和正文标准的候选。"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com",
+        "status": "本轮实际检索",
+        "note": "Cybercab稿可读；摘要额度有限，合同事实以Tesla原文为准。"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com",
+        "status": "本轮实际检索",
+        "note": "实际检索，没有采用合格当日结果。"
+      },
+      {
+        "name": "Simon Willison／Stratechery／Benedict Evans／One Useful Thing",
+        "url": "https://simonwillison.net/2026/nov/",
+        "status": "本轮实际检索",
+        "note": "联合检索；命中Simon较早发布，未改日期重用。"
+      },
+      {
+        "name": "Andrew Ng",
+        "url": "https://www.andrewng.org/writing",
+        "status": "本轮实际检索",
+        "note": "本人目录可读，11月13日文章正文403。"
+      },
+      {
+        "name": "X/Twitter",
+        "url": "https://x.com",
+        "status": "本轮实际检索",
+        "note": "尝试马斯克特定发言检索，未取得可核实原帖，不采用镜像。"
+      },
+      {
+        "name": "CNA／Nikkei Asia",
+        "url": "https://www.channelnewsasia.com",
+        "status": "本轮实际检索",
+        "note": "联合检索，CNA有旧日目录线索；Nikkei受robots限制。"
+      },
+      {
+        "name": "Rest of World／TechCabal／Al Jazeera",
+        "url": "https://restofworld.org",
+        "status": "本轮实际检索",
+        "note": "实际联合检索；未取得符合本期标准的当地新产业材料。"
+      },
+      {
+        "name": "Instagram／WIRED／MIT Technology Review／IEEE Spectrum／游戏葡萄／Import AI",
+        "url": "https://www.wired.com",
+        "status": "常规清单·本轮未逐站检查",
+        "note": "保留常规来源名单，不标为本轮已读取。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "吴恩达11月13日Agent Harness文章",
+        "reason": "本人目录确认标题日期，正文403，未用标题推测观点。"
+      },
+      {
+        "item": "Meta意大利罚款、微软恢复、博客旧发布",
+        "reason": "本轮线索主要属于北京时间11月14日或更早，未取得今日实质增量，不填入今日精选。"
+      },
+      {
+        "item": "黄仁勋相关政治/私人争议与匿名材料",
+        "reason": "未取得满足本期主题、时效和原始证据要求的材料，不采用传闻或社交镜像。"
+      },
+      {
+        "item": "米哈游及三位创始人相关企业",
+        "reason": "已检索，但没有核实到今日实质进展；旧文章及未经核实的人事、投资关系未收录。"
+      }
+    ],
+    "researchPlan": [
+      "按北京时间核对：今日窗口从11月14日16:00 UTC开始；先比较11月14日归档避免重复。",
+      "实际搜索国际综合媒体、中文财经媒体、科技媒体和博客；对有价值线索打开原文，失败使用可靠授权转载或直接公开文件，不绕过付费墙。",
+      "市场：周日无新收盘，保存11月13日行情真实日期，新增11月14日证监会讲话；未找到足够相似历史样本。",
+      "继续跟踪正式监管细则、周一市场广度和量能；航天关注双级回收与复飞验证，航空关注最终事故报告。",
+      "区域覆盖不均已披露；后续优先补充有原始文件支撑的非英美产业链案例，不以陈旧案例凑配额。"
+    ],
+    "regionalCoverage": {
+      "北美": "当日航天和通信基础设施进展；Tesla合同背景。",
+      "中国": "周末证监会原文与财经报道；米哈游未找到合格新进展。",
+      "欧洲": "检索媒体并采用爱尔兰媒体承载的Reuters稿，属于美国事件，不冒充欧洲产业案例。",
+      "东亚及东南亚": "尝试Nikkei Asia、CNA，未取得可采用的当日新案例。",
+      "南亚中东非洲拉美": "尝试Rest of World、TechCabal、Al Jazeera；结果不足，尚未完成当地原始材料覆盖。"
+    },
+    "commitPrivacy": "已检查本轮市场提交，GitHub接口作者邮箱为null，不能确认是否使用noreply；未修改权限或重写历史。"
+  }
+}
