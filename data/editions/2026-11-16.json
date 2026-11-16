@@ -1,0 +1,312 @@
+{
+  "date": "2026-11-16",
+  "updatedAt": "2026-11-16T09:01:28.000+08:00",
+  "news": [
+    {
+      "id": "20261116-vulcan",
+      "title": "Vulcan发射失败，40颗Amazon Leo卫星损失",
+      "body": "路透社11月15日美东下午报道，ULA的Vulcan火箭从佛罗里达发射后失败，所载40颗Amazon Leo卫星未能完成任务。ULA是波音与洛克希德·马丁的合资公司。",
+      "detail": "发射及报道换算北京时间均为11月16日。此事与昨日星舰回收属于不同任务。影响首先是这批卫星的部署，不能仅凭一次失败推算Amazon全部星座进度、最终损失金额或复飞日期；本期未取得最终事故报告，不推断具体部件责任。",
+      "url": "https://www.investing.com/news/stock-market-news/us-rocket-fails-after-launch-payload-of-amazon-internet-satellites-destroyed-5028094",
+      "org": "Reuters／Investing.com",
+      "date": "事件美国2026-11-15；报道11月15日15:25美东＝北京时间11月16日04:25",
+      "archiveDate": "2026-11-16",
+      "kind": "事实·航天与卫星互联网",
+      "sources": []
+    },
+    {
+      "id": "20261116-intel",
+      "title": "Intel遭股东起诉：争议集中于PC需求与库存披露",
+      "body": "路透社北京时间11月16日报道，股东在美国联邦法院提出拟议集体诉讼，指控Intel未及时披露PC销售放缓和库存积压对收入的影响。诉讼于美国11月13日提交。",
+      "detail": "这是原告指控，不是法院认定欺诈或已经判赔；报道时Intel尚未立即回应。编辑关注点是AI数据中心需求与传统PC业务可能分化，不能把行业总体AI热度直接等同于每家公司经营改善。本期未独立取得法院原始卷宗，事实表述限于可靠报道确认的诉讼与回应状态。",
+      "url": "https://www.investing.com/news/stock-market-news/intel-sued-by-shareholders-following-29-stock-plunge-5028171",
+      "org": "Reuters／Investing.com",
+      "date": "诉讼提交2026-11-13美国时间；报道11月15日18:04美东＝北京时间11月16日07:04",
+      "archiveDate": "2026-11-16",
+      "kind": "事实·诉讼指控与披露边界",
+      "sources": []
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261116-datasette",
+      "title": "需求信号：数据发布工具也需要权限回归检查",
+      "body": "Datasette 0.65.6发布安全修复：特定自定义路由与数据库名称不一致的配置下，下载权限检查存在问题。本次把相关检查统一到数据库名称。正式发布记录为11月15日23:18 UTC，即北京时间今天07:18。",
+      "detail": "编辑假设：中小企业或研究团队可能需要升级检查、权限清单和回归验证服务，而不仅是搭建数据看板。门槛是理解插件与访问控制，不能把所有部署都说成已泄露。低成本验证：仅在获授权的本地测试环境，用合成数据检查不同角色的页面与下载权限，升级后重复验证；再访谈3—5个实际维护者了解需求与预算。尚无本期证据证明付费规模或盈利；不对第三方系统做未授权测试。",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.65.6",
+      "org": "Datasette官方发布记录；三思而行编辑假设",
+      "date": "发布2026-11-15 23:18:17 UTC＝北京时间2026-11-16 07:18",
+      "archiveDate": "2026-11-16",
+      "kind": "一手更新·待验证服务需求",
+      "sources": [
+        {
+          "name": "作者说明",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette-2/"
+        }
+      ]
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261116-phoenix",
+      "title": "海外出版链条：让图书馆拥有电子书的Phoenix项目",
+      "body": "今日科技媒体关注Flaming Hydra的图书馆出版计划。其官网说明：项目拟使图书馆购买、下载、保存并长期持有电子书，计划于2026年冬季推出；不能当成已经规模运营。",
+      "detail": "这是当日报道带出的在筹项目背景，并非今日新成立：BackerKit所列筹资期为10月29日至11月27日。链条为作者保留作品权利、合作出版组织提供内容、图书馆采购与保存、读者使用；现有组织收入还包括读者订阅。潜在买方明确，但机构采购、授权范围、长期保存成本是需要验证的门槛。中国对照：本轮没有取得同口径合同、价格和借阅规则，不称中国没有类似服务。筹资目标不等于销售额，更不等于成熟商业模式。",
+      "url": "https://flaminghydra.com/about/",
+      "org": "Flaming Hydra官网；BackerKit；TechCrunch",
+      "date": "报道北京时间2026-11-16；筹资2026-10-29至11-27；官网计划冬季2026",
+      "archiveDate": "2026-11-16",
+      "kind": "在筹项目背景·产业链分析",
+      "sources": [
+        {
+          "name": "筹资日期记录",
+          "url": "https://www.backerkit.com/projects/thebrickhouse/return-of-the-human-internet-the-phoenix-by-flaming-hydra"
+        },
+        {
+          "name": "当日报道入口",
+          "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/"
+        }
+      ]
+    }
+  ],
+  "views": [],
+  "audit": {
+    "counts": {
+      "news": 2,
+      "trends": 1,
+      "industry": 1,
+      "views": 0
+    },
+    "sectionNotes": {
+      "news": "2/10：收录北京时间今日报道或发生的两项独立事件。昨日星舰、航空调查不重发；匿名爆料和未读付费全文排除。",
+      "trends": "1/10：今日开源安全修复提供可验证需求信号，商业可能性明确为假设；未找到足够独立且新鲜的其他机会。",
+      "industry": "1/10：本轮新研究的Phoenix案例仍在筹资，以真实起止日期标背景；没有把媒体今天报道写成项目今天成立。全球地区覆盖不足已记录。",
+      "views": "0/10：已检索八人，近七天原始发言不足。吴恩达文章正文403，李飞飞和Hassabis的X原页403，镜像不用；其他线索多为旧采访、公司公告或非本人材料。不表示本人没有发言。"
+    },
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/intel-sued-by-shareholders-following-29-stock-plunge-5028171",
+        "status": "本期引用原文",
+        "note": "Intel及Vulcan稿经Investing.com读取正文，均有本期日期；授权转载不算独立交叉证据。"
+      },
+      {
+        "name": "Datasette官方",
+        "url": "https://github.com/simonw/datasette/releases/tag/0.65.6",
+        "status": "本期引用原文",
+        "note": "读取发布说明，并检查GitHub原页UTC时间；用于趋势。"
+      },
+      {
+        "name": "Flaming Hydra",
+        "url": "https://flaminghydra.com/about/",
+        "status": "本期引用原文",
+        "note": "读取项目官网，计划性质与作者权利明确；不照搬其价值立场。"
+      },
+      {
+        "name": "BackerKit",
+        "url": "https://www.backerkit.com/projects/thebrickhouse/return-of-the-human-internet-the-phoenix-by-flaming-hydra",
+        "status": "本期引用原文",
+        "note": "读取项目筹资起止日期，未把筹资当收入。"
+      },
+      {
+        "name": "央视新闻／中新网",
+        "url": "https://www.chinanews.com/cj/2026/11-15/10732240.shtml",
+        "status": "本期引用原文",
+        "note": "读取11月15日外汇准备金率生效报道，用于市场。"
+      },
+      {
+        "name": "东方财富Choice",
+        "url": "https://fund.eastmoney.com/a/202611133930659580.html",
+        "status": "本期引用原文",
+        "note": "公开网页直接读取收盘与行业资金数据；标注三市及供应商统计口径。"
+      },
+      {
+        "name": "证券时报数据宝／21经济网",
+        "url": "https://www.21jingji.com/article/20261113/herald/4651212ec1bfba3dd3874b6c98d98398.html",
+        "status": "本期引用原文",
+        "note": "搜索打开失败后公开HTTP读取成功；确认765/4748及不含未开板新股口径。"
+      },
+      {
+        "name": "Investing.com指数历史数据",
+        "url": "https://cn.investing.com/indices/csi300-historical-data",
+        "status": "本期引用原文",
+        "note": "沪深300与科创50历史表均已读取。"
+      },
+      {
+        "name": "国新办通知／北京日报",
+        "url": "https://news.bjd.com.cn/2026/11/13/12029745.shtml",
+        "status": "本期引用原文",
+        "note": "公开HTTP读取采访通知，11月16日10时为未来安排。"
+      },
+      {
+        "name": "国家统计局",
+        "url": "https://www.stats.gov.cn/",
+        "status": "本期引用原文",
+        "note": "首页可读发布预告；日程表正文抽取不完整，不伪称读取已发布经济结果。"
+      },
+      {
+        "name": "NYT",
+        "url": "https://www.nytimes.com",
+        "status": "本轮实际检索",
+        "note": "实际定向检索，robots限制，未取得候选正文。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com",
+        "status": "本轮实际检索",
+        "note": "实际定向检索，robots限制。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com",
+        "status": "本轮实际检索",
+        "note": "实际定向检索，robots限制。"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/technology/the-switch/",
+        "status": "本轮实际检索",
+        "note": "检索目录与人物线索；未采用未读正文。"
+      },
+      {
+        "name": "Guardian",
+        "url": "https://www.theguardian.com/technology/all",
+        "status": "本轮实际检索",
+        "note": "检索科技目录，多为评论与旧事件，未引用。"
+      },
+      {
+        "name": "FT",
+        "url": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af",
+        "status": "本轮实际检索",
+        "note": "检索命中IPO稿，结果为订阅墙，不引用正文。"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com",
+        "status": "本轮实际检索",
+        "note": "实际联合检索，未取得可采用完整新稿。"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com",
+        "status": "本轮实际检索",
+        "note": "实际检索，目录、旧稿与匿名线索未引用。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com",
+        "status": "本轮实际检索",
+        "note": "实际检索，停飞相关主要为昨日背景，未引用。"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+        "status": "本轮实际检索",
+        "note": "当日报道页面可读；仅作为极短发现线索，产业事实主要取项目官网。"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+        "status": "本轮实际检索",
+        "note": "已检索，文章打开失败，未作为引用。"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com",
+        "status": "本轮实际检索",
+        "note": "实际联合检索，未取得合格新稿。"
+      },
+      {
+        "name": "澎湃／第一财经／财新",
+        "url": "https://www.thepaper.cn",
+        "status": "本轮实际检索",
+        "note": "已实际检索，主要结果为此前日期、目录，未借品牌代替当日正文。"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com",
+        "status": "本轮实际检索",
+        "note": "实际检索并打开直播预告；未取得更多当日可用科技全文。"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+        "status": "本轮实际检索",
+        "note": "首页及单篇可读，追溯官方发布说明后引用。"
+      },
+      {
+        "name": "Stratechery／Benedict Evans／One Useful Thing",
+        "url": "https://stratechery.com",
+        "status": "本轮实际检索",
+        "note": "实际联合检索，无合格当日新结果，未标全文可用。"
+      },
+      {
+        "name": "Andrew Ng",
+        "url": "https://www.andrewng.org/writing",
+        "status": "本轮实际检索",
+        "note": "目录可读；11月13日Agent Harness正文重新尝试仍403。"
+      },
+      {
+        "name": "X/Twitter",
+        "url": "https://x.com/drfeifei",
+        "status": "本轮实际检索",
+        "note": "李飞飞与Hassabis原账号页面403；马斯克定向检索未取得可核实原帖。"
+      },
+      {
+        "name": "CNA／Nikkei Asia",
+        "url": "https://www.channelnewsasia.com",
+        "status": "本轮实际检索",
+        "note": "实际联合检索，CNA为Reuters转载线索；Nikkei robots限制。"
+      },
+      {
+        "name": "Rest of World／TechCabal／Al Jazeera／SCMP",
+        "url": "https://restofworld.org",
+        "status": "本轮实际检索",
+        "note": "实际区域检索，未取得合格当地当日产业正文。"
+      },
+      {
+        "name": "Instagram／WIRED／MIT Technology Review／IEEE Spectrum／游戏葡萄／Import AI",
+        "url": "https://www.wired.com",
+        "status": "常规清单·本轮未逐站检查",
+        "note": "不把常规清单标成本轮已读取。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "八人社交镜像、SNL模仿片段",
+        "reason": "无法核实本人原帖；表演不是本人观点。"
+      },
+      {
+        "item": "黄仁勋复出、Apple眼镜等匿名消息",
+        "reason": "仅线索或匿名报道，未取得本期可采用的原始证据，不作为事实结论。"
+      },
+      {
+        "item": "昨日星舰回收、航空故障",
+        "reason": "此前已报道，未将重复报道伪装为当日新进展。"
+      },
+      {
+        "item": "米哈游、HoYoverse、Anuttacon及蔡浩宇/刘伟/罗宇皓",
+        "reason": "已检索，未核实到当天实质进展；旧人事和投资关联报道不收。"
+      },
+      {
+        "item": "同花顺11月13日收盘复盘",
+        "reason": "页面显示07:30却叙述当日收盘，日期时间矛盾；未用其行业精确百分比。"
+      }
+    ],
+    "researchPlan": [
+      "先读取main规则、两份manifest及11月15日两类归档，按北京时间11月16日窗口去重。",
+      "市场先行：五指数逐项核对，补充三市成交、可交易股票范围及供应商资金口径；官方经济发布预告不当作已公布数据。",
+      "国际综合媒体、中文财经媒体、科技媒体、博客均实际查询；打开可用正文，付费全文和社交镜像不引用。",
+      "人物以八人为限，原始发言未通过读取验证则少发；公司动态不移作人物观点。",
+      "下一步关注10时经济发布后的市场承接、Vulcan事故正式结论、Intel诉讼程序、数据工具升级验证及图书馆项目实际交付。"
+    ],
+    "regionalCoverage": {
+      "中国": "市场政策与数据；游戏相关未核实到新进展。",
+      "北美": "发射、芯片披露、数据工具、出版项目。",
+      "欧洲": "FT等实际检索，但没有采用合格当地产业新稿。",
+      "东亚东南亚": "CNA检索取得Reuters转载线索；Nikkei受限。",
+      "南亚中东非洲拉美": "实际尝试Rest of World、TechCabal、Al Jazeera等，主要为旧稿或美国事件；未完成当地原始材料覆盖，不冒充全球齐全。"
+    },
+    "commitPrivacy": "已复核本轮市场提交元数据，接口邮箱返回null，无法确认noreply；未更改权限或历史。"
+  }
+}
