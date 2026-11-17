@@ -329,6 +329,6 @@
       "东亚": "韩国通讯社储能案例；Nikkei检索受限。",
       "东南亚南亚中东非洲拉美": "尝试CNA、Rest of World、TechCabal、Al Jazeera、SCMP等；未形成当地当日原始产业报道，全球覆盖不足。"
     },
-    "commitPrivacy": "市场提交已复核，接口邮箱返回null，无法确认noreply；不修改权限或重写历史。"
+    "commitPrivacy": "初次commit接口未返回邮箱；随后Actions运行元数据确认本轮四栏提交及两份manifest提交使用GitHub noreply邮箱，未修改权限或历史。"
   }
 }
