@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-17",
+  "updatedAt": "2026-11-17T08:23:30.378+08:00",
+  "news": [
+    {
+      "id": "20261117-openai-case",
+      "title": "加州起诉OpenAI，要求法院审查智能体安全措施",
+      "body": "加州总检察长11月16日在旧金山高等法院起诉OpenAI，主张其模型测试与监控措施不足，并要求改变相关经营做法。美国当日上午报道换算北京时间已是11月17日。",
+      "detail": "起诉是程序事实，安全措施违法及风险程度仍属原告主张，不是法院判决。加州公告把此前Hugging Face事件作为诉讼背景；AP取得的公司回应称其已强化防护、发布调查材料并愿与监管沟通。双方表态不能代替独立技术审计。本条不涉及另案Abdulrahman Alfozan，不能把两个案件混为一谈。",
+      "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
+      "org": "加州司法部；AP",
+      "date": "起诉美国2026-11-16；当地报道11月16日上午＝北京11月17日",
+      "archiveDate": "2026-11-17",
+      "kind": "事实·诉讼及双方说法",
+      "sources": [
+        {
+          "name": "AP报道及OpenAI回应",
+          "url": "https://apnews.com/article/chatgpt-openai-hugging-face-ai-risk-1dd7be56134b4f09fb2fb974803edc69"
+        }
+      ]
+    },
+    {
+      "id": "20261117-child-safety",
+      "title": "OpenAI发布儿童保护图像检测工具",
+      "body": "OpenAI宣布向经审核的机构免费提供图像分类器，帮助发现潜在儿童性虐待材料，包括AI生成内容，并发布开发者指引及干预措施。检测结果是辅助人工审核的评分。",
+      "detail": "这是公司发布的产品与措施，不等于风险已消除。公司称在早期评估中可减少待审图片数量，但本期没有独立复现，不将其试验结果当作所有部署环境的保证。实际接入需要机构审核，并非任何人都能直接使用。",
+      "url": "https://openai.com/index/strengthening-online-child-safety/",
+      "org": "OpenAI官方",
+      "date": "官方日期美国2026-11-16；TechCrunch报道09:00 PST＝北京11月17日01:00",
+      "archiveDate": "2026-11-17",
+      "kind": "公司公告·使用边界",
+      "sources": [
+        {
+          "name": "报道时间核对",
+          "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
+        }
+      ]
+    },
+    {
+      "id": "20261117-m365",
+      "title": "Microsoft 365故障披露新的原因说明",
+      "body": "Caltech信息技术部门11月16日上午更新通知，转述微软将上周故障原因归结为网关软件潜在缺陷、负载增加和服务器容量下降共同触发的级联故障。新进展是原因说明，而非今天再次发生同样中断。",
+      "detail": "原故障发生在11月12日至13日。英国议会公开的11月16日声明稿亦记录微软称未见恶意活动迹象；稿件注明以实际发言为准，本期不把它称为已核对现场发言。仍需关注最终事故报告及容量、隔离和恢复机制；不把此次中断直接归因于AI攻击。",
+      "url": "https://www.imss.caltech.edu/news/m365-email-issue-12nov",
+      "org": "Caltech IMSS；英国议会公开文件",
+      "date": "故障11月12—13日；Caltech更新11月16日09:00当地时间（北京11月17日）",
+      "archiveDate": "2026-11-17",
+      "kind": "事实·事故原因更新",
+      "sources": [
+        {
+          "name": "英国议会公开声明稿",
+          "url": "https://commonsbusiness.parliament.uk/Document/109053/Pdf?subType=Standard"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261117-revenue-proof",
+      "title": "机会观察：科技企业更需要可验证的商业化材料",
+      "body": "第一财经今早转述中证报观察：赴港科技企业融资表现分化，订单、现金流及客户结构成为评价重点。它是媒体市场观察，并非一项新监管规定。",
+      "detail": "编辑假设：小型技术公司可能需要把产品演示转成客户可验证的案例、试点效果与交付材料；潜在买方是已有真实产品但缺少清晰客户表达的团队。低成本验证：访谈3家团队，选一个获授权的试点，整理前后效果、验收标准及成本，不编造客户或收入。门槛是懂业务、能核对数据并保护客户信息。报道并不能证明这类服务已形成付费市场，先验证需求再投入。",
+      "url": "https://www.yicai.com/brief/103442767.html",
+      "org": "第一财经／中证报；三思而行分析",
+      "date": "报道2026-11-17 07:44",
+      "archiveDate": "2026-11-17",
+      "kind": "当日观察·商业假设",
+      "sources": []
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261117-sdi-storage",
+      "title": "前日背景：韩国电池企业连接美国储能项目",
+      "body": "韩联社11月16日报道，Samsung SDI America与Jupiter Power签订三年、16GWh磷酸铁锂电池供货协议，拟从2029年开始交付，生产地为美国印第安纳州StarPlus Energy。不是今天的新合同，也不是已经交付。",
+      "detail": "本栏未找到足够可核实的当日独立案例，保留这一条前日背景。链条：材料与设备→电芯工厂→储能系统集成→电力储能项目开发运营商；电池企业收入来自供货，具体价格与利润未披露。门槛在量产一致性、认证、当地制造及项目交付，不是简单代购。中国对照：报道明确该市场长期有中国制造商优势，本例的差异在美国本地制造及供应链配置，绝不能说中国没有这类产业。合同承诺不等于未来产能和订单兑现。",
+      "url": "https://en.yna.co.kr/view/AEN20261116002300320",
+      "org": "韩联社（引公司公告）",
+      "date": "原始报道2026-11-16 09:33韩国时间；前日背景",
+      "archiveDate": "2026-11-17",
+      "kind": "背景·海外储能供应链",
+      "sources": []
+    }
+  ],
+  "views": [
+    {
+      "id": "20261117-altman-demand",
+      "title": "Altman：收入和需求仍支持AI行业",
+      "body": "彭博记者报道，Sam Altman在11月16日Semafor活动上表示，他认为收入和需求增长仍能支撑AI行业应对不确定性。这是其行业判断，不是已经验证的未来结果。",
+      "detail": "本条只使用Bloomberg Law公开可读导语中的现场发言，采用中文转述；订阅墙后的内容未读取，未引用。编辑解读：后续应看实际收入、客户续约、算力交付与资本开支，不能用管理者信心替代财务证据。未取得活动完整录像，因此不扩展为其完整论证。",
+      "url": "https://news.bloomberglaw.com/artificial-intelligence/altman-says-ai-industry-will-be-fine-after-huangs-ouster",
+      "org": "Bloomberg News记者现场报道·公开导语",
+      "date": "发言美国2026-11-16；报道17:51 UTC＝北京11月17日01:51",
+      "archiveDate": "2026-11-17",
+      "kind": "人物发言转述·局部可读",
+      "sources": []
+    }
+  ],
+  "audit": {
+    "counts": {
+      "news": 3,
+      "trends": 1,
+      "industry": 1,
+      "views": 1
+    },
+    "sectionNotes": {
+      "news": "3/10：仅收录可读材料支持的当日新报道或实质进展；不复发昨日发射失败与Intel诉讼，不靠匿名消息凑数。",
+      "trends": "1/10：本轮重新研究商业化验证需求，付费可能性标为假设。Anthropic披露期限调整未确认精确北京时间，不包装成今日发布。",
+      "industry": "1/10：未核实到足够当日案例，仅在末尾保留11月16日韩联社储能合同背景，明确2029年才计划交付。",
+      "views": "1/10：Altman仅转述已读公开导语。吴恩达正文403，其他七人未取得足够可核实的新原始内容；不表示本人没有发言。"
+    },
+    "sources": [
+      {
+        "name": "澎湃新闻",
+        "url": "https://m.thepaper.cn/newsDetail_forward_34489957",
+        "status": "本期引用原文",
+        "note": "正文已读；市场广度为Wind沪深及北交所，成交为沪深两市。"
+      },
+      {
+        "name": "东方财富Choice",
+        "url": "https://fund.eastmoney.com/a/202611163931755498.html",
+        "status": "本期引用原文",
+        "note": "正文已读，采用三市成交与行业资金口径；不引用其匿名人事线索。"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://cn.investing.com/indices/csi300-historical-data",
+        "status": "本期引用原文",
+        "note": "五指数历史页面均打开；用于核对11月16日行情。"
+      },
+      {
+        "name": "国家统计局",
+        "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965842.html",
+        "status": "本期引用原文",
+        "note": "工业、社零分项原表已读；综合发布页打开失败后改用原表。"
+      },
+      {
+        "name": "财政部",
+        "url": "https://zwgls.mof.gov.cn/ywgg/202611/t20261116_4004700.htm",
+        "status": "本期引用原文",
+        "note": "正式通知已读，区分落款、发布和操作时间。"
+      },
+      {
+        "name": "加州司法部",
+        "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
+        "status": "本期引用原文",
+        "note": "起诉公告已读；其风险主张明确为指控，非司法裁定。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/chatgpt-openai-hugging-face-ai-risk-1dd7be56134b4f09fb2fb974803edc69",
+        "status": "本期引用原文",
+        "note": "诉讼正文及公司回应已读；另读美股收盘报道，未重复另设新闻卡。"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/strengthening-online-child-safety/",
+        "status": "本期引用原文",
+        "note": "官方正文已读；产品效果为公司评估，非独立验证。"
+      },
+      {
+        "name": "Caltech IMSS",
+        "url": "https://www.imss.caltech.edu/news/m365-email-issue-12nov",
+        "status": "本期引用原文",
+        "note": "校园IT更新页已读，转述微软原因说明。"
+      },
+      {
+        "name": "英国议会",
+        "url": "https://commonsbusiness.parliament.uk/Document/109053/Pdf?subType=Standard",
+        "status": "本期引用原文",
+        "note": "公开声明稿已读，保留check against delivery性质。"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/brief/103442767.html",
+        "status": "本期引用原文",
+        "note": "今日07:44快讯完整可读，明确转述中证报的市场观察。"
+      },
+      {
+        "name": "韩联社",
+        "url": "https://en.yna.co.kr/view/AEN20261116002300320",
+        "status": "本期引用原文",
+        "note": "11月16日正文已读，作为前日产业背景。"
+      },
+      {
+        "name": "Bloomberg News／Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/artificial-intelligence/altman-says-ai-industry-will-be-fine-after-huangs-ouster",
+        "status": "本期引用·仅公开导语",
+        "note": "导语含现场引语和时间；后文订阅墙未读。Yahoo转载入口读取失败，不以其搜索结果代替全文。"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/tesla-announces-33-billion-expansion-germany-plant-2026-11-16/",
+        "status": "本轮实际检索·正文可读",
+        "note": "德国扩厂正文已读，日期为北京11月16日，未收；全球市场稿时间字段与收盘叙述存在疑点，不使用其精确行情。"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+        "status": "本期引用·时间核对",
+        "note": "正文可读，仅用于报道时间；产品摘要依据OpenAI原文。"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+        "status": "本轮实际检索·正文可读",
+        "note": "读到披露期调整，未确认精确北京时间，未收录今日栏。"
+      },
+      {
+        "name": "NYT／BBC／Economist",
+        "url": "https://www.nytimes.com",
+        "status": "本轮实际检索·受限",
+        "note": "三站已定向检索，工具返回robots限制，未取得正文。"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/technology/the-switch/",
+        "status": "本轮实际检索",
+        "note": "命中科技目录，未取得可用候选正文，不标已阅读全文。"
+      },
+      {
+        "name": "Guardian",
+        "url": "https://www.theguardian.com/technology/all",
+        "status": "本轮实际检索",
+        "note": "命中日期目录，微软线索转查机构原始材料；目录不作事实证据。"
+      },
+      {
+        "name": "FT／WSJ",
+        "url": "https://www.ft.com",
+        "status": "本轮实际检索",
+        "note": "综合与定向检索取得治理、上市、匿名政策线索；未读取合格正文，未引用。"
+      },
+      {
+        "name": "财新／界面",
+        "url": "https://finance.caixin.com/2026-11-17/102505548.html",
+        "status": "本轮实际检索",
+        "note": "财新早报目录、界面相关联合查询未形成合格当日引用；不声称全文可用。"
+      },
+      {
+        "name": "The Verge／Ars Technica",
+        "url": "https://www.theverge.com",
+        "status": "本轮实际检索",
+        "note": "联合科技查询未取得合格当日可用正文。"
+      },
+      {
+        "name": "Simon Willison／Benedict Evans／Stratechery／One Useful Thing",
+        "url": "https://simonwillison.net",
+        "status": "本轮实际检索",
+        "note": "已联合检索，无本期采用的新稿，不沿用昨日可用状态。"
+      },
+      {
+        "name": "Andrew Ng",
+        "url": "https://www.andrewng.org/writing",
+        "status": "本轮实际检索·正文受限",
+        "note": "本人目录可读，11月13日文章点击403。"
+      },
+      {
+        "name": "X/Twitter",
+        "url": "https://x.com/karpathy",
+        "status": "本轮实际检索",
+        "note": "定向搜索李飞飞、Karpathy、Hassabis及Musk等未取得可核实新原帖；不引用镜像。"
+      },
+      {
+        "name": "CNA／Nikkei／Rest of World／TechCabal／Al Jazeera／SCMP",
+        "url": "https://www.channelnewsasia.com",
+        "status": "本轮实际检索",
+        "note": "区域联合查询；Nikkei robots限制，Al Jazeera诉讼页可读但未引用，SCMP模型线索未取完整原文。"
+      },
+      {
+        "name": "新华财经／同花顺／金投／证券之星",
+        "url": "https://m.cnfin.com/yw-lb/zixun/20261116/4496086_1.html",
+        "status": "本轮实际检索·打开失败",
+        "note": "搜索有行情线索，候选原页DisabledError；转用澎湃、Choice可读正文。"
+      },
+      {
+        "name": "国务院／央行／证监会／发改委／交易所",
+        "url": "https://www.csrc.gov.cn",
+        "status": "本轮实际检索",
+        "note": "定向检索，未形成其他可核实重要新政策；不等于当日没有公告。"
+      },
+      {
+        "name": "Instagram／WIRED／MIT Technology Review／IEEE Spectrum／游戏葡萄／Import AI",
+        "url": "https://www.wired.com",
+        "status": "常规清单·本轮未逐站检查",
+        "note": "未检查不标成功，不能替代本期引用。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "匿名报道称AI国家冠军名单、黄仁勋回归",
+        "reason": "未得到可靠正式证据，不作为已确定政策或人事。"
+      },
+      {
+        "item": "米哈游、HoYoverse、Anuttacon及蔡浩宇/刘伟/罗宇皓",
+        "reason": "已实际检索，主要命中2025旧稿、4月人事和10月富豪榜，无合格当日新进展。"
+      },
+      {
+        "item": "Anthropic漏洞披露窗口调整",
+        "reason": "11月16日官方正文已读取；精确发布时间不明，聚合站快照和搜索记录不一致，本期不以今日新闻收录。"
+      },
+      {
+        "item": "Tesla德国扩厂",
+        "reason": "路透正文可读，报道北京时间11月16日22:17，非今日；本期背景限一条，不另凑数。"
+      },
+      {
+        "item": "行情摘要口径差异",
+        "reason": "21财经、同花顺部分页正文读取失败，涨跌家数与Wind口径不一致；最终仅采用已读澎湃/Wind与Choice，明确市场范围。"
+      },
+      {
+        "item": "吴恩达11月13日文章",
+        "reason": "本人目录可读，文章链接403，不凭标题编造观点。"
+      },
+      {
+        "item": "社交镜像及AI生成新闻汇总",
+        "reason": "仅可作查找线索，不用作本人发言或独立验证。"
+      }
+    ],
+    "researchPlan": [
+      "常规媒体清单：Reuters/AP/FT/WSJ/Bloomberg/NYT/Washington Post/BBC/Guardian/Economist；澎湃/财新/第一财经/界面及主流科技媒体与博客。",
+      "本轮流程：已读取main规则、两份manifest、11月16日两类归档及index.html；市场先行，五指数、量能、广度与官方数据交叉核对。",
+      "本轮实际检索：国际综合媒体、中文财经媒体、科技媒体、八人、游戏企业及区域产业材料；具体成功/失败/未读见下表，不沿用昨日状态。",
+      "市场区分正式公告、已公布数据及编辑情景；四栏以北京11月17日为窗口，少量前日产业背景明示原始日期。",
+      "后续验证：市场广度及成长承接、微软最终事故报告、AI诉讼后续法院程序、储能合同实际交付；不把计划或商业假设写成确定收入。"
+    ],
+    "regionalCoverage": {
+      "中国": "统计局、财政部、澎湃、第一财经与游戏相关检索。",
+      "北美": "AI安全、软件事故及人物公开报道。",
+      "欧洲": "英国议会材料、德国扩产报道已读，后者因日期未收。",
+      "东亚": "韩国通讯社储能案例；Nikkei检索受限。",
+      "东南亚南亚中东非洲拉美": "尝试CNA、Rest of World、TechCabal、Al Jazeera、SCMP等；未形成当地当日原始产业报道，全球覆盖不足。"
+    },
+    "commitPrivacy": "市场提交已复核，接口邮箱返回null，无法确认noreply；不修改权限或重写历史。"
+  }
+}
