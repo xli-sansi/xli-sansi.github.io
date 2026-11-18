@@ -1,0 +1,305 @@
+{
+  "date": "2026-11-18",
+  "updatedAt": "2026-11-18T08:21:16.224+08:00",
+  "news": [
+    {
+      "id": "20261118-nvidia-results",
+      "title": "英伟达季收入1158亿美元，增长与指引风险并存",
+      "body": "英伟达公布截至10月25日的2027财年第三季收入1158亿美元，同比增长103%；数据中心收入1076亿美元，同比增长110%。公司预计下一季收入1300亿美元、上下浮动3%，且未计入中国数据中心计算收入。",
+      "detail": "公告美国11月17日发布，预告披露时点为太平洋时间13:20，即北京时间11月18日05:20。收入是已报告业绩，下一季数字是管理层预测；下一季多一周，不能简单按环比解读需求。编辑观察：订单强劲仍需与交付、现金回款、出口规则共同看，不能直接推导A股供应链必然受益。",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "org": "NVIDIA财报原文",
+      "date": "北京时间2026-11-18；财季截至10月25日",
+      "archiveDate": "2026-11-18",
+      "kind": "事实·财报与公司预测",
+      "sources": [
+        {
+          "name": "财报发布时间安排",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+        }
+      ]
+    },
+    {
+      "id": "20261118-microsoft-models",
+      "title": "微软发布新编程模型，区分可用与预览",
+      "body": "微软在Ignite发布MAI-Code-2与Flash版本，分别面向复杂智能体编程和高频日常编码；官方称可在GitHub试用，Foundry中的Flash为有限访问预览。安全模型MAI-Cyber-2-Flash面向漏洞发现、验证与修复。",
+      "detail": "事件发生于旧金山11月17日，路透报道时间18:16 UTC对应北京时间18日02:16；能力与开放状态以已读取微软正文为准。安全模型将通过Codename MDASH提供，不能说已向所有人开放。厂商关于成本、性能的表述未经本刊独立评测；企业应以真实任务验证。",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/from-model-choice-to-your-durable-advantage-build-ai-that-keeps-improving/4573609",
+      "org": "微软官方；Reuters时间线",
+      "date": "美国2026-11-17／北京时间11月18日",
+      "archiveDate": "2026-11-18",
+      "kind": "事实·产品公告",
+      "sources": [
+        {
+          "name": "Reuters报道（检索可见，正文访问受限）",
+          "url": "https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "id": "20261118-model-evaluation",
+      "title": "机会假设：为中小团队做模型选型与回归评测",
+      "body": "新证据：微软本轮同时提供不同成本与能力的模型，并强调用企业自己的质量、延迟、任务成本和数据驻留要求评估。由此提出服务假设：帮助已有AI工作流的团队建立持续评测，而非只推荐某一模型。",
+      "detail": "潜在买方：有客服、合同整理或内部编码流程的小团队。交付可包括脱敏测试集、错误分类和成本报告。门槛是取得合法样本、设计可靠评分、识别模型升级后的退步；平台也可能把此服务内置。低成本验证：先找3家团队访谈，用20个授权真实任务比较两种方案，记录人工复核时间和失败率，再询问是否愿意付费。此为编辑假设，没有已验证收入或客户承诺。",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/from-model-choice-to-your-durable-advantage-build-ai-that-keeps-improving/4573609",
+      "org": "微软原文；三思而行分析",
+      "date": "依据北京时间2026-11-18发布进展",
+      "archiveDate": "2026-11-18",
+      "kind": "新证据·商业假设",
+      "sources": []
+    }
+  ],
+  "industry": [
+    {
+      "id": "20261118-packaging-background",
+      "title": "背景补充｜韩国基板与美国先进封装如何锁定产能",
+      "body": "原始公告11月17日：英伟达扩展与三星电机、Amkor等伙伴的供应承诺。韩国基板生产与美国亚利桑那、韩国先进封装是跨境芯片链的一部分；采购方为英伟达，下游服务AI计算平台。",
+      "detail": "链条：基板和晶圆→先进封装与测试→整机/云基础设施。公司公告称Amkor此前7月、10月协议合计近30亿美元并含预付款；这是旧协议背景，不是今天新增30亿美元。商业模式以长期采购和预付款支持资本开支，难点在良率、认证和投产周期；扩产计划不等于已经投产。中国比较：本轮没有取得可比工艺、良率与产能数据，不能声称国内没有该产业。因本栏未核实足量当天案例，末尾仅保留这1条明确日期的背景。",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+      "org": "NVIDIA供应链公告（企业口径）",
+      "date": "原始2026-11-17；北京时间首发时刻未确认",
+      "archiveDate": "2026-11-18",
+      "kind": "背景·产业链；非今日新闻",
+      "sources": []
+    }
+  ],
+  "views": [
+    {
+      "id": "20261118-huang-statement",
+      "title": "黄仁勋：若董事会认为合适，愿意回任",
+      "body": "西班牙《国家报》11月17日18:35 CET报道并嵌入黄仁勋当天声明：他表示，如果董事会认为符合相关各方利益，他愿意重返CEO职位，并承诺配合独立调查。此处是中文转述，不是已经回任的事实。",
+      "detail": "报道时间对应北京时间11月18日01:35；声明原始日期11月17日。本文只收录公开表态，不采纳报道中的未经独立核实指控。编辑解读：对芯片产业链应继续看管理交接与交付承诺，个人意愿不等于董事会决议，也不能据此推断订单变化。X原帖本轮403，证据为已读取的《国家报》正文和其嵌入声明，未声称直接读取X。",
+      "url": "https://english.elpais.com/economy-and-business/2026-11-17/jensen-huang-breaks-his-silence-after-nvidia-exit-says-he-is-open-to-returning.html",
+      "org": "EL PAÍS直接引述与嵌入声明",
+      "date": "声明2026-11-17；报道北京时间11月18日",
+      "archiveDate": "2026-11-18",
+      "kind": "本人表态·媒体直接引述",
+      "sources": [
+        {
+          "name": "声明原帖（本轮403）",
+          "url": "https://x.com/JensenHuang/status/2122726005219737649"
+        }
+      ]
+    }
+  ],
+  "audit": {
+    "counts": {
+      "news": 2,
+      "trends": 1,
+      "industry": 1,
+      "views": 1
+    },
+    "sectionNotes": {
+      "news": "本期2/10：正文、北京时间及重要性均可核实的条目有限。未用昨日新闻、搜索摘要或未读付费全文补足。",
+      "trends": "本期1/10：依据新发布进展提出可低成本验证的假设；没有已验证盈利承诺，不拆同一事件凑数。",
+      "industry": "本期1/10，且为明确日期的背景补充：未核实足量当天海外产业案例。扩产计划不当作投产，中国可比数据缺失。",
+      "views": "本期1/10：八位重点人物检索中，只保留本轮核实的新增表态。黄仁勋原帖访问受限，采用可靠媒体直接引述；其他线索旧、重复或缺原始证据，不代表本人没有发言。"
+    },
+    "sources": [
+      {
+        "name": "NVIDIA",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+        "status": "已读并引用",
+        "note": "备用HTTP读取财报、发布时间安排及供应链正文；财报用于新闻，供应链仅背景。"
+      },
+      {
+        "name": "Microsoft",
+        "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/from-model-choice-to-your-durable-advantage-build-ai-that-keeps-improving/4573609",
+        "status": "已读并引用",
+        "note": "直接读取官方正文；事实支持新闻与趋势分析，不视为独立性能评测。"
+      },
+      {
+        "name": "澎湃",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34491952",
+        "status": "已读并引用",
+        "note": "备用HTTP取得正文，市场观察采用其Wind广度与沪深成交口径。"
+      },
+      {
+        "name": "商务部",
+        "url": "https://www.mofcom.gov.cn/zcfb/gnmygl/art/2026/art_8d701b3fddbc403ca6ec3ede113ec0eb.html",
+        "status": "已读并引用",
+        "note": "市场观察政策；网页、元信息与落款日期分别注明。"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://cn.investing.com/indices/sse-star-50-historical-data",
+        "status": "已读并引用",
+        "note": "读取科创50、沪深300日表，交叉核对昨日收盘。"
+      },
+      {
+        "name": "EL PAÍS",
+        "url": "https://english.elpais.com/economy-and-business/2026-11-17/jensen-huang-breaks-his-silence-after-nvidia-exit-says-he-is-open-to-returning.html",
+        "status": "已读并引用",
+        "note": "取得正文及嵌入声明；人物观点仅中文转述公开表态。"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/",
+        "status": "已检索；全文读取受限",
+        "note": "发现微软及英伟达当日进展；直接HTTP401。微软报道时间用于时区校核，产品事实由官方原文支持。"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/",
+        "status": "已检索；未引用",
+        "note": "发现美股与英伟达线索，未取得本轮可用正文。"
+      },
+      {
+        "name": "FT",
+        "url": "https://www.ft.com/",
+        "status": "已检索；未引用",
+        "note": "发现AI专栏订阅入口，未读付费全文"
+      },
+      {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/",
+        "status": "已检索；未引用",
+        "note": "发现黄仁勋声明报道，未读付费全文"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/",
+        "status": "已检索；未引用",
+        "note": "定向搜索未取得合格正文"
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/",
+        "status": "已检索；未引用",
+        "note": "定向搜索未取得合格正文"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/",
+        "status": "已检索；未引用",
+        "note": "定向搜索未取得合格正文"
+      },
+      {
+        "name": "财新",
+        "url": "https://www.caixin.com/",
+        "status": "已检索；未引用",
+        "note": "定向搜索未取得当日可用正文"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/",
+        "status": "已检索；未引用",
+        "note": "检索返回首页内容，未采用为文章证据"
+      },
+      {
+        "name": "界面",
+        "url": "https://www.jiemian.com/",
+        "status": "已检索；未引用",
+        "note": "出现较早日期线索，未当今日新闻"
+      },
+      {
+        "name": "NYT",
+        "url": "https://www.nytimes.com/",
+        "status": "检索受限",
+        "note": "本轮报告robots限制，未读取全文。"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/",
+        "status": "检索受限",
+        "note": "本轮报告robots限制，未读取全文。"
+      },
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/",
+        "status": "检索受限",
+        "note": "本轮报告robots限制，未读取全文。"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/",
+        "status": "检索受限",
+        "note": "本轮报告robots限制，未读取全文。"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/",
+        "status": "已检索；读取失败",
+        "note": "定向文章备用HTTP403；不引用摘要。"
+      },
+      {
+        "name": "The Verge / Ars Technica",
+        "url": "https://www.theverge.com/",
+        "status": "已检索；未引用",
+        "note": "组合定向查询没有取得可用当日正文；不代表整站不可访问。"
+      },
+      {
+        "name": "CNA / Rest of World / TechCabal / SCMP / Al Jazeera",
+        "url": "https://www.channelnewsasia.com/",
+        "status": "已检索；未引用",
+        "note": "组合地区查询；CNA多为旧文或无关结果，Al Jazeera栏目有线索但未核实日期及原文，其余无合格引用。"
+      },
+      {
+        "name": "Simon Willison / Benedict Evans / Stratechery / One Useful Thing",
+        "url": "https://simonwillison.net/",
+        "status": "已检索；未引用",
+        "note": "组合博客查询；Simon返回月归档，Stratechery返回订阅内容，未采用旧帖或未读全文。"
+      },
+      {
+        "name": "Proton",
+        "url": "https://proton.me/blog/lumo-desktop-features",
+        "status": "已读；未引用",
+        "note": "正文及元数据核查完成，首发北京时间11月17日19:52，不因修改时间在今天而冒充新消息。"
+      },
+      {
+        "name": "X / Twitter",
+        "url": "https://x.com/JensenHuang/status/2122726005219737649",
+        "status": "403",
+        "note": "原帖未能直接读取；人物声明仅据EL PAÍS直接引述。"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/",
+        "status": "本轮未检查",
+        "note": "没有采用社交镜像。"
+      },
+      {
+        "name": "国务院／央行／证监会／财政部／发改委／统计局／交易所",
+        "url": "https://www.gov.cn/",
+        "status": "已定向检索；其他未引用",
+        "note": "除九部门回收意见外，尚未核实前夜至今晨其他重要新增正式事项；未把旧文件当新增政策。"
+      }
+    ],
+    "excluded": [
+      {
+        "item": "TechCrunch：Gemini留存、Proton桌面版、Pedestal AI等",
+        "reason": "检索发现；正文获取失败/403，不以摘要拼成报道。Proton原文另已读取，但11月17日19:52北京时间发布，不放今日新闻。"
+      },
+      {
+        "item": "英伟达供应链公告",
+        "reason": "仅有美国11月17日日期，未确认北京时间具体时刻，按背景收录；不计作当天新闻。"
+      },
+      {
+        "item": "FT专栏、WSJ黄仁勋报道",
+        "reason": "仅检索线索/订阅入口，未取得可用全文，不采用未读内容。"
+      },
+      {
+        "item": "其他七位重点人物与米哈游相关企业",
+        "reason": "定向检索未取得满足新颖性、主题和来源标准的足量条目；未以第三方镜像或旧闻补齐。"
+      },
+      {
+        "item": "各类间谍、调查及主力资金传言",
+        "reason": "未经本轮可靠证据完整核实，不作为事实或投资结论。"
+      }
+    ],
+    "researchPlan": [
+      "国际综合：Reuters、AP、FT、WSJ、Bloomberg、NYT、WaPo、BBC、Guardian、Economist",
+      "中文主流：澎湃、财新、第一财经、界面；官方与交易所",
+      "科技与博客：The Verge、Ars Technica、TechCrunch、Simon Willison、Benedict Evans、Stratechery、One Useful Thing",
+      "地区：CNA、Nikkei Asia、Rest of World、TechCabal、Al Jazeera、SCMP及当地一手资料",
+      "重点八人、米哈游／HoYoverse／Anuttacon与三位创始人；清单不等于实际读到原文"
+    ],
+    "regionalCoverage": {
+      "covered": "美国科技公告、中国A股及政策；西班牙媒体直接报道；韩国／美国供应链背景",
+      "gaps": "东南亚、中东、非洲检索有执行但无合格新增引用；南亚和拉美未完成充分覆盖。无地区配额，不声称完整全球覆盖。"
+    },
+    "commitPrivacy": "提交后核查实际GitHub提交元数据；不修改权限或重写历史。"
+  }
+}
